@@ -2,7 +2,7 @@
 
 *By Platanito22*  
 
-![Banner Image Suggestion: Show comparison of MW vs Carbon M3 GTR]  
+![Screenshots\7.jpg]  
 
 **⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md] 
 
