@@ -142,7 +142,7 @@ aunque si lo desean puedo realizar un mod aparte para ello.
 ❌ No Probado/No Confirmado:  
 
 - Mods Ultimate/CBR/Endgame  
-- [Shiftpattern port from mw to carbon](https://nfsmods.xyz/mod/6237)  
+- [NFSC: MW'05 shiftpattern/ShiftSND Port](https://nfsmods.xyz/mod/6237)  
 
 ---
 
