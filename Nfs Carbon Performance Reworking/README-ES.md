@@ -123,7 +123,7 @@ se volvía insoportable o solo se vuelve un poco más complicado y mi conclusió
 la ia de los jefes).
 
 Otra cosa es que al ver performance port de MW pensaras, podrá ser usado con el mod NFSC: MW'05 shiftpattern/ShiftSND Port https://nfsmods.xyz/mod/6237?, pues
-eso no lo sé con certeza porque el mod lo hice incluso mucho antes de ta yo siquiera saber de la existencia de ese mod.
+eso no lo sé con certeza porque el mod lo hice incluso mucho antes de tan yo siquiera saber de la existencia de ese mod.
 
 Este mod es compatible por ahora con el improvement mod v2: https://nfsmods.xyz/mod/855, no lo he probado con otros como ultimate, cbr o endgame,
 pero no creo que sea totalmente incompatible con esos mods al ser una mejora de rendimiento de los autos y no tocar nada del gameplay de esos mods.
