@@ -42,6 +42,17 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ---
 
+## 📷Comparatives
+
+![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/1.png)  
+![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/2.png)  
+![Screenshots\3.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/3.png)  
+![Screenshots\4.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/4.png)  
+![Screenshots\8.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/8.png)  
+![Screenshots\9.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/9.png)
+
+---
+
 ## ⚙️ Installation  
 
 There are several options for VlTed and OVGI:
