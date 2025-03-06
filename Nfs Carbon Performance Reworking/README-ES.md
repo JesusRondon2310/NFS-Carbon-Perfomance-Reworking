@@ -122,7 +122,7 @@ pero es más que todo, al inicio ya después todo será más "relajado", pues ya
 se volvía insoportable o solo se vuelve un poco más complicado y mi conclusión fue que es 'pasable', el juego no se vuelve injugable (hablo de la ia y
 la ia de los jefes).
 
-Otra cosa es que al ver performance port de MW pensaras, podrá ser usado con el mod de shiftpattern port from mw to carbon https://nfsmods.xyz/mod/6237?, pues
+Otra cosa es que al ver performance port de MW pensaras, podrá ser usado con el mod NFSC: MW'05 shiftpattern/ShiftSND Port https://nfsmods.xyz/mod/6237?, pues
 eso no lo sé con certeza porque el mod lo hice incluso mucho antes de ta yo siquiera saber de la existencia de ese mod.
 
 Este mod es compatible por ahora con el improvement mod v2: https://nfsmods.xyz/mod/855, no lo he probado con otros como ultimate, cbr o endgame,
