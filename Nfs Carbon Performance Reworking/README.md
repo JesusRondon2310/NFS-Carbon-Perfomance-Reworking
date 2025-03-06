@@ -142,7 +142,7 @@ although if you want I can make a separate mod for that.
 ❌ Untested/Unconfirmed:  
 
 - Ultimate/CBR/Endgame Mods  
-- [MW Shift Pattern Mod](https://nfsmods.xyz/mod/6237)  
+- [NFSC: MW'05 shiftpattern/ShiftSND Port](https://nfsmods.xyz/mod/6237)  
 
 ---
 
