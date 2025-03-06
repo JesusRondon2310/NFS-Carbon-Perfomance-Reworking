@@ -93,14 +93,16 @@ pero no está roto. -->
 ## CAMBIOS EN NODOS
 
 - Brakes
+- Caraudio
 - Chassis
 - Ecar
 - Engine
+- Engineaudio
 - Frontend
 - Induction
 - Pvehicle
 - Presetride
-- Shiftpattern (solo para el bmw m3 gtr)
+- Shiftpattern (only for bmw m3 gtr)
 - Tires
 - Transmission
 
