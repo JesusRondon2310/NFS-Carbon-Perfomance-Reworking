@@ -580,7 +580,7 @@ but it's more than anything, at the beginning and then everything will be more "
 became unbearable or just becomes a little more complicated and my conclusion was that it is 'passable', the game does not become unplayable (I'm talking about the AI ​​and
 the AI ​​of the bosses).
 
-Another thing is that when you see the performance port of MW you will think, can it be used with the shiftpattern port mod from mw to carbon https://nfsmods.xyz/mod/6237?, well
+Another thing is that when you see the performance port of MW you will think, can it be used with the NFSC: MW'05 shiftpattern/ShiftSND Port https://nfsmods.xyz/mod/6237?, well
 that I don't know for sure because I made the mod long before I even knew about the existence of that mod.
 
 This mod is currently compatible with the Improvement Mod v2: https://nfsmods.xyz/mod/855, I haven't tried it with other mods like Ultimate, CBR or Endgame,
