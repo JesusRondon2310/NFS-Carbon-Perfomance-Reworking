@@ -2,7 +2,7 @@
 
 *By Platanito22*  
 
-![Screenshots\7.jpg]  
+![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/7.png)]  
 
 **⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md] 
 
