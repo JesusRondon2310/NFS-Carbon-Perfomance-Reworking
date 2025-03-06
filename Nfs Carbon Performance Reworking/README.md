@@ -93,9 +93,11 @@ but it is not broken. -->
 ## NODE CHANGES
 
 - Brakes
+- Caraudio
 - Chassis
 - Ecar
 - Engine
+- Engineaudio
 - Frontend
 - Induction
 - Pvehicle
