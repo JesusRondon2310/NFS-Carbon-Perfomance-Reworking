@@ -66,8 +66,7 @@ to play the game I put them there in case you want to try them :)
 ### Steps  
 
 **Choose Installation Method**:
-- Full Package: With ovgi or vlted, go to File, then import, select ModScript option and select the `all in 1.nfsms` file,
-after that a box will appear with the `install` button, when finished go back to `File` and press `Save` and that's it!
+- Full Package: With ovgi or vlted, go to `File`, then `Import`, select `ModScript` option and select the `all in 1.nfsms` file, after that a box will appear with the `install` button, when finished go back to `File` and press `Save` and that's it!
 
 - Manual Selection: Individual `.nfsms` files per car
 
