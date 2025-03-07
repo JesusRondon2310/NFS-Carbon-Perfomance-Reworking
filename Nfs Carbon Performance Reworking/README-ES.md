@@ -80,7 +80,7 @@ personalmente. Lo pongo por si quieren probarlas :)
 
 Para los interesados en saber más:
 
-<!-- Bien, Hablando del apartado de [Funcionamiento "Realista" De Turbos y Supercargadores] pues si como en los turbos en la vida real este mod
+Bien, Hablando del apartado de [Funcionamiento "Realista" De Turbos y Supercargadores] pues si como en los turbos en la vida real este mod
 viene a replicarlos trayendo consigo el famoso y tenebroso [Turbo-Lag], pero no es tanto como te lo estás imaginando, ósea, no tarda 5 días hábiles
 en cargar el turbo como si pasa en la vida real, es más gameplay friendly, ósea el efecto final que quería lograr trayendo el turbo lag no es el tiempo
 que se toma en cargar el turbo si no la patada que da el turbo al estar al 100% de funcionamiento, si quieres saber de qué me guie para replicarlo 
@@ -88,7 +88,7 @@ aquí te dejo un link a un video de YouTube de un dyno con métricas [https://yo
 el video, el funcionamiento del turbo lag es similar con este mod, el turbo se activa a cierto régimen de revoluciones (cada auto tiene uno propio)
 y la patada del turbo es notoria cuando llega al 100% de uso, puede ver el funcionamiento con un hud de https://nfsmods.xyz/mod/1903 o usar
 el que yo ocupo https://nfsmods.xyz/mod/6169, pero es eso a lo que me refiero con turbo lag y por si quieres saber el Supercharger no tiene turbolag,
-pero no está roto. -->
+pero no está roto.
 
 ## CAMBIOS EN NODOS
 
@@ -130,31 +130,30 @@ eso no lo sé con certeza porque el mod lo hice incluso mucho antes de tan yo si
 Este mod es compatible por ahora con el improvement mod v2: https://nfsmods.xyz/mod/855, no lo he probado con otros como ultimate, cbr o endgame,
 pero no creo que sea totalmente incompatible con esos mods al ser una mejora de rendimiento de los autos y no tocar nada del gameplay de esos mods.
 
-Por último, este mod SOLO MODIFICA LOS AUTOS DEL JUEGO VANILLA, este mod no le hace un buff al rendimiento de los autos add-ons de Improvement mod
-aunque si lo desean puedo realizar un mod aparte para ello. 
+Por último, este mod SOLO MODIFICA LOS AUTOS EN EL JUEGO VANILLA, tenlo en cuenta.
 
 ---
 
-### Compatibilidad  
+### Compatibilidad
 
-✅ Funciona Confirmado Con:  
+✅ Confirmado que funciona con:
 
-- [Improvement Mod v2](https://nfsmods.xyz/mod/855)  
+- [Improvement Mod v2](https://nfsmods.xyz/mod/855)
 
-❌ No Probado/No Confirmado:  
+❌ No probado/Sin confirmar:
 
-- Mods Ultimate/CBR/Endgame  
-- [NFSC: MW'05 shiftpattern/ShiftSND Port](https://nfsmods.xyz/mod/6237)  
+- Ultimate/CBR/Endgame Mods
+- [NFSC: MW'05 shiftpattern/ShiftSND Port](https://nfsmods.xyz/mod/6237)
 
 ---
 
-## ❓ Preguntas Frecuentes  
+## ❓ Preguntas frecuentes
 
-P: ¿Actualizarás este mod?  
-R: Solo para bugs. Considéralo completo en características.  
+P: ¿Actualizarán este mod?
+R: Solo para corregir bugs. Considérelo completo en cuanto a funciones.
 
-P: ¿Puedes hacer versión para autos de Improvement Mod?  
-R: Posiblemente  
+P: ¿Este mod mejora el rendimiento de los autos adicionales del Improvement Mod?
+R: No, aunque si quieres puedo hacer un mod aparte para eso.
 
 ---
 
