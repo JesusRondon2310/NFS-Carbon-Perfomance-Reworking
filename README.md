@@ -93,7 +93,7 @@ after that a box will appear with the `install` button, when finished go back to
 
 For those interested in knowing more:
 
-Well, speaking of the ["Realistic" Turbo and Supercharger Operation] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag],
+Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag],
 but it is not as much as you are imagining, that is, it does not take 5 business days to charge the turbo as it happens in real life, it is more gameplay friendly, that is, the final effect
 that I wanted to achieve by bringing the turbo lag is not the time it takes to charge the turbo but the kick that the turbo gives when it is at 100% operation, if you want to know what I was guided
 by to replicate it here I leave you a link to a youtube video of a dyno with metrics `https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB`, as you could see if you saw the video the operation of the turbo lag
