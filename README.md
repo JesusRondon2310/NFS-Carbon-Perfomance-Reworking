@@ -39,7 +39,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 - **Vehicle Reworks**:  
   - Complete overhauls (e.g., Alfa Romeo Brera)  
   - Buff/Nerf adjustments (e.g., Murciélago: 396kph → 390kph)   
-
+  - Ride height adjustments
 ---
 
 ## 📷Comparatives
@@ -598,6 +598,8 @@ that I don't know for sure because I made the mod long before I even knew about 
 
 This mod is currently compatible with the Improvement Mod v2: https://nfsmods.xyz/mod/855, I haven't tried it with other mods like Ultimate, CBR or Endgame,
 but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
+
+The mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars.
 
 Finally, this mod ONLY MODIFIES THE CARS IN THE VANILLA GAME, keep that in mind.
 
