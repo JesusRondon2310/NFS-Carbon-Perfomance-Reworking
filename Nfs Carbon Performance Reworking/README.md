@@ -82,13 +82,13 @@ after that a box will appear with the `install` button, when finished go back to
 
 For those interested in knowing more:
 
-<!-- Well, speaking of the ["Realistic" Turbo and Supercharger Operation] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag],
+Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag],
 but it is not as much as you are imagining, that is, it does not take 5 business days to charge the turbo as it happens in real life, it is more gameplay friendly, that is, the final effect
 that I wanted to achieve by bringing the turbo lag is not the time it takes to charge the turbo but the kick that the turbo gives when it is at 100% operation, if you want to know what I was guided
 by to replicate it here I leave you a link to a youtube video of a dyno with metrics `https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB`, as you could see if you saw the video the operation of the turbo lag
 is similar with this mod, the turbo is activated at a certain rpm (each car has its own) and the turbo kick is noticeable when it reaches 100% use, you can see the operation
 with a hud from `https://nfsmods.xyz/mod/1903` or use the one I use `https://nfsmods.xyz/mod/6169`, but that is what I mean by turbo lag and in case you want to know the Supercharger does not have turbo lag,
-but it is not broken. -->
+but it is not broken.
 
 ## NODE CHANGES
 
@@ -130,8 +130,7 @@ that I don't know for sure because I made the mod long before I even knew about 
 This mod is currently compatible with the Improvement Mod v2: https://nfsmods.xyz/mod/855, I haven't tried it with other mods like Ultimate, CBR or Endgame,
 but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
 
-Finally, this mod ONLY MODIFIES THE CARS IN THE VANILLA GAME, this mod doesn't buff the performance of the Improvement Mod add-on cars
-although if you want I can make a separate mod for that.
+Finally, this mod ONLY MODIFIES THE CARS IN THE VANILLA GAME, keep that in mind.
 
 ---
 
@@ -153,8 +152,8 @@ although if you want I can make a separate mod for that.
 Q: Will you update this mod?
 A: Just for bugs. Consider it feature complete.
 
-Q: Can you make car version of Improvement Mod?
-A: Possibly  
+Q: This mod buff the performance of the Improvement Mod add-on cars?
+A: No, although if you want I can make a separate mod for that.    
 
 ---
 
