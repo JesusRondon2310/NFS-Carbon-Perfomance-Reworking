@@ -46,8 +46,8 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/1.png)  
 ![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/2.png)  
-![Screenshots\3.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/3.png)  
 ![Screenshots\4.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/4.png)  
+![Screenshots\3.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/3.png)  
 ![Screenshots\8.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/8.png)  
 ![Screenshots\9.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/9.png)
 
@@ -93,13 +93,13 @@ after that a box will appear with the `install` button, when finished go back to
 
 For those interested in knowing more:
 
-<!-- Well, speaking of the ["Realistic" Turbo and Supercharger Operation] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag],
+Well, speaking of the ["Realistic" Turbo and Supercharger Operation] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag],
 but it is not as much as you are imagining, that is, it does not take 5 business days to charge the turbo as it happens in real life, it is more gameplay friendly, that is, the final effect
 that I wanted to achieve by bringing the turbo lag is not the time it takes to charge the turbo but the kick that the turbo gives when it is at 100% operation, if you want to know what I was guided
 by to replicate it here I leave you a link to a youtube video of a dyno with metrics `https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB`, as you could see if you saw the video the operation of the turbo lag
 is similar with this mod, the turbo is activated at a certain rpm (each car has its own) and the turbo kick is noticeable when it reaches 100% use, you can see the operation
 with a hud from `https://nfsmods.xyz/mod/1903` or use the one I use `https://nfsmods.xyz/mod/6169`, but that is what I mean by turbo lag and in case you want to know the Supercharger does not have turbo lag,
-but it is not broken. -->
+but it is not broken.
 
 ## NODE CHANGES
 
