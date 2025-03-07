@@ -26,7 +26,8 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 ### 🏎️ Core Improvements  
 
 - **Performance Improvements**:
-- Acceleration and top speeds ported from Most Wanted (M3 GTR: 322kph → 389kph)
+  - Acceleration and top speeds ported from Most Wanted (M3 GTR: 322kph → 389kph)
+  - Enhanced & lighter car handling
 - Some car Tiers rejigged
 - Price changes (in order to accommodate cars)
 - Fixed wheel alignment and some bodykit issues
