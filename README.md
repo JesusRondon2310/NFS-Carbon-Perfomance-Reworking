@@ -599,8 +599,7 @@ that I don't know for sure because I made the mod long before I even knew about 
 This mod is currently compatible with the Improvement Mod v2: https://nfsmods.xyz/mod/855, I haven't tried it with other mods like Ultimate, CBR or Endgame,
 but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
 
-Finally, this mod ONLY MODIFIES THE CARS IN THE VANILLA GAME, this mod doesn't buff the performance of the Improvement Mod add-on cars
-although if you want I can make a separate mod for that.
+Finally, this mod ONLY MODIFIES THE CARS IN THE VANILLA GAME, keep that in mind.
 
 ---
 
@@ -622,8 +621,8 @@ although if you want I can make a separate mod for that.
 Q: Will you update this mod?
 A: Just for bugs. Consider it feature complete.
 
-Q: Can you make car version of Improvement Mod?
-A: Possibly  
+Q: This mod buff the performance of the Improvement Mod add-on cars?
+A: No, although if you want I can make a separate mod for that.  
 
 ---
 
