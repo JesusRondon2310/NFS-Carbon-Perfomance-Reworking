@@ -4,7 +4,9 @@
 
 ![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/7.png)  
 
-**⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/README-ES.md) 
+**⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/README-ES.md)
+
+**⚠️ NOTE:** Changelog of the current version available in [Changelog.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/README-ES.md) 
 
 ---
 
@@ -67,7 +69,13 @@ improvement mod.
 3. And finally there is a folder that says Optionals that are just added and another that says Better Cameras which is the camera configuration that I use
 to play the game I put them there in case you want to try them :)
 
-### Requirements  
+### Added Rev 1.0
+
+1. A `.nfsms` called updates has been added, in this script all the updates I make will go; The individual `.nfsms` already bring with them the integrated changes, I have done it this way so as not to saturate the main file.
+
+2. In the `Optionals` folder, the option to max the preset cars of the bosses and also their companions was added, as well as the option to max the presets of the cars of the challenge series.
+
+### 📋 Requirements  
 
 - Need for Speed Carbon (v1.4 recommended)  
 - Modding Tools:  
@@ -75,13 +83,16 @@ to play the game I put them there in case you want to try them :)
   - [OVGI](https://nfsmods.xyz/mod/5290)
   - [Binary](https://nfsmods.xyz/mod/1638)  
 
-### Steps  
+### 👣 Steps  
 
 **Choose Installation Method**:
+
 - Full Package: With ovgi or vlted, go to File, then import, select ModScript option and select the `all in 1.nfsms` file,
 after that a box will appear with the `install` button, when finished go back to `File` and press `Save` and that's it!
 
-- Manual Selection: Individual `.nfsms` files per car
+- Manual Selection: Individual `.nfsms` files per car.
+
+- Updates: It is installed with the `Full Package`; After installing `all in 1.nfsms` you must install `Updates.nfsms` to have the most updated version of the mod.
 
 ### 🎨 Optional Add-ons
 
@@ -102,7 +113,7 @@ is similar with this mod, the turbo is activated at a certain rpm (each car has 
 with a hud from `https://nfsmods.xyz/mod/1903` or use the one I use `https://nfsmods.xyz/mod/6169`, but that is what I mean by turbo lag and in case you want to know the Supercharger does not have turbo lag,
 but it is not broken.
 
-## NODE CHANGES
+## 🔄 NODE CHANGES
 
 - Brakes
 - Caraudio
@@ -125,12 +136,27 @@ but it is not broken.
 ### Modified Files  
 
 ```text
-📦Nfs Carbon Performance Reworking
+📦Need for Speed Carbon Performance Reworking
  ┣ 📂Optionals
  ┃ ┣ 📂Better Cameras
  ┃ ┃ ┗ 📜CAMERAS_REVAMP.nfsms
+ ┃ ┣ 📂PresetRides
+ ┃ ┃ ┣ 📜Bosses.nfsms
+ ┃ ┃ ┗ 📜Challenge Series Presets.nfsms
+ ┃ ┣ 📂Recolor
+ ┃ ┃ ┣ 📂Recolors
+ ┃ ┃ ┃ ┣ 📜CARRERAGT.bin
+ ┃ ┃ ┃ ┣ 📜CCX.bin
+ ┃ ┃ ┃ ┣ 📜install_binary.end
+ ┃ ┃ ┃ ┣ 📜LANCEREVO9.bin
+ ┃ ┃ ┃ ┣ 📜RX7.bin
+ ┃ ┃ ┃ ┣ 📜SKYLINE.bin
+ ┃ ┃ ┃ ┣ 📜SUPRA.bin
+ ┃ ┃ ┃ ┗ 📜VIPER.bin
+ ┃ ┃ ┗ 📜install.end
+ ┃ ┣ 📜Reprecing.nfsms
  ┃ ┗ 📜Unlock Bonus cars.nfsms
- ┗ 📂Reworking
+ ┣ 📂Reworking
  ┃ ┣ 📂Improvement mod
  ┃ ┃ ┣ 📂ovgi
  ┃ ┃ ┃ ┣ 📂Carbon Cars
@@ -146,8 +172,6 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂brera
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂camaro concept
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂ccx
@@ -166,14 +190,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂corolla
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂corvette z06 mw
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂europa s
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂evo9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂ford gt
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂g35
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gt3 rs (997)
@@ -196,13 +220,15 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂sl65
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂slr
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂zonda
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
  ┃ ┃ ┃ ┣ 📂Most Wanted Cars
  ┃ ┃ ┃ ┃ ┣ 📂bmw m3 gtr mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂camaro 65
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂carrera gt mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Cayman s
@@ -211,14 +237,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂clk500
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂corvette z06 mw
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂db9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse gt
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂elise
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂ford gt
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gallardo mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Gto mw
@@ -235,13 +261,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂rx8 mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂slr
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂supra mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂viper
  ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┗ 📜all in 1.nfsms
+ ┃ ┃ ┃ ┣ 📜all in 1.nfsms
+ ┃ ┃ ┃ ┗ 📜Updates (vanilla- ovgi).nfsms
  ┃ ┃ ┗ 📂Vlted
  ┃ ┃ ┃ ┣ 📂Carbon Cars
  ┃ ┃ ┃ ┃ ┣ 📂240sx
@@ -256,8 +283,6 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂brera
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂camaro concept
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂ccx
@@ -276,14 +301,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂corolla
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂corvette z06 mw
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂europa s
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂evo9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂ford gt
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂g35
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gt3 rs (997)
@@ -306,13 +331,15 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂sl65
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂slr
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂zonda
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
  ┃ ┃ ┃ ┣ 📂Most Wanted Cars
  ┃ ┃ ┃ ┃ ┣ 📂bmw m3 gtr mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂camaro 65
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂carrera gt mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Cayman s
@@ -321,14 +348,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂clk500
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂corvette z06 mw
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂db9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse gt
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂elise
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂ford gt
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gallardo mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Gto mw
@@ -345,13 +372,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂rx8 mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂slr
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂supra mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂viper
  ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┗ 📜all in 1.nfsms
+ ┃ ┃ ┃ ┣ 📜all in 1.nfsms
+ ┃ ┃ ┃ ┗ 📜Updates (vanilla- vlted).nfsms
  ┃ ┗ 📂vanilla
  ┃ ┃ ┣ 📂ovgi
  ┃ ┃ ┃ ┣ 📂Carbon Cars
@@ -367,8 +395,6 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂brera
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂camaro concept
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂ccx
@@ -387,14 +413,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂corolla
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂corvette z06 mw
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂europa s
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂evo9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂ford gt
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂g35
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gt3 rs (997)
@@ -417,13 +443,15 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂sl65
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂slr
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂zonda
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
  ┃ ┃ ┃ ┣ 📂Most Wanted Cars
  ┃ ┃ ┃ ┃ ┣ 📂bmw m3 gtr mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂camaro 65
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂carrera gt mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Cayman s
@@ -432,14 +460,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂clk500
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂corvette z06 mw
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂db9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse gt
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂elise
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂ford gt
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gallardo mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Gto mw
@@ -456,13 +484,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂rx8 mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂slr
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂supra mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂viper
  ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┗ 📜all in 1 (ovgi).nfsms
+ ┃ ┃ ┃ ┣ 📜all in 1 (ovgi).nfsms
+ ┃ ┃ ┃ ┗ 📜Updates (vanilla- ovgi).nfsms
  ┃ ┃ ┗ 📂vlted
  ┃ ┃ ┃ ┣ 📂Carbon Cars
  ┃ ┃ ┃ ┃ ┣ 📂240sx
@@ -477,8 +506,6 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂brera
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂camaro concept
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂CCX
@@ -497,14 +524,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂corolla
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂corvette z06
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂europa s
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂evo9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂ford gt
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂g35
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gt3 rs (997)
@@ -527,13 +554,15 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂sl65
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂slr
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂zonda
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
  ┃ ┃ ┃ ┣ 📂Most Wanted Cars
  ┃ ┃ ┃ ┃ ┣ 📂bmw m3 gtr mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂camaro 65
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂carrera gt mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Cayman s
@@ -542,14 +571,14 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂clk500
  ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂corvette z06 mw
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂db9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂eclipse gt
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂elise
  ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂ford gt
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂gallardo mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Gto mw
@@ -566,17 +595,21 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂rx8 mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂subaru impreza wrx carbon
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂slr
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂supra mw
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂viper
  ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┗ 📜all in 1 (vlted).nfsms
+ ┃ ┃ ┃ ┣ 📜all in 1 (vlted).nfsms
+ ┃ ┃ ┃ ┗ 📜Updates (vanilla- vlted).nfsms
+ ┣ 📜ChangeLog.md
+ ┣ 📜README-ES.md
+ ┗ 📜README.md
 ```
 ---
 
-### Distribution Policy  
+### ⛔ Distribution Policy
 
 This mod has no distribution conditions. You are free to do whatever you want with it, but if you plan to use it as a base or in mod packs, you must give credit:
 'Example: Based on Platanito22's mod [Nfs Carbon Performance Reworking], Modified by (your name)'
@@ -600,13 +633,13 @@ that I don't know for sure because I made the mod long before I even knew about 
 This mod is currently compatible with the Improvement Mod v2: https://nfsmods.xyz/mod/855, I haven't tried it with other mods like Ultimate, CBR or Endgame,
 but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
 
-The mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars.
+The mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars. (I forgot to mention it before).
 
 Finally, this mod ONLY MODIFIES THE CARS IN THE VANILLA GAME, keep that in mind.
 
 ---
 
-### Compatibility  
+### 🔎 Compatibility   
 
 ✅ Confirmed Working With:  
 
