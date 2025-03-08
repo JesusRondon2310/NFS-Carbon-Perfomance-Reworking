@@ -4,7 +4,7 @@
 
 ![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/11.png)  
 
-**⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md]([https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/edit/main/Documentation/README-ES.md))
+**⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/README-ES.md)
 
 **⚠️ NOTE:** Changelog of the current version available in [Changelog.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/ChangeLog.md) 
 
