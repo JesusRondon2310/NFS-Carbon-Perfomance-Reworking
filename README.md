@@ -2,11 +2,11 @@
 
 *By Platanito22*  
 
-![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/7.png)  
+![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/11.png)  
 
-**⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/README-ES.md)
+**⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md]([https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/edit/main/Documentation/README-ES.md))
 
-**⚠️ NOTE:** Changelog of the current version available in [Changelog.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/README-ES.md) 
+**⚠️ NOTE:** Changelog of the current version available in [Changelog.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/ChangeLog.md) 
 
 ---
 
@@ -47,12 +47,12 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ## 📷Comparatives
 
-![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/1.png)  
-![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/2.png)  
-![Screenshots\4.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/4.png)  
-![Screenshots\3.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/3.png)  
-![Screenshots\8.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/8.png)  
-![Screenshots\9.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Nfs%20Carbon%20Performance%20Reworking/Screenshots/9.png)
+![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.png)  
+![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.png)  
+![Screenshots\6.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/6.png)  
+![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/7.png)  
+![Screenshots\8.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/8.png)  
+![Screenshots\9.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/9.png)
 
 ---
 
