@@ -1,5 +1,3 @@
-﻿Aqui va la mayoria de cosas que ya he comentado en la pagina del mod, asi que no te molestes en leerlo :)
-
 (Pasos de instalacion abajo)
 
 Hey, como va todo? Aqui Platanito22 con un mod fenomenal
