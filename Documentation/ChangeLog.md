@@ -1,4 +1,81 @@
-﻿# 🧾 [Rev 1.0 Changelog] - 2025-03-08
+# 🧾 [Rev 1.1 Changelog] - 2025-03-09
+
+The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on the `Improvement Mod V2` version
+
+## ⚖️ Balance changes
+
+### Porsche GT3 RS
+
+- `+` Small handling buff
+
+### Audi LeMans
+
+- `+` Small handling buff
+- `+` Increased turbo actuation regime
+
+### Nissan Skyline R34
+
+- `=` Small handling balance
+
+## 🔄 Changed
+
+- `>` Renamed the `Updates.nfsms` script which had an incorrect name, moved from `Updates(x - vanilla) -> Updates(x - improvement mod)`
+- `>` Renamed all files and folders for a more intuitive search
+- `>` Now the Lamborghini Murcielago LP640 has its own `.nfsms` individual script
+
+## 🔧 Fixed
+
+- Fix more bodykits modified and/or fixed for improvement mod & vanilla
+  - Chrysler 300C (Rev 1.1)
+  - Mercedes CLK500 (Rev 1.1)
+  - Vauxhall Monaro (From Rev 1.0)
+  - Lotus Europa S (From Initial Release Fix)
+  - Lotus Elise (From Rev 1.0)
+  - Mazda RX7 (From Rev 1.0)
+  - Clio (Rev 1.1)
+  - Dodge Charger SRT8 (From Rev 1.0)
+  - Porsche Cayman S (From Rev 1.0)
+  - Dodge Challenger 1971 (From Rev 1.0)
+  - Dodge Charger 1969 (From Rev 1.0)
+  - Nissan 350Z (Rev 1.1)
+  - Infiniti G35 (From Rev 1.0)
+  - Subaru Impreza Wrx Sti (From Rev 1.0)
+  - Toyota MR2 (Rev 1.1)
+  - Toyota Corolla (Rev 1.1)
+  - Ford GT (Rev 1.1)
+  - Dodge Viper (Rev 1.1)
+  - Dodge Challenger (Rev 1.1)
+  - Plymouth Roadrunner (Rev 1.1)
+  - Pontiac GTO (Rev 1.1)
+  - Lexus IS300 (Rev 1.1)
+- Bug fix with Mazda RX7 which was not affected by the previous balance change
+- Bug fixes with the BMW M3 GTR (Cross Chase version) which did not have nitrous.
+
+### Vlted
+
+- Bug fix when installing the Lotus Europa S `.nfsms`
+- Bug fix when installing the Infiniti G35 `.nfsms`
+- Bug fix when installing the BMW M3 GTR `.nfsms`
+- Bug fix when installing the Pontiac GTO `.nfsms`
+- Bug fix when installing the Plymouth Roadrunner `.nfsms`
+- Bug fix when installing the Lamborghini Murcielago LP640 `.nfsms`
+- Bug fix when installing the `Updates.nfsms`
+
+### OVGI
+
+- Bug fix when installing the Lotus Europa S `.nfsms`
+- Bug fix when installing the Infiniti G35 `.nfsms`
+- Bug fix when installing the BMW M3 GTR `.nfsms`
+- Bug fix when installing the Lamborghini Murcielago LP640 `.nfsms`
+- Bug fix when installing the `Updates.nfsms`
+
+## ✏️ NOTES
+
+I tried to fix the bodykits in 2 separate updates because as you know, the `Improvement Mod V2` has different bodykits compared to the vanilla one and I had to check which of them were the same as the vanilla version and which ones the `Improvement Mod V2` changed.
+
+---
+
+ # 🧾 [Rev 1.0 Changelog] - 2025-03-08
 
 `Rev 1.0` brings with it many changes to cars that were unbalanced (e.g. the Lamborghini Murcielago LP640), fixes to quite a few bodykits and several bug fixes with individual scripts and bugs with some cars and added some new functionality in the options folder.
 
