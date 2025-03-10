@@ -660,6 +660,9 @@ A: Just for bugs. Consider it feature complete.
 Q: This mod buff the performance of the Improvement Mod add-on cars?
 A: No, although if you want I can make a separate mod for that.  
 
+Q: Is it normal that when installing the Audi Lemans or M3 GTR mod I get an error?
+A: Yes, it's completely normal, don't be alarmed if you see something like `delete_node bmwm3gtre46_top` or something like that.
+
 ---
 
 "Thanks for downloading! If you find any bugs, report it."
