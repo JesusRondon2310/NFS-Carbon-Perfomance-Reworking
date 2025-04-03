@@ -147,18 +147,65 @@ but it is not broken.
  ┃ ┃ ┣ 📂Recolors
  ┃ ┃ ┃ ┣ 📜CARRERAGT.bin
  ┃ ┃ ┃ ┣ 📜CCX.bin
- ┃ ┃ ┃ ┣ 📜install_binary.end
  ┃ ┃ ┃ ┣ 📜LANCEREVO9.bin
  ┃ ┃ ┃ ┣ 📜RX7.bin
  ┃ ┃ ┃ ┣ 📜SKYLINE.bin
  ┃ ┃ ┃ ┣ 📜SUPRA.bin
- ┃ ┃ ┃ ┗ 📜VIPER.bin
+ ┃ ┃ ┃ ┣ 📜VIPER.bin
+ ┃ ┃ ┃ ┗ 📜install_binary.end
  ┃ ┃ ┗ 📜install.end
  ┃ ┣ 📜Reprecing.nfsms
  ┃ ┗ 📜Unlock Bonus cars.nfsms
  ┣ 📂Reworking
  ┃ ┣ 📂Improvement Mod V2
  ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┣ 📂Add-Ons Cars
+ ┃ ┃ ┃ ┃ ┣ 📂Audi A3
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Audi A4
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A4.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Audi R8
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_R8.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Audi TT
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_TT.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Bmw M3
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 CSL
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_CSL.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 GTR E46 Strassen Version
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_GTR_STRASSENVERSION.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Cadillac CTS
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CADILLAC_CTS.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Cobalt SS
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜COBALT_SS.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Corvette C6
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_MW.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Corvette C6.R
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜C6R_BETTER_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Fiat Punto
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜FIAT_PUNTO.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mazda 3 Sport
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MAZDA3SPORT.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mazda MX5
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MX5.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8 SPEEDT
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_RX8SPEEDT.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL55
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL55.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz SL500
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL500.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer EVO 8
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜EVO_8.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Carrera S
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_CARRERA_S.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT2
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_GT2.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo s
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_TURBO_S.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf GTI
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
  ┃ ┃ ┃ ┣ 📂Carbon Cars
  ┃ ┃ ┃ ┃ ┣ 📂Alfa Romeo Brera
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
@@ -269,9 +316,56 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
  ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜all in 1.nfsms
+ ┃ ┃ ┃ ┣ 📜All in 1.nfsms
  ┃ ┃ ┃ ┗ 📜Updates (improvement mod - ovgi).nfsms
  ┃ ┃ ┗ 📂VlTed
+ ┃ ┃ ┃ ┣ 📂Add-On Cars
+ ┃ ┃ ┃ ┃ ┣ 📂Audi A3
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Audi A4
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A4.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Audi R8
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_R8.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Audi TT
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_TT.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Bmw M3
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 CSL
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_CSL.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 GTR E46 Strassen Version
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_GTR_STRASSENVERSION.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Cadillac CTS
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CADILLAC_CTS.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Cobalt SS
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜COBALT_SS.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Corvette C6
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_MW.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Corvette C6.R
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜C6R_BETTER_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Fiat Punto
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜FIAT_PUNTO.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mazda 3 Sport
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MAZDA3SPORT.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mazda MX5
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MX5.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8 SPEEDT
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_RX8SPEEDT.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL55
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL55.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz SL500
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL500.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer EVO 8
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜EVO_8.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Carrera S
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_CARRERA_S.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT2
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_GT2.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo s
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_TURBO_S.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf GTI
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
  ┃ ┃ ┃ ┣ 📂Carbon Cars
  ┃ ┃ ┃ ┃ ┣ 📂Alfa Romeo Brera
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
@@ -382,7 +476,7 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
  ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜all in 1.nfsms
+ ┃ ┃ ┃ ┣ 📜All in 1.nfsms
  ┃ ┃ ┃ ┗ 📜Updates (improvement mod - vlted).nfsms
  ┃ ┗ 📂Vanilla
  ┃ ┃ ┣ 📂OVGI
@@ -496,8 +590,8 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
  ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜all in 1 (ovgi).nfsms
- ┃ ┃ ┃ ┗ 📜Updates (vanilla - ovgi).nfsms
+ ┃ ┃ ┃ ┣ 📜Updates (vanilla - ovgi).nfsms
+ ┃ ┃ ┃ ┗ 📜all in 1 (ovgi).nfsms
  ┃ ┃ ┗ 📂VlTed
  ┃ ┃ ┃ ┣ 📂Carbon Cars
  ┃ ┃ ┃ ┃ ┣ 📂Alfa Romeo Brera
@@ -526,8 +620,6 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Koenigsegg CCX
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂lamborghini murcielago LP640
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Lotus Europa S
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Mazda MazdaSpeed 3
@@ -564,8 +656,10 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂Toyota MR2
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf R32
+ ┃ ┃ ┃ ┃ ┣ 📂Volkswagen Golf R32
  ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂lamborghini murcielago LP640
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┣ 📂Most Wanted Cars
  ┃ ┃ ┃ ┃ ┣ 📂Aston Martin DB9
  ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
@@ -609,8 +703,8 @@ but it is not broken.
  ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
  ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜all in 1 (vlted).nfsms
- ┃ ┃ ┃ ┗ 📜Updates (vanilla - vlted).nfsms
+ ┃ ┃ ┃ ┣ 📜Updates (vanilla - vlted).nfsms
+ ┃ ┃ ┃ ┗ 📜all in 1 (vlted).nfsms
  ┣ 📜ChangeLog.md
  ┣ 📜README-ES.md
  ┗ 📜README.md
@@ -641,9 +735,7 @@ that I don't know for sure because I made the mod long before I even knew about 
 This mod is currently compatible with the Improvement Mod v2: https://nfsmods.xyz/mod/855, I haven't tried it with other mods like Ultimate, CBR or Endgame,
 but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
 
-The mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars. (I forgot to mention it before).
-
-Finally, this mod ONLY MODIFIES THE CARS IN THE VANILLA GAME, keep that in mind.
+Finally, the mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars. (I forgot to mention it before).
 
 ---
 
@@ -666,7 +758,7 @@ Q: Will you update this mod?
 A: Just for bugs. Consider it feature complete.
 
 Q: This mod buff the performance of the Improvement Mod add-on cars?
-A: No, although if you want I can make a separate mod for that.  
+A: Since Rev 2.0 
 
 Q: Is it normal that when installing the Audi Lemans or M3 GTR mod I get an error?
 A: Yes, it's completely normal, don't be alarmed if you see something like `delete_node bmwm3gtre46_top` or something like that.
