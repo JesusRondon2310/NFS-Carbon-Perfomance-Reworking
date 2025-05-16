@@ -2,7 +2,7 @@
 
 *By Platanito22*  
 
-![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/11.png)  
+![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/Thumbnail.png)  
 
 **⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/README-ES.md)
 
@@ -87,18 +87,19 @@ to play the game I put them there in case you want to try them :)
 
 **Choose Installation Method**:
 
-- Full Package: With ovgi or vlted, go to File, then import, select ModScript option and select the `all in 1.nfsms` file,
+- Full Package: With ovgi or vlted, go to File, then import, select ModScript option and select the `All in 1.nfsms` file,
 after that a box will appear with the `install` button, when finished go back to `File` and press `Save` and that's it!
 
 - Manual Selection: Individual `.nfsms` files per car.
 
-- Updates: It is installed with the `Full Package`; After installing `all in 1.nfsms` you must install `Updates.nfsms` to have the most updated version of the mod.
-
 ### 🎨 Optional Add-ons
 
-- New Colors: Applied With Binary
+- New Colors: For Carrera GT, Lancer EVO IX, SKYLINE, VIPER, Supra, CCX, RX7 (Applied With Binary)
 - Unlocked Bonus Cars
 - Improved Cameras (Personal Configuration)
+- Reprice for Vanilla Cars
+- Maxed Presets From Challenge Series, Bosses & Wingmans
+- Car Conversions (e.g., Eclipse GS-T[FWD] to GSX[AWD]) 
 ---
 
 ## ⚠️ Important Notes  
@@ -137,577 +138,587 @@ but it is not broken.
 
 ```text
 📦Need for Speed Carbon Performance Reworking
- ┣ 📂Optionals
- ┃ ┣ 📂Better Cameras
- ┃ ┃ ┗ 📜CAMERAS_REVAMP.nfsms
- ┃ ┣ 📂PresetRides
- ┃ ┃ ┣ 📜Bosses.nfsms
- ┃ ┃ ┗ 📜Challenge Series Presets.nfsms
- ┃ ┣ 📂Recolor
+ ┣ 📂Files
+ ┃ ┣ 📂Installer
+ ┃ ┃ ┣ 📂Screenshots
+ ┃ ┃ ┃ ┣ 📜dday.png
+ ┃ ┃ ┃ ┣ 📜melissa.png
+ ┃ ┃ ┃ ┣ 📜rx7.png
+ ┃ ┃ ┃ ┗ 📜tarkovsky.png
+ ┃ ┃ ┣ 📜_AddOn_Cars OVGI.nfsms
+ ┃ ┃ ┣ 📜_AddOn_Cars_VLT.nfsms
+ ┃ ┃ ┣ 📜_Car_Conversions_IMPV2.nfsms
+ ┃ ┃ ┣ 📜_Car_Conversions_VNL.nfsms
+ ┃ ┃ ┣ 📜_Improvement_Mod_V2 OVGI.nfsms
+ ┃ ┃ ┣ 📜_Improvement_Mod_V2_VLT.nfsms
+ ┃ ┃ ┣ 📜_Vanilla OVGI.nfsms
+ ┃ ┃ ┗ 📜_Vanilla_VLT.nfsms
+ ┃ ┣ 📂Optionals
+ ┃ ┃ ┣ 📂PresetRides
+ ┃ ┃ ┃ ┣ 📜Boss&Wingman_Def.nfsms
+ ┃ ┃ ┃ ┣ 📜Boss&Wingman_Max.nfsms
+ ┃ ┃ ┃ ┣ 📜ChallengeSeriesPresets_Max.nfsms
+ ┃ ┃ ┃ ┗ 📜ChallengeSeriesPreset_Def.nfsms
  ┃ ┃ ┣ 📂Recolors
  ┃ ┃ ┃ ┣ 📜CARRERAGT.bin
  ┃ ┃ ┃ ┣ 📜CCX.bin
+ ┃ ┃ ┃ ┣ 📜install_binary.end
  ┃ ┃ ┃ ┣ 📜LANCEREVO9.bin
  ┃ ┃ ┃ ┣ 📜RX7.bin
  ┃ ┃ ┃ ┣ 📜SKYLINE.bin
  ┃ ┃ ┃ ┣ 📜SUPRA.bin
- ┃ ┃ ┃ ┣ 📜VIPER.bin
- ┃ ┃ ┃ ┗ 📜install_binary.end
- ┃ ┃ ┗ 📜install.end
- ┃ ┣ 📜Reprecing.nfsms
- ┃ ┗ 📜Unlock Bonus cars.nfsms
- ┣ 📂Reworking
- ┃ ┣ 📂Improvement Mod V2
- ┃ ┃ ┣ 📂OVGI
- ┃ ┃ ┃ ┣ 📂Add-Ons Cars
- ┃ ┃ ┃ ┃ ┣ 📂Audi A3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi A4
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A4.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi R8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_R8.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi TT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_TT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Bmw M3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 CSL
- ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_CSL.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 GTR E46 Strassen Version
- ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_GTR_STRASSENVERSION.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Cadillac CTS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CADILLAC_CTS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Cobalt SS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜COBALT_SS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Corvette C6
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_MW.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Corvette C6.R
- ┃ ┃ ┃ ┃ ┃ ┗ 📜C6R_BETTER_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Fiat Punto
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FIAT_PUNTO.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda 3 Sport
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MAZDA3SPORT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda MX5
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MX5.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8 SPEEDT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_RX8SPEEDT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL55
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL55.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz SL500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL500.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer EVO 8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜EVO_8.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Carrera S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_CARRERA_S.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT2
- ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_GT2.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo s
- ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_TURBO_S.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf GTI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
- ┃ ┃ ┃ ┣ 📂Carbon Cars
- ┃ ┃ ┃ ┃ ┣ 📂Alfa Romeo Brera
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi LeMans
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro Concept
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Chevelle SS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Corvette Z06
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chrysler 300C
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger 71
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger Concpet
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger 69
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger SRT-8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Infiniti G35
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Jaguar XK
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Koenigsegg CCX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Murcielago LP640
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Europa S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda MazdaSpeed 3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GS-T
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer Evolution 9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 240SX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 350Z
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan Skyline R34
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pagani Zonda-F
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Hemi Cuda
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Roadrunner
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT3RS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Mustang Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Corolla
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota MR2
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf R32
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
- ┃ ┃ ┃ ┣ 📂Most Wanted Cars
- ┃ ┃ ┃ ┃ ┣ 📂Aston Martin DB9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂BMW M3 GTR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Viper SRT-10
- ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford Mustang GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Gallardo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Murcielago
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lexus IS300
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Elise
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX7
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz CLK500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLaren SLR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pontiac GTO
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Carrera GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Cayman S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Renault CLio V6
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Supra
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜All in 1.nfsms
- ┃ ┃ ┃ ┗ 📜Updates (improvement mod - ovgi).nfsms
- ┃ ┃ ┗ 📂VlTed
- ┃ ┃ ┃ ┣ 📂Add-On Cars
- ┃ ┃ ┃ ┃ ┣ 📂Audi A3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi A4
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A4.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi R8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_R8.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi TT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_TT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Bmw M3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 CSL
- ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_CSL.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Bmw M3 GTR E46 Strassen Version
- ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_GTR_STRASSENVERSION.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Cadillac CTS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CADILLAC_CTS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Cobalt SS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜COBALT_SS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Corvette C6
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_MW.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Corvette C6.R
- ┃ ┃ ┃ ┃ ┃ ┗ 📜C6R_BETTER_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Fiat Punto
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FIAT_PUNTO.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda 3 Sport
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MAZDA3SPORT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda MX5
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MX5.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8 SPEEDT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_RX8SPEEDT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL55
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL55.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz SL500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL500.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer EVO 8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜EVO_8.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Carrera S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_CARRERA_S.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT2
- ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_GT2.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo s
- ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_TURBO_S.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf GTI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
- ┃ ┃ ┃ ┣ 📂Carbon Cars
- ┃ ┃ ┃ ┃ ┣ 📂Alfa Romeo Brera
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi LeMans
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro Concept
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Chevelle SS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Corvette Z06
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chrysler 300C
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger 71
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger Concpet
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger 69
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger SRT-8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Infiniti G35
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Jaguar XK
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Koenigsegg CCX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Murcielago LP640
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Europa S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda MazdaSpeed 3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GS-T
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer Evolution 9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 240SX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 350Z
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan Skyline R34
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pagani Zonda-F
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Hemi Cuda
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Roadrunner
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT3RS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Mustang Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Corolla
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota MR2
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf R32
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
- ┃ ┃ ┃ ┣ 📂Most Wanted Cars
- ┃ ┃ ┃ ┃ ┣ 📂Aston Martin DB9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂BMW M3 GTR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Viper SRT-10
- ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford Mustang GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Gallardo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Murcielago
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lexus IS300
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Elise
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX7
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz CLK500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLaren SLR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pontiac GTO
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Carrera GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Cayman S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Renault CLio V6
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Supra
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜All in 1.nfsms
- ┃ ┃ ┃ ┗ 📜Updates (improvement mod - vlted).nfsms
- ┃ ┗ 📂Vanilla
- ┃ ┃ ┣ 📂OVGI
- ┃ ┃ ┃ ┣ 📂Carbon Cars
- ┃ ┃ ┃ ┃ ┣ 📂Alfa Romeo Brera
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi LeMans
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro Concept
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Chevelle SS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Corvette Z06
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chrysler 300C
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger 71
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger Concpet
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger 69
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger SRT-8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Infiniti G35
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Jaguar XK
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Koenigsegg CCX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Murcielago LP640
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Europa S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda MazdaSpeed 3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GS-T
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer Evolution 9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 240SX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 350Z
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan Skyline R34
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pagani Zonda-F
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Hemi Cuda
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Roadrunner
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT3RS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Mustang Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Corolla
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota MR2
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Volkswagen Golf R32
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
- ┃ ┃ ┃ ┣ 📂Most Wanted Cars
- ┃ ┃ ┃ ┃ ┣ 📂Aston Martin DB9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂BMW M3 GTR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Viper SRT-10
- ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford Mustang GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Gallardo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Murcielago
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lexus IS300
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Elise
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX7
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz CLK500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLaren SLR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pontiac GTO
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Carrera GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Cayman S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Renault CLio V6
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Supra
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜Updates (vanilla - ovgi).nfsms
- ┃ ┃ ┃ ┗ 📜all in 1 (ovgi).nfsms
- ┃ ┃ ┗ 📂VlTed
- ┃ ┃ ┃ ┣ 📂Carbon Cars
- ┃ ┃ ┃ ┃ ┣ 📂Alfa Romeo Brera
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Audi LeMans
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro Concept
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Chevelle SS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Corvette Z06
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chrysler 300C
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger 71
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Challenger Concept
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger 69
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Charger SRT-8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Infiniti G35
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Jaguar XK
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Koenigsegg CCX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Europa S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda MazdaSpeed 3
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMG SL65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GS-T
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Lancer Evolution 9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 240SX
- ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan 350Z
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Nissan Skyline R34
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pagani Zonda-F
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Hemi Cuda
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Plymouth Roadrunner
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 GT3RS
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche 911 Turbo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Shelby Mustang Cobra GT500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Subaru Impreza WRX STI
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Corolla
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota MR2
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Volkswagen Golf R32
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂lamborghini murcielago LP640
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
- ┃ ┃ ┃ ┣ 📂Most Wanted Cars
- ┃ ┃ ┃ ┃ ┣ 📂Aston Martin DB9
- ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂BMW M3 GTR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Chevrolet Camaro 65
- ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Dodge Viper SRT-10
- ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Ford Mustang GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Gallardo
- ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lamborghini Murcielago
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lexus IS300
- ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Lotus Elise
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX7
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mazda RX8
- ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-Benz CLK500
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLaren SLR
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Mitsubishi Eclipse GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Pontiac GTO
- ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Carrera GT
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Porsche Cayman S
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Renault Clio V6
- ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┣ 📂Toyota Supra
- ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
- ┃ ┃ ┃ ┃ ┗ 📂Vauxhall Monaro
- ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┣ 📜Updates (vanilla - vlted).nfsms
- ┃ ┃ ┃ ┗ 📜all in 1 (vlted).nfsms
- ┣ 📜ChangeLog.md
- ┣ 📜README-ES.md
- ┗ 📜README.md
+ ┃ ┃ ┃ ┗ 📜VIPER.bin
+ ┃ ┃ ┣ 📜Cameras.nfsms
+ ┃ ┃ ┗ 📜Reprice.nfsms
+ ┃ ┗ 📂Reworking
+ ┃ ┃ ┣ 📂CarConverions
+ ┃ ┃ ┃ ┗ 📂MitsubishiEclipse
+ ┃ ┃ ┃ ┃ ┣ 📜ECLIPSE_AWD.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSE_AWD_VANILLA.nfsms
+ ┃ ┃ ┣ 📂ImprovementModV2
+ ┃ ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┃ ┣ 📂Add-OnCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiA3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiA4
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A4.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiR8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_R8.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiTT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_TT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BmwM3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BmwM3CSL
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_CSL.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BmwM3GTRE46StrassenVersion
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_GTR_STRASSENVERSION.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂CadillacCTS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CADILLAC_CTS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCobaltSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜COBALT_SS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂CorvetteC6
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂CorvetteC6.R
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜C6R_BETTER_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FiatPunto
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FIAT_PUNTO.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mazda3Sport
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MAZDA3SPORT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMX5
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MX5.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX8SPEEDT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_RX8SPEEDT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMGSL55
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL55.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzSL500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL500.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEVO8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜EVO_8.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911CarreraS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_CARRERA_S.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_GT2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911Turbos
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_TURBO_S.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfGTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AlfaRomeoBrera
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Chrysler300C
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallenger71
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcpet
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeCharger69
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChargerSRT-8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂JaguarXK
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMazdaSpeed3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMGSL65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan240SX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthHemiCuda
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911Turbo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfR32
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AstonMartinDB9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaro65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeViperSRT-10
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordMustangGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniGallardo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielago
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusElise
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX7
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLarenSLR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCarreraGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCaymanS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂RenaultCLioV6
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VauxhallMonaro
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┗ 📂VlTed
+ ┃ ┃ ┃ ┃ ┣ 📂Add-OnCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiA3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiA4
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A4.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiR8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_R8.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiTT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_TT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BmwM3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BmwM3CSL
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_CSL.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BmwM3GTRE46StrassenVersion
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜M3_GTR_STRASSENVERSION.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂CadillacCTS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CADILLAC_CTS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCobaltSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜COBALT_SS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂CorvetteC6
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂CorvetteC6.R
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜C6R_BETTER_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FiatPunto
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FIAT_PUNTO.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mazda3Sport
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MAZDA3SPORT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMX5
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_MX5.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX8SPEEDT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MAZDA_RX8SPEEDT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMGSL55
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL55.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzSL500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MERCEDES_SL500.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEVO8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜EVO_8.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911CarreraS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_CARRERA_S.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_GT2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911Turbos
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PORSCHE_911_TURBO_S.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfGTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AlfaRomeoBrera
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Chrysler300C
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallenger71
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcpet
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeCharger69
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChargerSRT-8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂JaguarXK
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMazdaSpeed3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMGSL65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan240SX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthHemiCuda
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911Turbo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfR32
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AstonMartinDB9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaro65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeViperSRT-10
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordMustangGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniGallardo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielago
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusElise
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX7
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLarenSLR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCarreraGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCaymanS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂RenaultCLioV6
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VauxhallMonaro
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┗ 📂Vanilla
+ ┃ ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AlfaRomeoBrera
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Chrysler300C
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallenger71
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcpet
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeCharger69
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChargerSRT-8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂JaguarXK
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMazdaSpeed3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMGSL65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan240SX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthHemiCuda
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911Turbo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfR32
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AstonMartinDB9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaro65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeViperSRT-10
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordMustangGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniGallardo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielago
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusElise
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX7
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLarenSLR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCarreraGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCaymanS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂RenaultCLioV6
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VauxhallMonaro
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┗ 📂VlTed
+ ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AlfaRomeoBrera
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Chrysler300C
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallenger71
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeCharger69
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChargerSRT-8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂JaguarXK
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂lamborghinimurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMazdaSpeed3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-AMGSL65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SL65.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan240SX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthHemiCuda
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_HEMI_CUDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911Turbo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GT500.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfR32
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AstonMartinDB9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜DB9_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaro65
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeViperSRT-10
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordMustangGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniGallardo
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielago
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusElise
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ELISE_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX7
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX8
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX8_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-McLarenSLR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCarreraGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PorscheCaymanS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CAYMANS_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂RenaultClioV6
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂VauxhallMonaro
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
+ ┣ 📜All in 1.nfsms
+ ┣ 📜Recolors.end
+ ┣ 📜_README-ES.md
+ ┗ 📜_README.md
 ```
 ---
 
