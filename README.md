@@ -142,6 +142,7 @@ but it is not broken.
  ┃ ┣ 📂Installer
  ┃ ┃ ┣ 📂Screenshots
  ┃ ┃ ┃ ┣ 📜dday.png
+ ┃ ┃ ┃ ┣ 📜Installer_Thumbnail.png
  ┃ ┃ ┃ ┣ 📜melissa.png
  ┃ ┃ ┃ ┣ 📜rx7.png
  ┃ ┃ ┃ ┗ 📜tarkovsky.png
