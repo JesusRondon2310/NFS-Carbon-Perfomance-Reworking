@@ -30,6 +30,8 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 - **Performance Improvements**:
   - Acceleration and top speeds ported from Most Wanted (M3 GTR: 322kph → 389kph)
   - Enhanced & lighter car handling
+
+- **Other Improvements**:
 - Some car Tiers rejigged
 - Price changes (in order to accommodate cars)
 - Fixed wheel alignment and some bodykit issues
@@ -43,6 +45,9 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
   - Complete overhauls (e.g., Alfa Romeo Brera)  
   - Buff/Nerf adjustments (e.g., Murciélago: 396kph → 390kph)   
   - Ride height adjustments
+ 
+- Car Conversions (Since Rev 2.2):
+  - Greatly improves the overall performance of the car by changing the transmission type (e.g. FWD to AWD).
 ---
 
 ## 📷Comparatives
@@ -71,9 +76,7 @@ to play the game I put them there in case you want to try them :)
 
 ### Added Rev 1.0
 
-1. A `.nfsms` called updates has been added, in this script all the updates I make will go; The individual `.nfsms` already bring with them the integrated changes, I have done it this way so as not to saturate the main file.
-
-2. In the `Optionals` folder, the option to max the preset cars of the bosses and also their companions was added, as well as the option to max the presets of the cars of the challenge series.
+1. In the `Optionals` folder, the option to max the preset cars of the bosses and also their companions was added, as well as the option to max the presets of the cars of the challenge series.
 
 ### 📋 Requirements  
 
@@ -99,7 +102,7 @@ after that a box will appear with the `install` button, when finished go back to
 - Improved Cameras (Personal Configuration)
 - Reprice for Vanilla Cars
 - Maxed Presets From Challenge Series, Bosses & Wingmans
-- Car Conversions (e.g., Eclipse GS-T[FWD] to GSX[AWD]) 
+
 ---
 
 ## ⚠️ Important Notes  
