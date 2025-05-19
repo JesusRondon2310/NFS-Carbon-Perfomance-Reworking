@@ -1,6 +1,6 @@
 # 🧾 [Rev 3.0 Changelog] - 2025-05-19
 
-The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on the `Improvement Mod V2` version
+The `Rev 3.0` It is a special patch for the `Carbon Battle Royale` mod which focuses on one of the worst sections of the mod.
 
 ## ⚖️ Balance changes
 - Mazda RX8 (Base): Rebalanced Handling `=`
