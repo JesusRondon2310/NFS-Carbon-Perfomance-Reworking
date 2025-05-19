@@ -13,18 +13,19 @@ The `Rev 3.0` It is a special patch for the `Carbon Battle Royale` mod which foc
 - Dodge Charger SRT-8: Height Adjustments:
   - Height Adjustments
   - Minimal buff to Handling `+`
-- Koenigsegg CCX:
-  - Rebalanced Handling `=`
-  - Bodykits Fix
-- Pagani Zonda:
-  - Rebalanced Handling `=`
-  - Bodykits Fix
+- Koenigsegg CCX: Rebalanced Handling `=`
+- Pagani Zonda: Rebalanced Handling `=`
 - Porsche GT3 RS: Height Adjustments
 - Dodge Viper: Acceleration Buff `+`
 - Lexus IS300: Rebalanced Handling `=`
 - Lotus Elise: Rebalanced Handling `=`
 - Mercedes-Mclaren SLR: Rebalanced Handling `=`
 - Nissan Skyline: Bodykits Fix
+- Toyota Supra:
+  - Rebalanced Handling `=`
+  - Minimal acceleration buff `+`
+  - Top speed buff (380 -> 384)
+  - Height Adjustments
 
 ## 🔄 Changed
 - All files have been restructured and the installer has received an updated interface.
@@ -34,7 +35,8 @@ The `Rev 3.0` It is a special patch for the `Carbon Battle Royale` mod which foc
 
 ## 🔧 Fixed
 - Fixed Subaru Impreza WRX (Vanilla) camera bug.
-- Fixed audio bug with the Lamborghini Murcielago LP640 which had the Murcielago.
+- Fixed audio bug with the Lamborghini Murcielago LP640 which had the Lamborghini Murcielago audio.
+- Fixed audio bug with the Audi LeMans which had the Lamborghini Murcielago audio.
 - Fixed audio bug on Mitsubishi Eclipse and Lancer Evo 9.
 
 ## ✏️ NOTES
