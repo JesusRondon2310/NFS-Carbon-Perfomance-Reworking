@@ -3,7 +3,7 @@
 Hey, como va todo? Aqui Platanito22 con un mod fenomenal
 ---
 
-## 🔍 Descripción General  
+## 🔍 Descripción General
 
 ¿Alguna vez te has imaginado como sería Need for Speed Carbon con el rendimiento de los autos de Most Wanted? A que sí, bueno eso es lo que
 este mod viene a hacer realidad, no fue muy decepciónate ver como el M3 GTR de llegar hasta los 389 kph y tener una maniobrabilidad alucinante
@@ -16,8 +16,10 @@ el rendimiento de todos los autos Most Wanted presentes en Carbon y los exclusiv
 
 ---
 
-## 🚀 Características  
-### 🏎️ Mejoras Principales  
+## 🚀 Características 
+
+### 🏎️ Mejoras Principales
+
 - **Mejoras de Rendimiento**:
   - Aceleración y velocidades máximas porteadas desde Most Wanted (M3 GTR: 322kph → 389kph).
   - Manejo del vehículo mejorado y más ligero.
@@ -26,7 +28,8 @@ el rendimiento de todos los autos Most Wanted presentes en Carbon y los exclusiv
   - Cambio en precios (con el fin de acomodar la posición los autos).
   - Corrección de alineación de ruedas y problemas en algunos bodykits.
 
-### 🛠️ Mecánicas Avanzadas  
+### 🛠️ Mecánicas Avanzadas
+
 - **Funcionamiento de Turbo y Supercargador “Realista”**
 - **Reajustes de Vehículos**:
   - Se reajustaron algunos niveles de autos.
@@ -38,7 +41,7 @@ el rendimiento de todos los autos Most Wanted presentes en Carbon y los exclusiv
 
 ---
 
-## ⚙️ Instalación  
+## ⚙️ Instalación
 
 Hay varias opciones para VlTed y OVGI:
 (haz una copia de seguridad de los archivos antes de instalar el mod, ya sabes)
@@ -62,8 +65,7 @@ personalmente. Lo pongo por si quieren probarlas :)
 
 1. En la carpeta `Optionals` fue agregada una opción para bajar la dificultad de las carreras de drift en el mod `Carbon Battle Royale`.
 
-
-### 📋 Requisitos  
+### 📋 Requisitos
 
 - Need for Speed Carbon (versión 1.4 recomendada)  
 - Herramientas de modding:  
@@ -71,14 +73,16 @@ personalmente. Lo pongo por si quieren probarlas :)
   - [OVGI](https://nfsmods.xyz/mod/5290)
   - [Binary](https://nfsmods.xyz/mod/1638)
 
-### 👣 Pasos  
+### 👣 Pasos
+
 **Elige Método de Instalación**:  
 
 - Todo en Uno: Con `Ovgi` o `Vlted`, ve al apartado de `File`, despues a `Import`, selecciona la opcion `ModScript` y Seleccion el archivo `All in 1.nfsms`, seguido de eso aparecerá un recuadro con el boton `Install`, al terminar ve de nuevo a `File` y presiona `Save` y listo!
 
 - Selección Manual: Archivos `.nfsms` individuales por cada auto vanilla y algunos con bodykits exclusivos de `Cabon Battle Royale` y `Improvement Mod V2`, la instalación que en la `All in 1`.
   
-### 🎨 Complementos Opcionales  
+### 🎨 Complementos Opcionales
+
 - Nuevos colores: Para Carrera GT, Lancer EVO IX, SKYLINE, VIPER, Supra, CCX, RX7 (Aplicado con binary).
 - Autos bonus y dlc desbloqueados.
 - Cámaras mejoradas (Configuración personal).
@@ -87,7 +91,8 @@ personalmente. Lo pongo por si quieren probarlas :)
 
 ---
 
-## ⚠️ Notas Importantes  
+## ⚠️ Notas Importantes
+
 *Para los interesados en saber más:*
 
 Bien, Hablando del apartado de [Funcionamiento "Realista" De Turbos y Supercargadores] pues si como en los turbos en la vida real este mod viene a replicarlos trayendo consigo el famoso y tenebroso [Turbo-Lag], pero no es tanto como te lo estás imaginando, ósea, no tarda 5 días hábiles en cargar el turbo como si pasa en la vida real, es más gameplay friendly, ósea el efecto final que quería lograr trayendo el turbo lag no es el tiempo que se toma en cargar el turbo si no la patada que da el turbo al estar al 100% de funcionamiento, si quieres saber de qué me guie para replicarlo aquí te dejo un link a un video de YouTube de un dyno con [métricas](https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB), como pudieron apreciar si vieron el video, el funcionamiento del turbo lag es similar con este mod, el turbo se activa a cierto régimen de revoluciones (cada auto tiene uno propio) y la patada del turbo es notoria cuando llega al 100% de uso, puede ver el funcionamiento con un [hud personalizado](https://nfsmods.xyz/mod/1903) o [usar el que yo ocupo](https://nfsmods.xyz/mod/6169), pero es eso a lo que me refiero con turbo lag y por si quieres saber el Supercharger no tiene turbolag, pero no está roto.
