@@ -1,3 +1,62 @@
+# 🧾 [Rev 3.0 Changelog] - 2025-05-19
+
+The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on the `Improvement Mod V2` version
+
+## ⚖️ Balance changes
+- Mazda RX8 (Base): Rebalanced Handling `=`
+- Alfa Romeo Brera: Minor Fixes
+- BMW M3 GTR: Rebalanced Handling `=`
+- Mercedes CLK-500: Handling Buff `+`
+- Dodge Charger 1969:
+  - Height Adjustments
+  - Minimal buff to Handling `+`
+- Dodge Charger SRT-8: Height Adjustments:
+  - Height Adjustments
+  - Minimal buff to Handling `+`
+- Koenigsegg CCX:
+  - Rebalanced Handling `=`
+  - Bodykits Fix
+- Pagani Zonda:
+  - Rebalanced Handling `=`
+  - Bodykits Fix
+- Porsche GT3 RS: Height Adjustments
+- Dodge Viper: Acceleration Buff `+`
+- Lexus IS300: Rebalanced Handling `=`
+- Lotus Elise: Rebalanced Handling `=`
+- Mercedes-Mclaren SLR: Rebalanced Handling `=`
+- Nissan Skyline: Bodykits Fix
+
+## 🔄 Changed
+- All files have been restructured and the installer has received an updated interface.
+- The mod has been patched to achieve compatibility with the `Carbon Battle Royale` mod.
+- Added a new optional script for the `Carbon Battle Royale` mod.
+- The drift physics of the `Carbon Battle Royale` mod are back to those of the vanilla game.
+
+## 🔧 Fixed
+- Fixed Subaru Impreza WRX (Vanilla) camera bug.
+- Fixed audio bug with the Lamborghini Murcielago LP640 which had the Murcielago.
+- Fixed audio bug on Mitsubishi Eclipse and Lancer Evo 9.
+
+## ✏️ NOTES
+
+The truth is that the drift in `Carbon Battle Royale` is very bad, the cars simply do not slide and the difficulty is simply unfair to the point that in hard mode it becomes almost impossible to win a simple drift race and I wanted to fix that, since I saw a mod that almost completely removed drift races and the truth is that I do not like it, I hope that this revision of the mod fixes that problem.
+
+---
+
+🧾 Changelog
+.Rev 2.2 - Fixed Some Bugs, Improved handling of some Tier 3 cars (BMW M3 GTR, Toyota Supra), Mitsubishi Eclipse added conversion from FWD to AWD (Better Handling `+`, Less Top Speed ​​`-`)
+
+🧾 Changelog
+.Rev 2.1 Improved handling for some Tier 3 and Tier 2 cars
+
+🧾 Changelog
+.Rev 2.0.1 Vanilla Corvette Z06 Bodykits Hotfix
+
+🧾 Changelog
+.Rev 2.0 Now supports Improvement Mod V2 add-on cars
+
+---
+
 # 🧾 [Rev 1.1 Changelog] - 2025-03-09
 
 The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on the `Improvement Mod V2` version
@@ -250,3 +309,8 @@ I tried to fix the bodykits in 2 separate updates because as you know, the `Impr
 It also happened to me with the Audi LeMans, but when I deleted my saved game the game no longer crashed when using the Audi, so I don't know if I should consider what happened to me with the Murcielago LP640 a bug.
 
 The modification and/or fix to the bodykits is only for the vanilla version, I'm going to prepare Rev v1.1 in search of bugs and changes (that includes the bodykits) for the improvement mod V2.
+
+---
+
+🧾 Changelog
+. initial version release 05-03-25
