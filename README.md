@@ -23,8 +23,10 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ---
 
-## 🚀 Features  
-### 🏎️ Core Improvements  
+## 🚀 Features
+
+### 🏎️ Core Improvements
+
 - **Performance Improvements**:
   - Acceleration and top speeds ported from Most Wanted (M3 GTR: 322kph → 389kph).
   - Enhanced & lighter car handling.
@@ -33,7 +35,8 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
   - Price changes (in order to accommodate the position of the cars).
   - Fixed wheel alignment and some bodykit issues.
 
-### 🛠️ Advanced Mechanics  
+### 🛠️ Advanced Mechanics
+
 - **"Realistic" Turbo and Supercharger Functionality**
 - **Vehicle Reworks**:  
   - Complete overhauls (e.g., Alfa Romeo Brera).
@@ -44,6 +47,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 ---
 
 ## 📷Comparatives
+
 ![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.png)  
 ![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.png)  
 ![Screenshots\6.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/6.png)  
@@ -86,7 +90,8 @@ to play the game I put them there in case you want to try them :)
   - [OVGI](https://nfsmods.xyz/mod/5290)
   - [Binary](https://nfsmods.xyz/mod/1638)  
 
-### 👣 Steps  
+### 👣 Steps
+
 **Choose Installation Method**:
 
 - All in One: With `Ovgi` or `Vlted`, go to the `File` section, after `Import`, select the `ModScript` option and select the `All in 1.nfsms` file, after that a box will appear with the `Install` button, when finished go back to `File` and press `Save` and that's it!
@@ -94,6 +99,7 @@ to play the game I put them there in case you want to try them :)
 - Manual Selection: Individual `.nfsms` files for each vanilla car and some with exclusive bodykits from `Cabon Battle Royale` and `Improvement Mod V2`, the installation as in `All in 1`.
 
 ### 🎨 Optional Add-ons
+
 - New Colors: For Carrera GT, Lancer EVO IX, SKYLINE, VIPER, Supra, CCX, RX7 (Applied With Binary)
 - Unlocked Bonus & DLC Cars
 - Improved Cameras (Personal Configuration)
@@ -102,7 +108,8 @@ to play the game I put them there in case you want to try them :)
 
 ---
 
-## ⚠️ Important Notes  
+## ⚠️ Important Notes
+
 *For those interested in knowing more:*
 
 Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag], but it is not as much as you are imagining, that is, it does not take 5 business days to charge the turbo as it happens in real life, it is more gameplay friendly, that is, the final effect that I wanted to achieve by bringing the turbo lag is not the time it takes to charge the turbo but the kick that the turbo gives when it is at 100% operation, if you want to know what I was guided by to replicate it here I leave you a link to a youtube video of a dyno with [metrics](https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB), as you could see if you saw the video the operation of the turbo lag is similar with this mod, the turbo is activated at a certain rpm (each car has its own) and the turbo kick is noticeable when it reaches 100% use, you can see the operation with a custom [hud](https://nfsmods.xyz/mod/1903) or [use the one I use](https://nfsmods.xyz/mod/6169), but that is what I mean by turbo lag and in case you want to know the Supercharger does not have turbo lag, but it is not broken.
@@ -686,7 +693,7 @@ This mod has no distribution conditions. You are free to do whatever you want wi
 
 - Due to the nature of the mod, there are some bosses that become more competitive, if not difficult (especially in the canyon), but it's more than anything, at the beginning and then everything will be more "relaxed", because I already went through it (in order to test my own mod) to see if the game became unbearable or just becomes a little more complicated and my conclusion was that it is 'passable', the game does not become unplayable (I'm talking about the AI ​​and the AI ​​of the bosses).
 
-- Another thing is that when you see the performance port of MW you will think, can it be used with the NFSC: MW'05 shiftpattern/ShiftSND Port https://nfsmods.xyz/mod/6237?, well that I don't know for sure because I made the mod long before I even knew about the existence of that mod.
+- Another thing is that when you see the performance port of MW you will think, can it be used with the [NFSC: MW'05 shiftpattern/ShiftSND Port](https://nfsmods.xyz/mod/6237)?, well that I don't know for sure because I made the mod long before I even knew about the existence of that mod.
 
 - This mod is currently compatible with the [Improvement Mod v2](https://nfsmods.xyz/mod/855) and [Carbon Battle Royale](https://nfsmods.xyz/mod/1211), I haven't tried it with other mods like Ultimate or Endgame, but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
 
