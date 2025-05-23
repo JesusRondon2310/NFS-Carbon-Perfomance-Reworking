@@ -150,13 +150,18 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┣ 📜_AddOn_Cars OVGI.nfsms
  ┃ ┃ ┣ 📜_AddOn_Cars_VLT.nfsms
  ┃ ┃ ┣ 📜_Battle_Royal Patch.nfsms
- ┃ ┃ ┣ 📜_Car_Conversions_IMPV2.nfsms
- ┃ ┃ ┣ 📜_Car_Conversions_VNL.nfsms
+ ┃ ┃ ┣ 📜_Car_Conversions.nfsms
+ ┃ ┃ ┣ 📜_Endgame_Mod OVGI.nfsms
+ ┃ ┃ ┣ 📜_Endgame_Mod_VLT.nfsms
  ┃ ┃ ┣ 📜_Improvement_Mod_V2 OVGI.nfsms
  ┃ ┃ ┣ 📜_Improvement_Mod_V2_VLT.nfsms
  ┃ ┃ ┣ 📜_Vanilla OVGI.nfsms
  ┃ ┃ ┗ 📜_Vanilla_VLT.nfsms
  ┃ ┣ 📂Optionals
+ ┃ ┃ ┣ 📂Cameras
+ ┃ ┃ ┃ ┣ 📜BetterCameras.nfsms
+ ┃ ┃ ┃ ┣ 📜BetterVanillaCameras.nfsms
+ ┃ ┃ ┃ ┗ 📜DefaultCameras.nfsms
  ┃ ┃ ┣ 📂CBR
  ┃ ┃ ┃ ┗ 📜DriftRaces.nfsms
  ┃ ┃ ┣ 📂PresetRides
@@ -173,7 +178,6 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┣ 📜SKYLINE.bin
  ┃ ┃ ┃ ┣ 📜SUPRA.bin
  ┃ ┃ ┃ ┗ 📜VIPER.bin
- ┃ ┃ ┣ 📜Cameras.nfsms
  ┃ ┃ ┗ 📜Reprice.nfsms
  ┃ ┗ 📂Reworking
  ┃ ┃ ┣ 📂CarbonBattleRoyale
@@ -183,8 +187,6 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
  ┃ ┃ ┃ ┣ 📂BMWM3GTR
  ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
- ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
  ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
  ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
@@ -193,12 +195,10 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
  ┃ ┃ ┃ ┣ 📂DodgeChallenger71
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
- ┃ ┃ ┃ ┣ 📂DodgeChallengerConcpet
+ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcept
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
  ┃ ┃ ┃ ┣ 📂DodgeCharger69
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
- ┃ ┃ ┃ ┣ 📂DodgeChargerSRT-8
- ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
  ┃ ┃ ┃ ┣ 📂DodgeViperSRT-10
  ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂FordMustangGT
@@ -209,8 +209,6 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
  ┃ ┃ ┃ ┣ 📂LamborghiniGallardo
  ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
- ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┣ 📂LexusIS300
  ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂LotusElise
@@ -233,10 +231,6 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
  ┃ ┃ ┃ ┣ 📂PontiacGTO
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
- ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
- ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┣ 📂Porsche911Turbo
- ┃ ┃ ┃ ┃ ┗ 📜BETTER_997TT.nfsms
  ┃ ┃ ┃ ┣ 📂PorscheCarreraGT
  ┃ ┃ ┃ ┃ ┗ 📜CARRERA_GT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂PorscheCaymanS
@@ -247,14 +241,92 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┣ 📂ToyotaCorolla
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┣ 📂ToyotaMR2
- ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
- ┃ ┃ ┃ ┗ 📂VauxhallMonaro
+ ┃ ┃ ┃ ┣ 📂ToyotaSupra
+ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
+ ┃ ┃ ┃ ┣ 📂VauxhallMonaro
  ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┣ 📂_ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┣ 📂_LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┣ 📂_Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┗ 📂_ToyotaMR2
+ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┣ 📂CarConverions
  ┃ ┃ ┃ ┗ 📂MitsubishiEclipse
- ┃ ┃ ┃ ┃ ┣ 📜ECLIPSE_AWD.nfsms
- ┃ ┃ ┃ ┃ ┗ 📜ECLIPSE_AWD_VANILLA.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSE_AWD.nfsms
+ ┃ ┃ ┣ 📂Endgame
+ ┃ ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
+ ┃ ┃ ┃ ┗ 📂VLT
+ ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┣ 📂ImprovementModV2
  ┃ ┃ ┃ ┣ 📂OVGI
  ┃ ┃ ┃ ┃ ┣ 📂Add-OnCars
@@ -305,54 +377,58 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfGTI
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
- ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_IMPREZA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCorvetteZ06
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_MitsubishiEclipseGS-T
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_Nissan350Z
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_NissanSkylineR34
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_PaganiZonda-F
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_PlymouthRoadrunner
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_Porsche911GT3RS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ShelbyMustangCobraGT500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ToyotaCorolla
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂_ToyotaMR2
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
- ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_BMWM3GTR
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_FordGT
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_LexusIS300
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_Mercedes-BenzCLK500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_PontiacGTO
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
- ┃ ┃ ┃ ┃ ┃ ┗ 📂RenaultCLioV6
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂_RenaultCLioV6
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┗ 📂VlTed
+ ┃ ┃ ┃ ┗ 📂VLT
  ┃ ┃ ┃ ┃ ┣ 📂Add-OnCars
  ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiA3
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
@@ -401,52 +477,56 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfGTI
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
- ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_IMPREZA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCorvetteZ06
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_MitsubishiEclipseGS-T
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_Nissan350Z
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_NissanSkylineR34
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_PaganiZonda-F
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_PlymouthRoadrunner
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_Porsche911GT3RS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ShelbyMustangCobraGT500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_ToyotaCorolla
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂_ToyotaMR2
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
- ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_BMWM3GTR
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_FordGT
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_LexusIS300
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_Mercedes-BenzCLK500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂_PontiacGTO
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
- ┃ ┃ ┃ ┃ ┃ ┗ 📂RenaultCLioV6
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂_RenaultCLioV6
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┗ 📂Vanilla
  ┃ ┃ ┃ ┣ 📂OVGI
@@ -465,7 +545,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallenger71
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER71.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcpet
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcept
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeCharger69
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
@@ -510,7 +590,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_IMPREZA.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
@@ -560,7 +640,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┃ ┗ 📂VauxhallMonaro
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┗ 📂VlTed
+ ┃ ┃ ┃ ┗ 📂VLT
  ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
  ┃ ┃ ┃ ┃ ┃ ┣ 📂AlfaRomeoBrera
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
@@ -588,7 +668,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_XK.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂lamborghinimurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
@@ -621,7 +701,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IMPREZA_STI_MW.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_IMPREZA.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
@@ -672,7 +752,11 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┗ 📂VauxhallMonaro
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜MONARO_MW_PERFORMANCE.nfsms
  ┣ 📜All in 1.nfsms
+ ┣ 📜Car Conversions.nfsms
+ ┣ 📜Optionals.nfsms
  ┣ 📜Recolors.end
+ ┣ 📜_Navegar Dentro de la Carpeta Files.md
+ ┣ 📜_Navigate in the Files Foldes.md
  ┣ 📜_README-ES.md
  ┗ 📜_README.md
 ```
