@@ -1,3 +1,191 @@
+# 🧾 [Rev 3.1 Changelog] - 2025-05-23
+
+`Rev 3.1` Bug fixes, file restructuring, changes in handling to be a mix between Carbon and MW, Added new features and Testing of other mods.
+
+## ⚖️ Balance changes
+
+### Audi LeMans
+
+- `=` Handling Rebalance
+
+### Aston Martin DB9
+
+- `=` Handling Rebalance
+
+### Chevrolet Camaro 1965
+
+- `=` Handling Rebalance
+
+### Chevrolet Camaro Concept
+
+- `=` Handling Rebalance
+
+### Porsche Cayman S
+
+- `=` Handling Rebalance
+
+### Dodge Challenger 1971
+
+- `=` Handling Rebalance
+
+### Plymouth Hemi Cuda
+
+- `=` Handling Rebalance
+
+### Renault Clio V6
+
+- `=` Handling Rebalance
+
+### Koenigsegg CCX
+
+- `=` Handling Rebalance
+
+### Lotus Elise
+
+- `=` Handling Rebalance
+
+### Plymouth Roadrunner
+
+- `+` Performance Buff
+- `+` Top Speed Buff (375 -> 381)
+
+### Mitsubishi Eclipse GSX
+
+- `=` Conversion Handling Rebalance
+
+### Mitsubishi Lancer Evolution 9
+
+- `=` Handling Rebalance
+- `+` Performance Buff
+- `+` Top Speed Buff (376 -> 378)
+
+### Porsche GT3 RS
+
+- `=` Handling Rebalance
+
+### Porsche 911 Turbo (997)
+
+- `=` Handling Rebalance
+
+### Nissan 240SX `-+ Rework +-`
+
+- `+` Noticeable improvements to handling to make it smoother
+- `=` Balanced acceleration
+
+### Lotus Europa S
+
+- `=` Handling Rebalance
+
+### Shelby Cobra GT500
+
+- `=` Handling Rebalance
+
+### Shelby Mustang Cobra GT500 '07
+
+- `+` Small buff to handling
+
+### Lamborghini Murcielago LP640
+
+- `+` Small buff to handling
+
+### Lamborghini Murcielago
+
+- `+` Handling Buff
+
+### Lamborghini Gallardo
+
+- `=` Handling Rebalance
+
+### Mercedes Sl65
+
+- `=` Handling Rebalance
+- `=` Rebalance to acceleration to make it smoother
+
+### Nissan 350Z
+
+- `=` Handling Rebalance
+
+### Mercedes-Maclaren SLR
+
+- `=` Handling Rebalance
+
+### Ford GT
+
+- `=` Handling Rebalance
+
+### Toyota Supra
+
+- `+` Acceleration Buff
+- `+` Top Speed Buff (380 -> 384)
+- `=` Handling Rebalance
+
+### Jaaguar XK
+
+- `=` Handling Rebalance
+
+### SUbaru Impreza WRX STI '07
+
+- `+` Buff to the acceleration
+- `+` Top Speed Buff (376 -> 378)
+- `=` Handling Rebalance
+
+### Mazda Mazdaspeed 3
+
+- `-` Decreased turbo actuation regime (4750 RPM -> 5000 RPM)
+
+### Dodge Viper SRT-10 `-+ Rework +-`
+
+- `+` Performance Boost
+- `+` Increased turbo actuation regime (4750 RPM -> 4500 RPM)
+- `+` Top Speed Buff (387 -> 392)
+- `+` Most noticeable turbo kick
+- `=` Handling Rebalance
+
+### Pagani Zonda
+
+- `=` Handling Rebalance
+
+## 🔄 Changed
+
+- A compatibility patch has been added for the `Endgame` mod.
+- Two new camera options have been added.
+- A conversion has been added for the Mazdaspeed 3.
+- Two new mod instruction files have been added.
+- All bonus cars have had their files modified to match those of the Endgame mod.
+- The installer has been split into three parts instead of three sections.
+- New audio has been added for the Ford GT.
+- New audio has been added for the Toyota MR2.
+- `>` Changes in the wheel alignment of the Toyota MR2
+- `>` Changes in the wheel alignment and height of the Plymouth Roadrunner
+- `>` Changes in the height of the Mitsubishi Eclipse
+- `>` Changes in the height of the Porsche 911 GT3 RS
+- `>` Changes in the height of the Dodge Viper SRT-10
+- `>` Changes in the wheel alignment of the Mazda RX-7
+
+## 🔧 Fixed
+
+- Fixed a bug with the Lexus IS300 transmission, which would not reach 6th gear. [Vanilla]
+- Fixed a bug with the Pagani Zonda-F turbo, which was not the correct one. [Vanilla, Improvement Mod]
+- Fixed a bug with the Pagani Zonda-F, which would not upgrade. [Vanilla, Improvement Mod, CBR]
+- Fixed a bug with the Mitsubishi Eclipse GSX conversion, where the upgrade would slow down in the base state but not when upgrading. [CBR]
+- Fixed a bug with the Toyota MR2 transmission, which would not reach 6th gear. [Vanilla]
+- Fixed a bug with the Plymouth Roadrunner that caused engine torque to be incorrect [OVGI: Vanilla]
+- Fixed some bodykits:
+  - Nissan Skyline [Vanilla, Improvement Mod]
+  - Toyota MR2 [CBR]
+  - Mazdaspeed 3
+  - Mitsubishi Eclipse [Vanilla, CBR]
+  - BMW M3 GTR [Improvement Mod]
+- Fixed a bug with the hood camera on the Mitsubishi Lancer Evolution 9
+
+## ✏️ NOTES
+
+It also happened to me with the Audi LeMans, but when I deleted my saved game the game no longer crashed when using the Audi, so I don't know if I should consider what happened to me with the Murcielago LP640 a bug.
+
+The modification and/or fix to the bodykits is only for the vanilla version, I'm going to prepare Rev v1.1 in search of bugs and changes (that includes the bodykits) for the improvement mod V2.
+
+---
+
 # 🧾 [Rev 3.0 Changelog] - 2025-05-19
 
 The `Rev 3.0` It is a special patch for the `Carbon Battle Royale` mod which focuses on one of the worst sections of the mod.
@@ -136,7 +324,7 @@ I tried to fix the bodykits in 2 separate updates because as you know, the `Impr
 
 ---
 
- # 🧾 [Rev 1.0 Changelog] - 2025-03-08
+# 🧾 [Rev 1.0 Changelog] - 2025-03-08
 
 `Rev 1.0` brings with it many changes to cars that were unbalanced (e.g. the Lamborghini Murcielago LP640), fixes to quite a few bodykits and several bug fixes with individual scripts and bugs with some cars and added some new functionality in the options folder.
 
