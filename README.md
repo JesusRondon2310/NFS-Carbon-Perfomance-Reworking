@@ -44,6 +44,9 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
   - Ride height adjustments.
 - Car Conversions (Since Rev 2.2):
   - Greatly improves the overall performance of the car by changing the transmission type (e.g. FWD to AWD).
+
+- Restored original drift physics for `Carbon Battle Royale` [Since Rev 3.0]
+
 ---
 
 ## 📷Comparatives
@@ -62,13 +65,11 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 There are several options for VlTed and OVGI:
 (make a backup of the files before installing the mod you know)
 
-1. Each Car has a .nfsms, so you can try each one individually, they are in different folders, one is for vanilla and another for the
-improvement mod.
+1. Each Car has a `.nfsms`, so you can try each one individually.
 
-2. There is a .nfsms that installs the performance of all cars instantly.
+2. There is a `.nfsms` that installs the performance of all cars instantly.
 
-3. And finally there is a folder that says Optionals that are just added and another that says Better Cameras which is the camera configuration that I use
-to play the game I put them there in case you want to try them :)
+3. And finally there is a folder that says `Optionals` that are just added and another that says `Cameras` which is the camera configuration that I use to play the game I put them there in case you want to try them :)
 
 ### Added Rev 1.0
 
@@ -82,13 +83,22 @@ to play the game I put them there in case you want to try them :)
 
 1. An option to lower the difficulty of drift races in the `Carbon Battle Royale` mod has been added to the `Optionals` folder.
 
+### Added in Rev 3.0.1
+
+1. Two new scripts for the game's cameras have been added to the `Optionals` folder.
+2. Added scripts for compatibility with the `Endgame` mod.
+
+---
+
 ### 📋 Requirements  
 
 - Need for Speed Carbon (v1.4 recommended)  
 - Modding Tools:  
-  - [VlTed](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)  
-  - [OVGI](https://nfsmods.xyz/mod/5290)
-  - [Binary](https://nfsmods.xyz/mod/1638)  
+  - [VlTed v4.6](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)  
+  - [OVGI v1.4](https://nfsmods.xyz/mod/5290)
+  - [Binary v2.9.0](https://nfsmods.xyz/mod/1638) 
+
+---
 
 ### 👣 Steps
 
@@ -98,9 +108,18 @@ to play the game I put them there in case you want to try them :)
 
 - Manual Selection: Individual `.nfsms` files for each vanilla car and some with exclusive bodykits from `Cabon Battle Royale` and `Improvement Mod V2`, the installation as in `All in 1`.
 
+---
+
 ### 🎨 Optional Add-ons
 
-- New Colors: For Carrera GT, Lancer EVO IX, SKYLINE, VIPER, Supra, CCX, RX7 (Applied With Binary)
+- New colors: (Applied with binary).
+  - Carrera GT: Real-life silver.
+  - Lancer EVO IX: Metallic gray, similar to NFS ProStreet.
+  - SKYLINE: Light blue, similar to NFS ProStreet.
+  - Viper: Red.
+  - Supra: Red.
+  - CCX: Iridescent gray, similar to NFS ProStreet.
+  - RX7: Iridescent light blue, similar to NFS ProStreet.
 - Unlocked Bonus & DLC Cars
 - Improved Cameras (Personal Configuration)
 - Reprice for Vanilla Cars
@@ -113,6 +132,8 @@ to play the game I put them there in case you want to try them :)
 *For those interested in knowing more:*
 
 Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag], but it is not as much as you are imagining, that is, it does not take 5 business days to charge the turbo as it happens in real life, it is more gameplay friendly, that is, the final effect that I wanted to achieve by bringing the turbo lag is not the time it takes to charge the turbo but the kick that the turbo gives when it is at 100% operation, if you want to know what I was guided by to replicate it here I leave you a link to a youtube video of a dyno with [metrics](https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB), as you could see if you saw the video the operation of the turbo lag is similar with this mod, the turbo is activated at a certain rpm (each car has its own) and the turbo kick is noticeable when it reaches 100% use, you can see the operation with a custom [hud](https://nfsmods.xyz/mod/1903) or [use the one I use](https://nfsmods.xyz/mod/6169), but that is what I mean by turbo lag and in case you want to know the Supercharger does not have turbo lag, but it is not broken.
+
+---
 
 ## 🔄 NODE CHANGES
 
@@ -777,9 +798,7 @@ This mod has no distribution conditions. You are free to do whatever you want wi
 
 - Due to the nature of the mod, there are some bosses that become more competitive, if not difficult (especially in the canyon), but it's more than anything, at the beginning and then everything will be more "relaxed", because I already went through it (in order to test my own mod) to see if the game became unbearable or just becomes a little more complicated and my conclusion was that it is 'passable', the game does not become unplayable (I'm talking about the AI ​​and the AI ​​of the bosses).
 
-- Another thing is that when you see the performance port of MW you will think, can it be used with the [NFSC: MW'05 shiftpattern/ShiftSND Port](https://nfsmods.xyz/mod/6237)?, well that I don't know for sure because I made the mod long before I even knew about the existence of that mod.
-
-- This mod is currently compatible with the [Improvement Mod v2](https://nfsmods.xyz/mod/855) and [Carbon Battle Royale](https://nfsmods.xyz/mod/1211), I haven't tried it with other mods like Ultimate or Endgame, but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
+- This mod is currently compatible with the [Improvement Mod V2](https://nfsmods.xyz/mod/855), [Carbon Battle Royale](https://nfsmods.xyz/mod/1211), [Endgame Mod](https://nfsmods.xyz/mod/1039), I haven't tried it with other mods like Ultimate or Endgame, but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
 
 - Finally, the mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars.
 
@@ -787,15 +806,17 @@ This mod has no distribution conditions. You are free to do whatever you want wi
 
 ### 🔎 Compatibility   
 
-✅ Confirmed Working With:  
+✅ Tested/Confirmed Working With:  
 
-- [Improvement Mod v2](https://nfsmods.xyz/mod/855)
-- [Carbon Battle Royale 1.2.5](https://nfsmods.xyz/mod/1211)
+- [Improvement Mod v2 (10/01/2025 - onwards)](https://nfsmods.xyz/mod/855)
+- [Carbon Battle Royale 1.2.5 (Since Rev 3.0)](https://nfsmods.xyz/mod/1211)
+- [Endgame Mod (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/1039)
+- [NFSC: MW'05 shiftpattern/ShiftSND Port by ElNico (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/6237)
+- [[NFSMW-WORLD] Steering Options Universal Pack by ElNico (Since Rev 3.0.1 Latest)](https://www.nfsaddons.com/downloads/nfsc/tools/9745/nfsmw-world-steering-options-universal-pack.html)
 
 ❌ Untested/Unconfirmed:  
 
-- Ultimate/Endgame Mods
-- [NFSC: MW'05 shiftpattern/ShiftSND Port](https://nfsmods.xyz/mod/6237)
+- Ultimate Mod
 
 ---
 
@@ -814,7 +835,7 @@ Q: Are you planning to make an update for the CBR add-on cars?
 A: No.
 
 Q: Can the mod be updated after being installed the first time?
-A: Yes, although I recommend doing this with a fresh copy of the game or right after installing the `Improvement Mod` or the `Carbon Battle Royale` mod, but yes, you can reinstall it to update it after installing it for the first time.
+A: Yes, although I recommend doing this with a fresh copy of the game or right after installing the `Improvement Mod`, `Endgame` or the `Carbon Battle Royale` mod, but yes, you can reinstall it to update it after installing it for the first time.
 
 ---
 
