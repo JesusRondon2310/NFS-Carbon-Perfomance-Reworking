@@ -115,8 +115,6 @@
 
 ### Toyota Supra
 
-- `+` Acceleration Buff
-- `+` Top Speed Buff (380 -> 384)
 - `=` Handling Rebalance
 
 ### Jaaguar XK
