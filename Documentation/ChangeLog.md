@@ -123,7 +123,7 @@
 
 - `=` Handling Rebalance
 
-### SUbaru Impreza WRX STI '07
+### Subaru Impreza WRX STI '07
 
 - `+` Buff to the acceleration
 - `+` Top Speed Buff (376 -> 378)
