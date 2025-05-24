@@ -96,7 +96,7 @@
 
 - `=` Handling Rebalance
 
-### Mercedes Sl65
+### Mercedes SL65
 
 - `=` Handling Rebalance
 - `=` Rebalance to acceleration to make it smoother
