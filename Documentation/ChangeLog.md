@@ -178,12 +178,6 @@
   - BMW M3 GTR [Improvement Mod]
 - Fixed a bug with the hood camera on the Mitsubishi Lancer Evolution 9
 
-## ✏️ NOTES
-
-It also happened to me with the Audi LeMans, but when I deleted my saved game the game no longer crashed when using the Audi, so I don't know if I should consider what happened to me with the Murcielago LP640 a bug.
-
-The modification and/or fix to the bodykits is only for the vanilla version, I'm going to prepare Rev v1.1 in search of bugs and changes (that includes the bodykits) for the improvement mod V2.
-
 ---
 
 # 🧾 [Rev 3.0 Changelog] - 2025-05-19
