@@ -1,3 +1,84 @@
+# 🧾 [Rev 3.1.1 - Rev 3.1.2 Changelog] - 2025-06-06
+
+`Rev 3.1.1 - Rev 3.1.2` Installer Bug fixes, file restructuring, changes in handling, Added new features and Testing of other mods.
+
+## ⚖️ Balance changes
+
+### Audi LeMans
+
+- `=` Small Handling Buff
+- `=` Brakes Rebalance
+
+### BMW M3 GTR
+
+- `=` Brakes Rebalance
+
+### Chrysler 300C SRT-8
+
+- `+` Brakes Buff
+- `+` Handling Buff
+- `-` Small Performance Nerf
+
+### Chevrolet Corvette z06
+
+- `+` Handling Buff
+- `=` Performance Rebalance
+
+### Chevrolet Corvette C6
+
+- `+` Handling Buff
+
+### Mercedes-Benz CLK-500 AMG
+
+- `=` Performance & Handling Rebalance
+
+### Mercedes-McLaren SLR
+
+- `=` Brakes Rebalance
+
+### Porsche GT3 RS
+
+- `=` Brakes Rebalance
+
+### Porsche Carrera GT
+
+- `=` Brakes Rebalance
+
+## 🔄 Changed
+
+- A new feature added: `Supercharger SFX`, this is a script, which seeks to imitate the sound of a supercharger using the game's resources.
+- Added new information to `_Navigate in the Files Folder.md`.
+- Added `Chrysler 300C SRT-8` and `Mazda RX-7` to the `Improvement Mod V2` folder as compatibility scripts.
+- `>` Changes to the `Better Vanilla Cameras` camera preset, which has been optimized for larger cars like the `1969 Dodge Charger`.
+- `>` Changes on the alignment and the wheel size of the `Chevrolet Corvette Z06`.
+- `>` Changes on the alignment and the wheel size of the `Chevrolet Corvette C6`.
+- `>` Changes on the alignment of the wheel; the wheel size and the height of the `Mazda RX-7`.
+- `>` Changes on the alignment of the wheel and the height of the `BMW M3 GTR`.
+- `>` Changes on the height of the `Mercedes-Benz CLK-500 AMG`.
+- `>` Changes on the height of the `Pontiac GTO`.
+
+## 🔧 Fixed
+
+- Fixed the name of `_Navigate in the Files Folder.md` which was `_Navigate in the Files Foldes.md`
+- Body Kits Adjustments:
+  - Chevrolet Camaro Concept
+  - Shelby Mustang Cobra GT500 '07
+  - Plymouth Roadrunner
+  - Toyota MR2
+  - Chevrolet Chevelle
+  - Chrysler 300C SRT-8
+  - Infinity G35
+  - Pontiac GTO
+- Fixed bug when installing the `Chrysler 300C SRT-8` script from `Improvement Mod V2`. [VLT, OVGI]
+- Fixed bug when installing the `Mazda RX-7` script from `Improvement Mod V2`. [VLT, OVGI]
+- Fixed bug when installing the `Mercedes-Benz CLK-500 AMG` script from `Improvement Mod V2`. [VLT, OVGI]
+- Fixed bug when installing the `Ford GT` script from `Improvement Mod V2`. [VLT, OVGI]
+- Fixed bug when installing the `Ford GT` script from `Battle Royale Mod`. [OVGI]
+- Fixed bug when installing the `Dodge Charger SRT-8` script from `Battle Royale Mod`. [OVGI]
+- Fixed bug when installing the `Mercedes-Benz CLK-500 AMG` script from `Battle Royale Mod`. [OVGI]
+
+---
+
 # 🧾 [Rev 3.1 Changelog] - 2025-05-23
 
 `Rev 3.1` Bug fixes, file restructuring, changes in handling to be a mix between Carbon and MW, Added new features and Testing of other mods.
