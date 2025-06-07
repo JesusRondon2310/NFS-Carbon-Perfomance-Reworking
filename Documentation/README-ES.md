@@ -30,7 +30,7 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 - **Reajustes de Vehículos**:
   - Se reajustaron algunos niveles de autos.
   - Revisiones completas (ej. Alfa Romeo Brera).
-  - Ajustes de autos, buff/nerf (ej. Lamborghini Murciélago: 396 kph → 390 kph, pero el Lamborghini Murciélago LP640 ahora tiene los 396 kph).
+  - Cambios de balance, buff/nerf (ej. Lamborghini Murciélago: 396 kph → 390 kph, pero el Lamborghini Murciélago LP640 ahora tiene los 396 kph).
   - Ajustes de altura de los autos.
 - Conversiones de vehículos (desde la versión Rev 2.2):
   - Mejora considerablemente el rendimiento general del vehículo al cambiar el tipo de transmisión (p. ej., de tracción delantera a tracción total).
@@ -99,7 +99,7 @@ Hay varias opciones para VlTed y OVGI:
 
 - Todo en Uno: Con `Ovgi` o `Vlted`, ve al apartado de `File`, despues a `Import`, selecciona la opcion `ModScript` y Seleccion el archivo `All in 1.nfsms`, seguido de eso aparecerá un recuadro con el boton `Install`, al terminar ve de nuevo a `File` y presiona `Save` y listo!
 
-- Selección Manual: Archivos `.nfsms` individuales por cada auto vanilla y algunos con bodykits exclusivos de `Cabon Battle Royale` y `Improvement Mod V2`, la instalación es similar que el script `All in 1`.
+- Selección Manual: Archivos `.nfsms` individuales por cada auto vanilla y algunos con body kits exclusivos de `Cabon Battle Royale` y `Improvement Mod V2`, la instalación es similar que el script `All in 1`.
 
 ---
 
@@ -191,4 +191,4 @@ R: Sí, aunque recomiendo hacerlo con el juego recién instalado o justo despué
 
 ---
 
-"¡Gracias por descargar! Si encuentras errores, avísame en los comentarios :)"
+"¡Gracias por descargar! Si encuentras errores, reportalos :)"
