@@ -19,7 +19,11 @@
 - `+` Handling Buff
 - `-` Small Performance Nerf
 
-### Chevrolet Corvette z06
+### Chevrolet Camaro Concept
+
+- `=` Performance Rebalance
+
+### Chevrolet Corvette Z06
 
 - `+` Handling Buff
 - `=` Performance Rebalance
@@ -28,6 +32,10 @@
 
 - `+` Handling Buff
 
+### Shelby Mustang Cobra GT500 '07
+
+- `=` Performance Rebalance
+
 ### Mercedes-Benz CLK-500 AMG
 
 - `=` Performance & Handling Rebalance
@@ -35,6 +43,10 @@
 ### Mercedes-McLaren SLR
 
 - `=` Brakes Rebalance
+
+### Mitsubishi Lancer Evolution 9
+
+- `=` Handling Rebalance
 
 ### Porsche GT3 RS
 
@@ -48,12 +60,13 @@
 
 - A new feature added: `Supercharger SFX`, this is a script, which seeks to imitate the sound of a supercharger using the game's resources.
 - Added new information to `_Navigate in the Files Folder.md`.
-- Added `Chrysler 300C SRT-8` and `Mazda RX-7` to the `Improvement Mod V2` folder as compatibility scripts.
+- Added `Chrysler 300C SRT-8`; `Mazda RX-7` and `Mitsubishi Lancer Evolution 9` to the `Improvement Mod V2` folder as compatibility scripts.
 - `>` Changes to the `Better Vanilla Cameras` camera preset, which has been optimized for larger cars like the `1969 Dodge Charger`.
 - `>` Changes on the alignment and the wheel size of the `Chevrolet Corvette Z06`.
 - `>` Changes on the alignment and the wheel size of the `Chevrolet Corvette C6`.
 - `>` Changes on the alignment of the wheel; the wheel size and the height of the `Mazda RX-7`.
 - `>` Changes on the alignment of the wheel and the height of the `BMW M3 GTR`.
+- `>` Changes on the alignment of the wheel; the height and the pvehicle of the `Chevrolet Camaro Concept`.
 - `>` Changes on the height of the `Mercedes-Benz CLK-500 AMG`.
 - `>` Changes on the height of the `Pontiac GTO`.
 
@@ -76,6 +89,7 @@
 - Fixed bug when installing the `Ford GT` script from `Battle Royale Mod`. [OVGI]
 - Fixed bug when installing the `Dodge Charger SRT-8` script from `Battle Royale Mod`. [OVGI]
 - Fixed bug when installing the `Mercedes-Benz CLK-500 AMG` script from `Battle Royale Mod`. [OVGI]
+- Fixed bug when installing the `Audi LeMans` script from `Endgame`. [OVGI]
 
 ---
 
