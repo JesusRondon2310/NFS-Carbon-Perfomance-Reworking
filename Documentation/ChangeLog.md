@@ -1,4 +1,4 @@
-# 🧾 [Rev 3.1.1 - Rev 3.1.2 Changelog] - 2025-06-07
+# 🧾 [Rev 3.1.1 - Rev 3.1.2 Changelog] - 2025-06-04 - 2025-06-07
 
 `Rev 3.1.1 - Rev 3.1.2` Installer Bug fixes, file restructuring, changes in handling, Added new features and Testing of other mods.
 
