@@ -87,6 +87,11 @@ There are several options for VlTed and OVGI:
 
 1. Two new scripts for the game's cameras have been added to the `Optionals` folder.
 2. Added scripts for compatibility with the `Endgame` mod.
+3. Added a markdown with instructions for navigating between files (only readme.md from the `.7z file`).
+
+### Added in Rev 3.1.2
+
+1. A new feature added: `Supercharger SFX`.
 
 ---
 
@@ -120,8 +125,7 @@ There are several options for VlTed and OVGI:
   - Supra: Red.
   - CCX: Iridescent gray, similar to NFS ProStreet.
   - RX7: Iridescent light blue, similar to NFS ProStreet.
-- Unlocked Bonus & DLC Cars
-- Improved Cameras (Personal Configuration)
+- Improved Cameras (Various presets)
 - Reprice for Vanilla Cars
 - Maxed Presets From Challenge Series, Bosses & Wingmans
 
@@ -159,19 +163,30 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
 ### Modified Files  
 
 ```text
-📦Need for Speed Carbon Performance Reworking
+📦NFS Carbon Performance Reworking
  ┣ 📂Files
  ┃ ┣ 📂Installer
  ┃ ┃ ┣ 📂Screenshots
- ┃ ┃ ┃ ┣ 📜dday.png
- ┃ ┃ ┃ ┣ 📜Installer_Thumbnail.png
- ┃ ┃ ┃ ┣ 📜melissa.png
- ┃ ┃ ┃ ┣ 📜rx7.png
- ┃ ┃ ┃ ┗ 📜tarkovsky.png
+ ┃ ┃ ┃ ┣ 📜blower_superchager.jpg
+ ┃ ┃ ┃ ┣ 📜dday.jpg
+ ┃ ┃ ┃ ┣ 📜ford_gt_supercharger.jpg
+ ┃ ┃ ┃ ┣ 📜hellcat_supercharger.jpg
+ ┃ ┃ ┃ ┣ 📜Installer_Thumbnail.jpg
+ ┃ ┃ ┃ ┣ 📜melissa.jpg
+ ┃ ┃ ┃ ┣ 📜rx7.jpg
+ ┃ ┃ ┃ ┗ 📜tarkovsky.jpg
+ ┃ ┃ ┣ 📂SuperchargerSFX
+ ┃ ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┃ ┣ 📜Supercharger BattleRoyale.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2 AddOns.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and Endgame.nfsms
+ ┃ ┃ ┃ ┣ 📂VLT
+ ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2_AddOns.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and_Endgame.nfsms
+ ┃ ┃ ┃ ┗ 📜_CreateNode.nfsms
  ┃ ┃ ┣ 📜_AddOn_Cars OVGI.nfsms
  ┃ ┃ ┣ 📜_AddOn_Cars_VLT.nfsms
- ┃ ┃ ┣ 📜_Battle_Royal Patch.nfsms
- ┃ ┃ ┣ 📜_Car_Conversions.nfsms
+ ┃ ┃ ┣ 📜_Battle_Royale Patch.nfsms
  ┃ ┃ ┣ 📜_Endgame_Mod OVGI.nfsms
  ┃ ┃ ┣ 📜_Endgame_Mod_VLT.nfsms
  ┃ ┃ ┣ 📜_Improvement_Mod_V2 OVGI.nfsms
@@ -220,8 +235,12 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
  ┃ ┃ ┃ ┣ 📂DodgeCharger69
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER69.nfsms
+ ┃ ┃ ┃ ┣ 📂DodgeChargerSRT-8
+ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHARGER06.nfsms
  ┃ ┃ ┃ ┣ 📂DodgeViperSRT-10
  ┃ ┃ ┃ ┃ ┗ 📜VIPER_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┣ 📂FordMustangGT
  ┃ ┃ ┃ ┃ ┗ 📜MUSTANGGT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┣ 📂JaguarXK
@@ -238,6 +257,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
  ┃ ┃ ┃ ┣ 📂MazdaRX7
  ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂Mercedes-McLarenSLR
  ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
@@ -275,6 +296,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┗ 📂_ToyotaMR2
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┣ 📂CarConverions
+ ┃ ┃ ┃ ┣ 📂Mazdaspeed3
+ ┃ ┃ ┃ ┃ ┗ 📜MAZDASPEED3_AWD.nfsms
  ┃ ┃ ┃ ┗ 📂MitsubishiEclipse
  ┃ ┃ ┃ ┃ ┗ 📜ECLIPSE_AWD.nfsms
  ┃ ┃ ┣ 📂Endgame
@@ -398,55 +421,63 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfGTI
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Chrysler300C
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMazdaSpeed3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_IMPREZA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_AudiLeMans
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCamaroConcept
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletChevelleSS
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCorvetteZ06
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_InfinitiG35
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_KoenigseggCCX
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_LamborghiniMurcielagoLP640
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_MitsubishiEclipseGS-T
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_Nissan350Z
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂_NissanSkylineR34
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_PaganiZonda-F
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_PlymouthRoadrunner
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_Porsche911GT3RS
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ShelbyMustangCobraGT500
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ToyotaCorolla
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┗ 📂_ToyotaMR2
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX7
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_BMWM3GTR
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_FordGT
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_LexusIS300
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_Mercedes-BenzCLK500
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_PontiacGTO
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┃ ┃ ┃ ┗ 📂_RenaultCLioV6
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┗ 📂VLT
@@ -498,55 +529,63 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┗ 📂VolkswagenGolfGTI
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜GTI.nfsms
  ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletCamaroConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Chrysler300C
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_300C.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂InfinitiG35
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LotusEuropaS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_EUROPAS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaMazdaSpeed3
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MAZDASPEED3.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PaganiZonda-F
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PlymouthRoadrunner
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Porsche911GT3RS
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ShelbyMustangCobraGT500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂SubaruImprezaWRXSTI
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_IMPREZA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_AudiLeMans
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCamaroConcept
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletChevelleSS
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaCorolla
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCorvetteZ06
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_InfinitiG35
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_G35.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_KoenigseggCCX
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_LamborghiniMurcielagoLP640
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MURCIELAGO_LP640.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_MitsubishiEclipseGS-T
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_Nissan350Z
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_NissanSkylineR34
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂_NissanSkylineR34
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_SKYLINE_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_PaganiZonda-F
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_PlymouthRoadrunner
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_ROADRUNNER.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_Porsche911GT3RS
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_997GT3RS.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ShelbyMustangCobraGT500
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COBRA_07.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_ToyotaCorolla
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
- ┃ ┃ ┃ ┃ ┃ ┗ 📂_ToyotaMR2
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
  ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MazdaRX7
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SUPRA_STUTUTU.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_BMWM3GTR
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_FordGT
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_LexusIS300
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_Mercedes-BenzCLK500
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
- ┃ ┃ ┃ ┃ ┃ ┣ 📂_PontiacGTO
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┃ ┃ ┃ ┗ 📂_RenaultCLioV6
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┗ 📂Vanilla
@@ -776,8 +815,9 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┣ 📜Car Conversions.nfsms
  ┣ 📜Optionals.nfsms
  ┣ 📜Recolors.end
+ ┣ 📜Supercharger SFX.nfsms
  ┣ 📜_Navegar Dentro de la Carpeta Files.md
- ┣ 📜_Navigate in the Files Foldes.md
+ ┣ 📜_Navigate in the Files Folder.md
  ┣ 📜_README-ES.md
  ┗ 📜_README.md
 ```
@@ -798,7 +838,9 @@ This mod has no distribution conditions. You are free to do whatever you want wi
 
 - Due to the nature of the mod, there are some bosses that become more competitive, if not difficult (especially in the canyon), but it's more than anything, at the beginning and then everything will be more "relaxed", because I already went through it (in order to test my own mod) to see if the game became unbearable or just becomes a little more complicated and my conclusion was that it is 'passable', the game does not become unplayable (I'm talking about the AI ​​and the AI ​​of the bosses).
 
-- This mod is currently compatible with the [Improvement Mod V2](https://nfsmods.xyz/mod/855), [Carbon Battle Royale](https://nfsmods.xyz/mod/1211), [Endgame Mod](https://nfsmods.xyz/mod/1039), I haven't tried it with other mods like Ultimate or Endgame, but I don't think it's totally incompatible with those mods as it's a performance improvement for the cars and doesn't touch any of the gameplay of those mods.
+- This mod is currently compatible with several mods, I haven't tested it with other mods like Ultimate, but I don't think it's completely incompatible with those mods since it's a performance boost for the cars and doesn't affect any of the gameplay of those mods.
+
+- When installing the mod on versions for `VlTed Tool`, it will throw an exception saying `Invalid Parameter Count`. This is because `VlTed` doesn't interpret files with spaces in their names. This is done to be compatible with `OVGI`, and with this one, no errors will occur (not that I know of, it should be noted).
 
 - Finally, the mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars.
 
@@ -829,13 +871,13 @@ Q: This mod buff the performance of the Improvement Mod add-on cars?
 A: Since Rev 2.0
 
 Q: Is it normal that when installing the Audi Lemans or M3 GTR mod I get an error?
-A: Yes, it's completely normal, don't be alarmed if you see something like `delete_node bmwm3gtre46_top` or something like that.
+A: No, it was normal before but I already fixed it in Rev 3.1.2
 
 Q: Are you planning to make an update for the CBR add-on cars?
 A: No.
 
 Q: Can the mod be updated after being installed the first time?
-A: Yes, although I recommend doing this with a fresh copy of the game or right after installing the `Improvement Mod`, `Endgame` or the `Carbon Battle Royale` mod, but yes, you can reinstall it to update it after installing it for the first time.
+A: Yes, although I recommend doing this with a fresh copy of the game or right after installing the `Improvement Mod` for example, but yes, you can install this mod with a copy of the game with other mods already installed or reinstall it to update it after installing it for the first time, but remember that after installing it with an already existing save game, I highly recommend making a new one.
 
 ---
 
