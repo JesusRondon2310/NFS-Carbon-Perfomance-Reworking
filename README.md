@@ -60,6 +60,30 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ---
 
+### 📋 Requirements  
+
+- Need for Speed Carbon (v1.4 recommended)  
+- Modding Tools:  
+  - [VlTed v4.6](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)  
+  - [OVGI v1.4](https://nfsmods.xyz/mod/5290)
+  - [Binary v2.9.0](https://nfsmods.xyz/mod/1638) 
+
+### 🔎 Compatibility   
+
+✅ Tested/Confirmed Working With:  
+
+- [Improvement Mod v2 (10/01/2025 - onwards)](https://nfsmods.xyz/mod/855)
+- [Carbon Battle Royale 1.2.5 (Since Rev 3.0)](https://nfsmods.xyz/mod/1211)
+- [Endgame Mod (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/1039)
+- [NFSC: MW'05 shiftpattern/ShiftSND Port by ElNico (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/6237)
+- [[NFSMW-WORLD] Steering Options Universal Pack by ElNico (Since Rev 3.0.1 Latest)](https://www.nfsaddons.com/downloads/nfsc/tools/9745/nfsmw-world-steering-options-universal-pack.html)
+
+❌ Untested/Unconfirmed:  
+
+- Ultimate Mod
+
+---
+
 ## ⚙️ Installation  
 
 There are several options for VlTed and OVGI:
@@ -70,40 +94,6 @@ There are several options for VlTed and OVGI:
 2. There is a `.nfsms` that installs the performance of all cars instantly.
 
 3. And finally there is a folder that says `Optionals` that are just added and another that says `Cameras` which is the camera configuration that I use to play the game I put them there in case you want to try them :)
-
-### Added Rev 1.0
-
-1. In the `Optionals` folder, the option to max the preset cars of the bosses and also their companions was added, as well as the option to max the presets of the cars of the challenge series.
-
-### Added in Rev 2.2
-
-1. A new folder called `CarConversions` has been added for future vehicle improvements, currently only the Mitsubishi Eclipse GS-T.
-
-### Added in Rev 3.0
-
-1. An option to lower the difficulty of drift races in the `Carbon Battle Royale` mod has been added to the `Optionals` folder.
-
-### Added in Rev 3.0.1
-
-1. Two new scripts for the game's cameras have been added to the `Optionals` folder.
-2. Added scripts for compatibility with the `Endgame` mod.
-3. Added a markdown with instructions for navigating between files (only readme.md from the `.7z file`).
-
-### Added in Rev 3.1.2
-
-1. A new feature added: `Supercharger SFX`.
-
----
-
-### 📋 Requirements  
-
-- Need for Speed Carbon (v1.4 recommended)  
-- Modding Tools:  
-  - [VlTed v4.6](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)  
-  - [OVGI v1.4](https://nfsmods.xyz/mod/5290)
-  - [Binary v2.9.0](https://nfsmods.xyz/mod/1638) 
-
----
 
 ### 👣 Steps
 
@@ -128,6 +118,28 @@ There are several options for VlTed and OVGI:
 - Improved Cameras (Various presets)
 - Reprice for Vanilla Cars
 - Maxed Presets From Challenge Series, Bosses & Wingmans
+
+### Added Rev 1.0
+
+1. In the `Optionals` folder, the option to max the preset cars of the bosses and also their companions was added, as well as the option to max the presets of the cars of the challenge series.
+
+### Added in Rev 2.2
+
+1. A new folder called `CarConversions` has been added for future vehicle improvements, currently only the Mitsubishi Eclipse GS-T.
+
+### Added in Rev 3.0
+
+1. An option to lower the difficulty of drift races in the `Carbon Battle Royale` mod has been added to the `Optionals` folder.
+
+### Added in Rev 3.0.1
+
+1. Two new scripts for the game's cameras have been added to the `Optionals` folder.
+2. Added scripts for compatibility with the `Endgame` mod.
+3. Added a markdown with instructions for navigating between files (only readme.md from the `.7z file`).
+
+### Added in Rev 3.1.2
+
+1. A new feature added: `Supercharger SFX`.
 
 ---
 
@@ -843,22 +855,6 @@ This mod has no distribution conditions. You are free to do whatever you want wi
 - When installing the mod on versions for `VlTed Tool`, it will throw an exception saying `Invalid Parameter Count`. This is because `VlTed` doesn't interpret files with spaces in their names. This is done to be compatible with `OVGI`, and with this one, no errors will occur (not that I know of, it should be noted).
 
 - Finally, the mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars.
-
----
-
-### 🔎 Compatibility   
-
-✅ Tested/Confirmed Working With:  
-
-- [Improvement Mod v2 (10/01/2025 - onwards)](https://nfsmods.xyz/mod/855)
-- [Carbon Battle Royale 1.2.5 (Since Rev 3.0)](https://nfsmods.xyz/mod/1211)
-- [Endgame Mod (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/1039)
-- [NFSC: MW'05 shiftpattern/ShiftSND Port by ElNico (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/6237)
-- [[NFSMW-WORLD] Steering Options Universal Pack by ElNico (Since Rev 3.0.1 Latest)](https://www.nfsaddons.com/downloads/nfsc/tools/9745/nfsmw-world-steering-options-universal-pack.html)
-
-❌ Untested/Unconfirmed:  
-
-- Ultimate Mod
 
 ---
 
