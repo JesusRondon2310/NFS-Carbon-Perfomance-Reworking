@@ -1,4 +1,4 @@
-# 🧾 [Rev 3.1.1 - Rev 3.1.2 Changelog] - 2025/06/04 - 2025/06/07
+# 🧾 [Rev 3.1.1 - Rev 3.1.2 Changelog] - 04/06/2025 - 07/06/2025
 
 `Rev 3.1.1 - Rev 3.1.2` Installer Bug fixes, file restructuring, changes in handling, Added new features and Testing of other mods.
 
@@ -93,7 +93,7 @@
 
 ---
 
-# 🧾 [Rev 3.1 Changelog] - 2025-05-23
+# 🧾 [Rev 3.1 Changelog] - 23/05/2025
 
 `Rev 3.1` Bug fixes, file restructuring, changes in handling to be a mix between Carbon and MW, Added new features and Testing of other mods.
 
@@ -273,7 +273,7 @@
 
 ---
 
-# 🧾 [Rev 3.0 Changelog] - 2025-05-19
+# 🧾 [Rev 3.0 Changelog] - 19/05/2025
 
 The `Rev 3.0` It is a special patch for the `Carbon Battle Royale` mod which focuses on one of the worst sections of the mod.
 
@@ -334,7 +334,7 @@ The truth is that the drift in `Carbon Battle Royale` is very bad, the cars simp
 
 ---
 
-# 🧾 [Rev 1.1 Changelog] - 2025-03-09
+# 🧾 [Rev 1.1 Changelog] - 09/03/2025
 
 The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on the `Improvement Mod V2` version
 
@@ -411,7 +411,7 @@ I tried to fix the bodykits in 2 separate updates because as you know, the `Impr
 
 ---
 
-# 🧾 [Rev 1.0 Changelog] - 2025-03-08
+# 🧾 [Rev 1.0 Changelog] - 08/03/2025
 
 `Rev 1.0` brings with it many changes to cars that were unbalanced (e.g. the Lamborghini Murcielago LP640), fixes to quite a few bodykits and several bug fixes with individual scripts and bugs with some cars and added some new functionality in the options folder.
 
@@ -590,4 +590,4 @@ The modification and/or fix to the bodykits is only for the vanilla version, I'm
 ---
 
 🧾 Changelog
-. initial version release 05-03-25
+. initial version release 05/03/25
