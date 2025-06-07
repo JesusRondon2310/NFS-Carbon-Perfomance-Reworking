@@ -30,7 +30,7 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 - **Reajustes de Vehículos**:
   - Se reajustaron algunos niveles de autos.
   - Revisiones completas (ej. Alfa Romeo Brera).
-  - Ajustes de buff/nerf (ej. Murcielago: 396kph → 390kph).
+  - Ajustes de autos, buff/nerf (ej. Lamborghini Murciélago: 396 kph → 390 kph, pero el Lamborghini Murciélago LP640 ahora tiene los 396 kph).
   - Ajustes de altura de los autos.
 - Conversiones de vehículos (desde la versión Rev 2.2):
   - Mejora considerablemente el rendimiento general del vehículo al cambiar el tipo de transmisión (p. ej., de tracción delantera a tracción total).
@@ -133,7 +133,7 @@ Hay varias opciones para VlTed y OVGI:
 
 1. En la carpeta `Optionals` fueron agregados dos scripts nuevos para las camaras del juego.
 2. Agregado scripts de compatibilidad con el mod `Endgame`.
-3. Se agregó un markdown con instrucciones para navegar entre archivos (solo para el readme-es.md del `archivo .7z`).
+3. Se agregó un markdown con instrucciones para navegar entre archivos.
 
 ### Added in Rev 3.1.2
 
@@ -152,7 +152,7 @@ Bien, Hablando del apartado de [Funcionamiento "Realista" De Turbos y Supercarga
 ## ⛔ Política de Distribución  
 
 Este mod no tiene condiciones de distribución. Eres libre de hacer lo que quieras con él, pero si planeas usarlo como base o en paquetes de mods, debes dar créditos:  
-'Ejemplo: Basado en el mod de Platanito22 [Nfs Carbon Performance Reworking], Modificado por (tu nombre)'  
+'Ejemplo: Basado en el mod de Platanito22 [NFS Carbon Performance Reworking], Modificado por (tu nombre)'  
 
 - **Permitido**:  
   - Paquetes de mods y derivados  
@@ -183,7 +183,7 @@ R: Desde la Rev. 2.0
 P: ¿Es normal que al instalar el mod Audi LeMans o M3 GTR me aparezca un error?
 R: No, antes era normal pero ya los arregle en la Rev 3.1.2 :]
 
-P: ¿Planean actualizar los autos Add-On del CBR?
+P: ¿Planeas actualizar los autos Add-On del CBR?
 R: No.
 
 P: ¿Se puede actualizar el mod después de instalarlo por primera vez?
