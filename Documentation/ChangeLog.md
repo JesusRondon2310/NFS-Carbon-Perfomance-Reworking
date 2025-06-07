@@ -1,6 +1,6 @@
 # 🧾 [Rev 3.1.1 - Rev 3.1.2 Changelog] - 04/06/2025 - 07/06/2025
 
-`Rev 3.1.1 - Rev 3.1.2` Installer Bug fixes, file restructuring, changes in handling, Added new features and Testing of other mods.
+`Rev 3.1.1 - Rev 3.1.2` Installer Bug fixes, file restructuring, balance changes, Added new features and Testing of other mods.
 
 ## ⚖️ Balance changes
 
