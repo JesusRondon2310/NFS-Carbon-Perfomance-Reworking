@@ -1,3 +1,51 @@
+# 🧾 [Rev 3.1.3 Changelog] - 13/06/2025
+
+`Rev 3.1.3` Balance changes; Added new features and Testing of other mods.
+
+## ⚖️ Balance changes
+
+- #### Aston Martin DB9: Better Handling `+`
+- #### Jaguar XK:
+  - Better Handling `+`
+  - Better Accelerations `+`
+- #### Porsche Carrera GT: `-+ Rework +-`
+  - Performance Rebalance `=`
+  - Top Speed Buff (387 KPH -> 390 KPH) `+`
+  - Decreased Turbo Operating Regime (7200 RPM -> 6800 RPM) `+`
+  - Extended Turbo Lag `-`
+- #### Mazda RX-7:
+  - Handling Nerf `-`
+  - Acceleration Nerf `-`
+  - Extended Turbo Operating Regime (6100 - 6200 RPM -> 6800 RPM) `-`
+- #### Mitsubishi Lancer Evolution 9:
+  - Decreased Turbo Operating Regime (7100 RPM -> 6800 RPM) `+`
+- #### Lexus IS300: Decreased Turbo Operating Regime (6300 - 6200 RPM -> 6000 RPM) `+`
+- #### Toyota MR2: Performance Rebalance `=`
+- #### Renault Clio V6:
+  - Performance Rebalance `=`
+  - Top Speed Buff (380 KPH -> 382 KPH) `+`
+- #### Lotus Elise: Small Acceleration Buff `+`
+- #### Nissan Skyline R34: Acceleration Nerf `-`
+- #### Toyota Supra MK4: Performance Rebalance `=`
+
+## 🔄 Changed
+
+- Two new camera presets added: `Most Wanted Cameras` & `Most Wanted Cameras Rework`, the first being a direct port of Need for Speed ​​Most Wanted with exactly the same settings; there are no differences. And the Second one is a modification from `Most Wanted Cameras` with more `FOV` added for a better sence of speed. Also have `retrocompatibility` with Most Wanted.
+- Added new information to `_Navigate in the Files Folder.md`.
+- Reorganized information within the installers.
+- Added `Ford GT` and `Dodge Challenger Concept` to the `Endgame Mod` folder as compatibility scripts.
+- `>` Changes on the alignment and the wheel size of the `Lotus Europa S`.
+- `>` Changes on the alignment of the wheel; the wheel size and the height of the `Porsche Carrare GT`.
+- `>` Modify the alignment of the body kits from the `Mitsubishi Lancer Evolution 9`
+
+## 🔧 Fixed
+- Nothing here for now...
+
+## ✏️ NOTES
+
+
+---
+
 # 🧾 [Rev 3.1.1 - Rev 3.1.2 Changelog] - 04/06/2025 - 07/06/2025
 
 `Rev 3.1.1 - Rev 3.1.2` Installer Bug fixes, file restructuring, balance changes, Added new features and Testing of other mods.
