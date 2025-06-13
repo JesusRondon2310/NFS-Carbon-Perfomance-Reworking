@@ -43,6 +43,8 @@
 
 ## ✏️ NOTES
 
+I discovered something interesting while creating the scripts for the new camera presets. I was curious to try them out with Most Wanted and was very surprised to see that they worked without any errors when installing them or anything like that. They actually feel pretty good, coming from Carbon. I tried them all and they worked. You know you can install other presets like `Modern Cameras For Carbon` or `[Carbon] Extended Cameras` in Most Wanted. 
+P.S. And if you've made it this far and are still reading, I can only thank you. At least now I know there are people reading this and I don't waste time creating changelogs. Have a nice day!
 
 ---
 
