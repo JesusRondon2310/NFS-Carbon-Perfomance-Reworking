@@ -141,6 +141,15 @@ There are several options for VlTed and OVGI:
 
 1. A new feature added: `Supercharger SFX`.
 
+### Added in Rev 3.1.3
+
+1. Three new scripts have been added to the `Optionals` folder for the `Endgame` mod.
+2. Two new camera presets have been added:
+
+- `Most Wanted Cameras`: This preset has been ported directly from `Need for Speed ​​Most Wanted` with exactly the same values; there are no differences.
+
+- `Most Wanted Cameras Rework`: Based on `Most Wanted Cameras`, this preset modifies the FOV for a better sense of speed.
+
 ---
 
 ## ⚠️ Important Notes
@@ -207,11 +216,20 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┗ 📜_Vanilla_VLT.nfsms
  ┃ ┣ 📂Optionals
  ┃ ┃ ┣ 📂Cameras
- ┃ ┃ ┃ ┣ 📜BetterCameras.nfsms
- ┃ ┃ ┃ ┣ 📜BetterVanillaCameras.nfsms
+ ┃ ┃ ┃ ┣ 📂Carbon
+ ┃ ┃ ┃ ┃ ┣ 📜BetterCameras.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜BetterVanillaCameras.nfsms
+ ┃ ┃ ┃ ┣ 📂MostWanted
+ ┃ ┃ ┃ ┃ ┣ 📜MWCameras.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜MWCamerasRework.nfsms
  ┃ ┃ ┃ ┗ 📜DefaultCameras.nfsms
  ┃ ┃ ┣ 📂CBR
  ┃ ┃ ┃ ┗ 📜DriftRaces.nfsms
+ ┃ ┃ ┣ 📂Endgame
+ ┃ ┃ ┃ ┗ 📂CanyonRaces
+ ┃ ┃ ┃ ┃ ┣ 📜Opponents.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📜Police.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜Traffic.nfsms
  ┃ ┃ ┣ 📂PresetRides
  ┃ ┃ ┃ ┣ 📜Boss&Wingman_Def.nfsms
  ┃ ┃ ┃ ┣ 📜Boss&Wingman_Max.nfsms
@@ -321,6 +339,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
@@ -344,6 +364,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
  ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┗ 📂PontiacGTO
@@ -356,6 +378,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CAMARO_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂DodgeChallengerConcept
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHALLENGER_CONCEPT.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂KoenigseggCCX
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielagoLP640
@@ -379,6 +403,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📂MostWantedCars
  ┃ ┃ ┃ ┃ ┃ ┣ 📂BMWM3GTR
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂FordGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜FORD_GT_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂LexusIS300
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┗ 📂PontiacGTO
