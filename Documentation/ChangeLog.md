@@ -1,4 +1,4 @@
-# 🧾 [Rev 3.1.3 Changelog] - 14/06/2025
+# 🧾 [Rev 3.1.3 Changelog] - 13/06/2025
 
 `Rev 3.1.3` Balance changes; Added new features and Testing of other mods.
 
