@@ -34,7 +34,7 @@
 - Added new information to `_Navigate in the Files Folder.md`.
 - Reorganized information within the installers.
 - Added `Ford GT` and `Dodge Challenger Concept` to the `Endgame Mod` folder as compatibility scripts.
-- `>` Changes on the alignment and the wheel size of the `Lotus Europa S`.
+- `>` Changes on the alignment of the wheel; the wheel size and the height of the `Lotus Europa S`.
 - `>` Changes on the alignment of the wheel; the wheel size and the height of the `Porsche Carrare GT`.
 - `>` Modify the alignment of the body kits from the `Mitsubishi Lancer Evolution 9`
 
