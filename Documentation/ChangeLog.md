@@ -17,8 +17,7 @@
   - Handling Nerf `-`
   - Acceleration Nerf `-`
   - Extended Turbo Operating Regime (6100 - 6200 RPM -> 6800 RPM) `-`
-- #### Mitsubishi Lancer Evolution 9:
-  - Decreased Turbo Operating Regime (7100 RPM -> 6800 RPM) `+`
+- #### Mitsubishi Lancer Evolution 9: Decreased Turbo Operating Regime (7100 RPM -> 6800 RPM) `+`
 - #### Lexus IS300: Decreased Turbo Operating Regime (6300 - 6200 RPM -> 6000 RPM) `+`
 - #### Toyota MR2: Performance Rebalance `=`
 - #### Renault Clio V6:
