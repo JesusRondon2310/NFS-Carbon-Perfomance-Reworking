@@ -141,7 +141,8 @@ Hay varias opciones para VlTed y OVGI:
 
 ### Añadido de la Rev 3.1.3
 
-1. Se agregaron dos nuevos presets de cámaras
+1. Se agregaron tres nuevos scripts a la carpeta `Optionals` para el mod `Endgame`.
+2. Se agregaron dos nuevos presets de cámaras:
 
 - `Most Wanted Cameras`: este preset se ha porteado directamente de `Need for Speed ​​Most Wanted` con exactamente las mismos valores; no hay diferencias.
 
