@@ -135,9 +135,17 @@ Hay varias opciones para VlTed y OVGI:
 2. Agregado scripts de compatibilidad con el mod `Endgame`.
 3. Se agregó un markdown con instrucciones para navegar entre archivos.
 
-### Added in Rev 3.1.2
+### Añadido de la Rev 3.1.2
 
 1. Se agregó una nueva característica: `Supercharger SFX`, este es un script, que busca imitar el sonido de un supercargador utilizando los recursos del juego.
+
+### Añadido de la Rev 3.1.3
+
+1. Se agregaron dos nuevos presets de cámaras
+
+- `Most Wanted Cameras`: este preset se ha porteado directamente de `Need for Speed ​​Most Wanted` con exactamente las mismos valores; no hay diferencias.
+
+- `Most Wantes Cameras Rework`: Basado en `Most Wantes Cameras`, este preset modifica el FOV para una mejor sensación de velocidad.
 
 ---
 
