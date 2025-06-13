@@ -30,6 +30,7 @@
 
 ## 🔄 Changed
 
+- Three new scripts have been added to the `Optionals` folder for the `Endgame` mod. These scripts are used to remove traffic, remove cops, and reduce opponents for canyon races.
 - Two new camera presets added: `Most Wanted Cameras` & `Most Wanted Cameras Rework`, the first being a direct port of Need for Speed ​​Most Wanted with exactly the same settings; there are no differences. And the Second one is a modification from `Most Wanted Cameras` with more `FOV` added for a better sence of speed. Also have `retrocompatibility` with Most Wanted.
 - Added new information to `_Navigate in the Files Folder.md`.
 - Reorganized information within the installers.
