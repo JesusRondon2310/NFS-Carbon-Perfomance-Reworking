@@ -13,9 +13,9 @@
 ## 🔍 Overview  
 
 Have you ever imagined what Need for Speed ​​Carbon would be like with the performance of the cars from Most Wanted? Yes, well that's what
-this mod comes to make a reality, it wasn't very disappointing to see how the M3 GTR went from reaching 389 kph and having amazing maneuverability
-in Most Wanted that became a car with limited maneuverability, average acceleration and a top speed of only 322 kph
-(don't get me wrong 322 kph is low for a Need for Speed ​​from the black box era and even more so being the direct sequel to Most Wanted,
+this mod comes to make a reality, it wasn't very disappointing to see how the M3 GTR went from reaching 389 KPH and having amazing maneuverability
+in Most Wanted that became a car with limited maneuverability, average acceleration and a top speed of only 322 KPH
+(don't get me wrong 322 KPH is low for a Need for Speed ​​from the black box era and even more so being the direct sequel to Most Wanted,
 but in real life it is high).
 
 Well that's what this mod comes to do, in short port and improve the performance of the more than 50 cars from Need for Speed ​​Carbon
