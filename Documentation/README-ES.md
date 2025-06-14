@@ -6,7 +6,7 @@ Hey, como va todo? Aqui Platanito22 con un mod fenomenal
 
 ## 🔍 Descripción General
 
-¿Alguna vez te has imaginado como sería Need for Speed Carbon con el rendimiento de los autos de Most Wanted? A que sí, bueno eso es lo que este mod viene a hacer realidad, no fue muy decepciónate ver como el M3 GTR de llegar hasta los 389 kph y tener una maniobrabilidad alucinante en Most Wanted que paso a ser un auto con una maniobrabilidad limitada, una aceleración media y una velocidad punta de tan solo 322 kph (no me malentiendan 322 kph es bajo para ser un Need for Speed de la era black box y más siendo la secuela directa de Most Wanted, pero en la vida real si es alto).
+¿Alguna vez te has imaginado como sería Need for Speed Carbon con el rendimiento de los autos de Most Wanted? A que sí, bueno eso es lo que este mod viene a hacer realidad, no fue muy decepciónate ver como el M3 GTR de llegar hasta los 389 KPH y tener una maniobrabilidad alucinante en Most Wanted que paso a ser un auto con una maniobrabilidad limitada, una aceleración media y una velocidad punta de tan solo 322 KPH (no me malentiendan 322 KPH es bajo para ser un Need for Speed de la era black box y más siendo la secuela directa de Most Wanted, pero en la vida real si es alto).
 
 Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rendimiento de los más de 50 autos de Need for Speed Carbon el rendimiento de todos los autos Most Wanted presentes en Carbon y los exclusivos de Carbon tales como el CCX o el Skyline R34.
 
