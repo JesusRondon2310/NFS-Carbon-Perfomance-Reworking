@@ -72,7 +72,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ❌ Untested/Unconfirmed:  
 
-- Ultimate Mod
+- [Ultimate Mod](https://nfsmods.xyz/mod/5894)
 
 ---
 
