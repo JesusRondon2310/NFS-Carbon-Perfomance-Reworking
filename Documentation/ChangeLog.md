@@ -26,17 +26,35 @@
 - #### Lotus Elise: Small Acceleration Buff `+`
 - #### Nissan Skyline R34: Acceleration Nerf `-`
 - #### Toyota Supra MK4: Performance Rebalance `=`
+- #### Koenigsegg CCX:
+  - Performance Rebalance `=`
+  - Handling Returned to a Previous State `<=`
+  - Small Brakes Buff `+`
+- #### Lamborghini Murciélago:
+  - Top Speed Nerf (397 KPH -> 393 KPH) `-`
+  - Less Turbo-Lag `+`
+- #### Lamborghini Murciélago LP640:
+  - Top Speed Nerf (397 KPH -> 396 KPH) `-`
+  - Acceleration Buff `+`
+
 
 ## 🔄 Changed
 
 - Three new scripts have been added to the `Optionals` folder for the `Endgame` mod. These scripts are used to remove traffic, remove cops, and reduce opponents for canyon races.
+- Two new colors added to `Recolors` folder:
+  - Lamborghini Murciélago: `Yellow 🟡`.
+  - Lamborghini Murciélago LP640: `Draco Green 🟢`.
 - Two new camera presets added: `Most Wanted Cameras` & `Most Wanted Cameras Rework`, the first being a direct port of Need for Speed ​​Most Wanted with exactly the same settings; there are no differences. And the Second one is a modification from `Most Wanted Cameras` with more `FOV` added for a better sence of speed. Also have `retrocompatibility` with Most Wanted.
 - Added new information to `_Navigate in the Files Folder.md`.
 - Reorganized information within the installers.
 - Added `Ford GT` and `Dodge Challenger Concept` to the `Endgame Mod` folder as compatibility scripts.
+- Added `Lamborghini Murciélago` to the `Carbon Battle Royale` folder as compatibility script.
+- `>` Modify the alignment of the body kits from the `Mitsubishi Lancer Evolution 9`.
 - `>` Changes on the alignment of the wheel; the wheel size and the height of the `Lotus Europa S`.
 - `>` Changes on the alignment of the wheel; the wheel size and the height of the `Porsche Carrare GT`.
-- `>` Modify the alignment of the body kits from the `Mitsubishi Lancer Evolution 9`
+- `>` Changes on the alignment of the wheel; the wheel size and the height of the `Koenigsegg CCX`.
+- `>` Changes on the alignment of the wheel; the wheel size; the height and the alignment of the body kits of the `Lamborghini Murciélago`.
+- `>` Changes on the alignment of the wheel; the wheel size; the height and the alignment of the body kits of the `Lamborghini Murciélago LP640`.
 
 ## 🔧 Fixed
 - Nothing here for now...
