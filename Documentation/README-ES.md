@@ -1,6 +1,11 @@
-(Pasos de instalacion abajo)
+# NFS Performance Reworking Mod
 
-Hey, como va todo? Aqui Platanito22 con un mod fenomenal
+*Por Platanito22*  
+
+![Documentation/Screenshots/Thumbnail.png](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/Thumbnail.png)
+**⚠️ NOTA:** [Changelog online disponible!](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/ChangeLog.md)
+
+Hey, como va todo? Aqui Platanito22 con un mod fenomenal.
 
 ---
 
@@ -14,32 +19,25 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 
 ## 🚀 Características
 
-### 🏎️ Mejoras Principales
+### 🏎️ Mejoras y Nuevas Mecánicas Implementadas 🛠️
 
-- **Mejoras de Rendimiento**:
+- **Porteos de Rendimiento**:
   - Aceleración y velocidades máximas porteadas desde Most Wanted (M3 GTR: 322 KPH → 389 KPH).
   - Manejo del vehículo mejorado y más ligero.
-- **Otras Mejoras**:
-  - Algunos Niveles de autos reacomodados.
-  - Cambio en precios (con el fin de acomodar la posición los autos).
-  - Corrección de alineación de ruedas y problemas en algunos body kits.
-
-### 🛠️ Mecánicas Avanzadas
-
 - **Funcionamiento de Turbo y Supercargador “Realista”**
-- **Reajustes de Vehículos**:
-  - Se reajustaron algunos niveles de autos.
-  - Revisiones completas (ej. Alfa Romeo Brera).
-  - Cambios de balance, buff/nerf (ej. Lamborghini Murciélago: 396 KPH → 393 KPH, pero el Lamborghini Murciélago LP640 ahora tiene los 396 KPH).
-  - Ajustes de altura de los autos.
+- **Reelaborado en rendimiento de algunos autos**
+- Cambios de balance (ej. Lamborghini Murciélago: 396 KPH → 393 KPH, pero el Lamborghini Murciélago LP640 ahora tiene los 396 KPH).
 - Conversiones de vehículos (desde la versión Rev 2.2):
   - Mejora considerablemente el rendimiento general del vehículo al cambiar el tipo de transmisión (p. ej., de tracción delantera a tracción total).
-
 - Recupera las físicas de derrape original para `Carbon Battle Royale` [desde la versión Rev 3.0]
+- **Otros Ajustes y/o Correciones**:
+  - Algunos Niveles de autos reacomodados.
+  - Ajustes de altura de los autos.
+  - Corrección de alineación de ruedas y problemas en algunos body kits.
 
 ---
 
-## 📷Comparatives
+## 📷 Imágenes comparativas
 
 ![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.jpg) 
 ![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.jpg)
@@ -68,11 +66,11 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 
 ❌ No probado/Sin confirmar:
 
-- Ultimate Mod
+- [Ultimate Mod](https://nfsmods.xyz/mod/5894)
 
 ---
 
-## ⚙️ Instalación
+## 📚 Opciones de Instalacion
 
 Hay varias opciones para VlTed y OVGI:
 (haz una copia de seguridad de los archivos antes de instalar el mod, ya sabes)
@@ -81,13 +79,13 @@ Hay varias opciones para VlTed y OVGI:
 
 2. Hay un `.nfsms` que instala el rendimiento de todos los autos al instante.
 
-3. Finalmente, hay una carpeta llamada `Optionals` que solo se añade complementos y otra llamada `Cameras` con la configuración de cámaras que uso personalmente. Lo pongo por si quieren probarlas :)
+3. Finalmente, hay una carpeta llamada `Optionals` en la cual hay varios scripts para uso general (me refiro con uso general cualquier nfs carbon con o sin mods) o específico para ciertos mods y varios presets de cámaras.
 
-### 👣 Pasos
+### ⚙️ ¿Cómo lo instalo?
 
 **Elige Método de Instalación**:  
 
-- Todo en Uno: Con `Ovgi` o `Vlted`, ve al apartado de `File`, despues a `Import`, selecciona la opcion `ModScript` y Seleccion el archivo `All in 1.nfsms`, seguido de eso aparecerá un recuadro con el boton `Install`, al terminar ve de nuevo a `File` y presiona `Save` y listo!
+- All in 1: Con `Ovgi` o `Vlted`, vaya a la sección `File`, después de `Import`, seleccione la opción `ModScript` y seleccione el archivo `All in 1.nfsms`, después de eso aparecerá un cuadro con el botón `Install` y varias opciones, selecciona las correspondientes por ejemplo: para el mod `Improvement Mod V2` selecciona la herramienta usada en ese momento y la opción para instalarlo también en los coches add-ons (aplica igual para las otras opciones dentro del instalador y los demas scripts como `Optionals` por ejemplo), cuando termines regresa a `File` y presiona `Save` ¡y listo!
 
 - Selección Manual: Archivos `.nfsms` individuales por cada auto vanilla y algunos con body kits exclusivos de `Cabon Battle Royale` y `Improvement Mod V2`, la instalación es similar que el script `All in 1`.
 
@@ -97,17 +95,17 @@ Hay varias opciones para VlTed y OVGI:
 
 - Nuevos colores: (Aplicado con binary).
   - Carrera GT: Plateado similar a la vida real.
-  - Lancer EVO IX: Gris Metalico, similar a nfs prostreet.
-  - SKYLINE: Celeste, similar a nfs prostreet.
+  - Lancer Evo 9: Gris Metalico, similar a nfs prostreet.
+  - Skyline: Celeste, similar a nfs prostreet.
   - Viper: Rojo.
   - Supra: Rojo.
   - CCX: Gris Iridiscente, similar a nfs prostreet.
   - RX7: Celeste Irididcente, similar a nfs prostreet.
-  - MURCIÉLAGO: Amarillo (Añadido en la Rev 3.1.3)
-  - MURCIÉLAGO LP640: Verde Draco (Añadido en la Rev 3.1.3)
+  - Murciélago: Amarillo (Añadido en la Rev 3.1.3)
+  - Murciélago LP640: Verde Draco (Añadido en la Rev 3.1.3)
 - Cámaras mejoradas (Varios Presets).
-- Reajuste de precios para autos vanilla.
-- Presets optimizados de las series de desafío, jefes y compañeros.
+- Cambios de precios (con el fin de acomodar los autos y sus posiciones en la Tienda de Autos).
+- Presets al máximo de la serie de desafíos; jefes y compañeros. (Añadido en la Rev 1.0)
 
 ### Añadido de la Rev 1.0
 
@@ -185,7 +183,7 @@ Este mod no tiene condiciones de distribución. Eres libre de hacer lo que quier
 
 - Por la naturaleza del mod, hay algunos jefes que se vuelven más competitivos por no decir difíciles (sobre todo en el canyon), pero es más que todo, al inicio ya después todo será más "relajado", pues ya me lo pase (con fin de probar mi propio mod) para saber si el juego se volvía insoportable o solo se vuelve un poco más complicado y mi conclusión fue que es 'pasable', el juego no se vuelve injugable (hablo de la ia y la ia de los jefes).
 
-- Este mod es compatible por ahora con el [Improvement Mod V2](https://nfsmods.xyz/mod/855), [Carbon Battle Royale](https://nfsmods.xyz/mod/1211), [Endgame Mod](https://nfsmods.xyz/mod/1039), no lo he probado con otros como Ultimate Mod, pero no creo que sea totalmente incompatible con esos mods al ser una mejora de rendimiento de los autos y no tocar nada del gameplay de esos mods.
+- Este mod actualmente es compatible con varios mods, no lo he probado con otros mods como [Ultimate Mod](https://nfsmods.xyz/mod/5894), pero no creo que sea completamente incompatible con esos mods ya que es un aumento de rendimiento para los autos y no afecta la jugabilidad de esos mods.
 
 - El mod a la hora de instalarse en las versiones para `VlTed Tool` lanzará una excepción en la cual dice `Invalid Parameter Count` eso se debe a que `VlTed` no interpreta los archivos con espacios en sus nombres. Está hecho así para tener compatibilidad con `OVGI` ya con esta no ocurrirá ningún fallo (no que yo sepa, cabe recalcar)
 
@@ -208,8 +206,8 @@ P: ¿Planeas actualizar los autos Add-On del CBR?
 R: No.
 
 P: ¿Se puede actualizar el mod después de instalarlo por primera vez?
-R: Sí, aunque recomiendo hacerlo con el juego recién instalado o justo después de instalar el `Improvement Mod`, `Endgame` o el mod `Carbon Battle Royale`, pero sí, puedes reinstalarlo para actualizarlo después de instalarlo por primera vez.
+R: Si, aunque recomiendo hacer esto con una copia nueva del juego o justo después de instalar el `Improvement Mod` por ejemplo, pero si, puedes instalar este mod con una copia del juego con otros mods ya instalados o reinstalarlo para actualizarlo después de instalarlo por primera vez, pero recuerda que después de instalarlo con una partida guardada ya existente, recomiendo encarecidamente hacer una nueva.
 
 ---
 
-"¡Gracias por descargar! Si encuentras errores, reportalos :)"
+"¡Gracias por descargar! Si encuentras errores, avísame en los comentarios :)"
