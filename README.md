@@ -1,12 +1,12 @@
-# Need for Speed Carbon: Performance Rework Mod  
+# NFS Performance Reworking Mod
 
 *By Platanito22*  
 
 ![Documentation/Screenshots/Thumbnail.png](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/Thumbnail.png)  
 
-**⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/README-ES.md)
+**⚠️ NOTE:** English translation provided below / [Spanish version available!](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/README-ES.md)
 
-**⚠️ NOTE:** Changelog available in [Changelog.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/ChangeLog.md)
+**⚠️ NOTE:** [Changelog available!](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/ChangeLog.md)
 
 ---
 
@@ -23,33 +23,27 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
-### 🏎️ Core Improvements
+### 🏎️ Improvements and New Implemented Mechanics 🛠️
 
-- **Performance Improvements**:
-  - Acceleration and top speeds ported from Most Wanted (BMW M3 GTR: 322 KPH → 389 KPH).
+- **Performance Ports**:
+  - Acceleration and top speeds ported from Most Wanted (M3 GTR: 322 KPH → 389 KPH).
   - Enhanced & lighter car handling.
-- **Other Improvements**:
-  - Some car Tiers rejigged.
-  - Price changes (in order to accommodate the position of the cars).
-  - Fixed wheel alignment and some body kit issues.
-
-### 🛠️ Advanced Mechanics
-
 - **"Realistic" Turbo and Supercharger Functionality**
-- **Vehicle Reworks**:  
-  - Complete overhauls (e.g., Alfa Romeo Brera).
-  - Balance changes (e.g., Lamborghini Murciélago: 396 KPH → 393 KPH, but the Lamborghini Murciélago LP640 now has 396 KPH).
-  - Ride height adjustments.
+- **Reworked the performance and handling of some cars**
+- Balance changes (e.g., Lamborghini Murciélago: 396 KPH → 393 KPH, but the Lamborghini Murciélago LP640 now has 396 KPH).
 - Car Conversions (Since Rev 2.2):
   - Greatly improves the overall performance of the car by changing the transmission type (e.g. FWD to AWD).
-
 - Restored original drift physics for `Carbon Battle Royale` [Since Rev 3.0]
+- **Other Adjustments and/or Corrections**:
+  - Some car Tiers rejigged.
+  - Ride height adjustments.
+  - Fixed wheel alignment and some body kit issues.
 
 ---
 
-## 📷Comparatives
+## 📷 Comparative images
 
 ![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.jpg) 
 ![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.jpg)
@@ -82,7 +76,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ---
 
-## ⚙️ Installation  
+## 📚 Installation Options
 
 There are several options for VlTed and OVGI:
 (make a backup of the files before installing the mod you know)
@@ -91,13 +85,13 @@ There are several options for VlTed and OVGI:
 
 2. There is a `.nfsms` that installs the performance of all cars instantly.
 
-3. And finally there is a folder that says `Optionals` that are just added and another that says `Cameras` which is the camera configuration that I use to play the game I put them there in case you want to try them :)
+3. Finally, there is a folder called `Optionals` in which there are several scripts for general use (I mean by general use any nfs carbon with or without mods) or specific for certain mods and several camera presets.
 
-### 👣 Steps
+### ⚙️ How do I install it?
 
 **Choose Installation Method**:
 
-- All in One: With `Ovgi` or `Vlted`, go to the `File` section, after `Import`, select the `ModScript` option and select the `All in 1.nfsms` file, after that a box will appear with the `Install` button, when finished go back to `File` and press `Save` and that's it!
+- All in 1: With `Ovgi` or `Vlted` go to the `File` section, after `Import` select the `ModScript` option and select the `All in 1.nfsms` file, after that a box will appear with the `Install` button and several options, select the corresponding ones for example: for the `Improvement Mod V2` mod select the tool used at that moment and the option to install it also on the add-on cars (same applies to the other options inside the installer and the other scripts like `Optionals` for example), when you finish go back to `File` and press `Save` and that's it!
 
 - Manual Selection: Individual `.nfsms` files for each vanilla car and some with exclusive bodykits from `Cabon Battle Royale` and `Improvement Mod V2`, the installation as in `All in 1`.
 
@@ -107,17 +101,17 @@ There are several options for VlTed and OVGI:
 
 - New colors: (Applied with binary).
   - Carrera GT: Real-life silver.
-  - Lancer EVO IX: Metallic gray, similar to NFS ProStreet.
-  - SKYLINE: Light blue, similar to NFS ProStreet.
+  - Lancer Evo 9: Metallic gray, similar to NFS ProStreet.
+  - Skyline: Light blue, similar to NFS ProStreet.
   - Viper: Red.
   - Supra: Red.
   - CCX: Iridescent gray, similar to NFS ProStreet.
   - RX7: Iridescent light blue, similar to NFS ProStreet.
-  - MURCIÉLAGO: Yellow (Added on Rev 3.1.3)
-  - MURCIÉLAGO LP640: Draco Green (Added on Rev 3.1.3)
+  - Murciélago: Yellow (Added on Rev 3.1.3)
+  - Murciélago LP640: Draco Green (Added on Rev 3.1.3)
 - Improved Cameras (Various presets)
-- Reprice for Vanilla Cars
-- Maxed Presets From Challenge Series, Bosses & Wingmans
+- Price changes (in order to accommodate cars and their positions in the Car Lot).
+- Maxed Out Presets for Challenge Series; Bosses and Wingman. (Added on Rev 1.0)
 
 ### Added Rev 1.0
 
