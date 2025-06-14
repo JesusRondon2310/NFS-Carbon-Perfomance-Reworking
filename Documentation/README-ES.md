@@ -17,7 +17,7 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 ### 🏎️ Mejoras Principales
 
 - **Mejoras de Rendimiento**:
-  - Aceleración y velocidades máximas porteadas desde Most Wanted (M3 GTR: 322kph → 389kph).
+  - Aceleración y velocidades máximas porteadas desde Most Wanted (M3 GTR: 322 KPH → 389 KPH).
   - Manejo del vehículo mejorado y más ligero.
 - **Otras Mejoras**:
   - Algunos Niveles de autos reacomodados.
@@ -30,7 +30,7 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 - **Reajustes de Vehículos**:
   - Se reajustaron algunos niveles de autos.
   - Revisiones completas (ej. Alfa Romeo Brera).
-  - Cambios de balance, buff/nerf (ej. Lamborghini Murciélago: 396 kph → 390 kph, pero el Lamborghini Murciélago LP640 ahora tiene los 396 kph).
+  - Cambios de balance, buff/nerf (ej. Lamborghini Murciélago: 396 KPH → 393 KPH, pero el Lamborghini Murciélago LP640 ahora tiene los 396 KPH).
   - Ajustes de altura de los autos.
 - Conversiones de vehículos (desde la versión Rev 2.2):
   - Mejora considerablemente el rendimiento general del vehículo al cambiar el tipo de transmisión (p. ej., de tracción delantera a tracción total).
