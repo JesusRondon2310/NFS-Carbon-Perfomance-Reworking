@@ -2,7 +2,7 @@
 
 *By Platanito22*  
 
-![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/Thumbnail.png)  
+![Documentation/Screenshots/Thumbnail.png](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/Thumbnail.png)  
 
 **⚠️ NOTE:** English translation provided below/Spanish version available in [README-ES.md](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/README-ES.md)
 
@@ -51,12 +51,10 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ## 📷Comparatives
 
-![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.png)  
-![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.png)  
-![Screenshots\6.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/6.png)  
-![Screenshots\7.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/7.png)  
-![Screenshots\8.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/8.png)  
-![Screenshots\9.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/9.png)
+![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.jpg) 
+![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.jpg)
+![Screenshots\3.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/3.jpg)
+![Screenshots\4.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/4.jpg)
 
 ---
 
@@ -115,6 +113,8 @@ There are several options for VlTed and OVGI:
   - Supra: Red.
   - CCX: Iridescent gray, similar to NFS ProStreet.
   - RX7: Iridescent light blue, similar to NFS ProStreet.
+  - MURCIÉLAGO: Yellow (Added on Rev 3.1.3)
+  - MURCIÉLAGO LP640: Draco Green (Added on Rev 3.1.3)
 - Improved Cameras (Various presets)
 - Reprice for Vanilla Cars
 - Maxed Presets From Challenge Series, Bosses & Wingmans
@@ -144,7 +144,8 @@ There are several options for VlTed and OVGI:
 ### Added in Rev 3.1.3
 
 1. Three new scripts have been added to the `Optionals` folder for the `Endgame` mod.
-2. Two new camera presets have been added:
+2. Added two new colors for Lamborghini Murciélago & Lamborghini Murciélago LP640.
+3. Two new camera presets have been added:
 
 - `Most Wanted Cameras`: This preset has been ported directly from `Need for Speed ​​Most Wanted` with exactly the same values; there are no differences.
 
@@ -240,6 +241,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┣ 📜CCX.bin
  ┃ ┃ ┃ ┣ 📜install_binary.end
  ┃ ┃ ┃ ┣ 📜LANCEREVO9.bin
+ ┃ ┃ ┃ ┣ 📜MURCIELAGO.bin
+ ┃ ┃ ┃ ┣ 📜MURCIELAGO640.bin
  ┃ ┃ ┃ ┣ 📜RX7.bin
  ┃ ┃ ┃ ┣ 📜SKYLINE.bin
  ┃ ┃ ┃ ┣ 📜SUPRA.bin
