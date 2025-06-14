@@ -99,7 +99,7 @@ There are several options for VlTed and OVGI:
 
 ### 🎨 Optional Add-ons
 
-- New colors: (Applied with binary).
+- New colors: (Applied with binary):
   - Carrera GT: Real-life silver.
   - Lancer Evo 9: Metallic gray, similar to NFS ProStreet.
   - Skyline: Light blue, similar to NFS ProStreet.
