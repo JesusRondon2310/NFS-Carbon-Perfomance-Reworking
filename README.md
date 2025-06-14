@@ -129,7 +129,7 @@ There are several options for VlTed and OVGI:
 
 1. Two new scripts for the game's cameras have been added to the `Optionals` folder.
 2. Added scripts for compatibility with the `Endgame` mod.
-3. Added a markdown with instructions for navigating between files (only readme.md from the `.7z file`).
+3. Added a markdown with instructions for navigating between files (only `.md` from the `.7z file`).
 
 ### Added in Rev 3.1.2
 
@@ -861,7 +861,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
 ### ⛔ Distribution Policy
 
 This mod has no distribution conditions. You are free to do whatever you want with it, but if you plan to use it as a base or in mod packs, you must give credit:
-'Example: Based on Platanito22's mod [Nfs Carbon Performance Reworking], Modified by (your name)'
+'Example: Based on Platanito22's mod [NFS Carbon Performance Reworking], Modified by (your name)'
 
 - **Allowed**:
 - Mod packs and derivatives
