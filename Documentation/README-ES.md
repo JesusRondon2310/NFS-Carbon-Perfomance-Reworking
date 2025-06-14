@@ -93,7 +93,7 @@ Hay varias opciones para VlTed y OVGI:
 
 ## 🎨 Complementos Opcionales
 
-- Nuevos colores: (Aplicado con binary).
+- Nuevos colores: (Aplicado con binary):
   - Carrera GT: Plateado similar a la vida real.
   - Lancer Evo 9: Gris Metalico, similar a nfs prostreet.
   - Skyline: Celeste, similar a nfs prostreet.
