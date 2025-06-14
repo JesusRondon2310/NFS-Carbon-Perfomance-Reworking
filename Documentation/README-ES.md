@@ -39,22 +39,12 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 
 ---
 
-## 🔄 Cambios en Nodos
+## 📷Comparatives
 
-- Brakes
-- Caraudio
-- Chassis
-- Ecar
-- Engine
-- Engineaudio
-- Frontend
-- Gameplay (Desde la Rev 3.0 `Solo CBR`)
-- Induction
-- Pvehicle
-- Presetride
-- Shiftpattern (Solo Para El BMW M3 GTR)
-- Tires
-- Transmission
+![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.jpg) 
+![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.jpg)
+![Screenshots\3.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/3.jpg)
+![Screenshots\4.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/4.jpg)
 
 ---
 
@@ -158,6 +148,25 @@ Hay varias opciones para VlTed y OVGI:
 *Para los interesados en saber más:*
 
 Bien, Hablando del apartado de [Funcionamiento "Realista" De Turbos y Supercargadores] pues si como en los turbos en la vida real este mod viene a replicarlos trayendo consigo el famoso y tenebroso [Turbo-Lag], pero no es tanto como te lo estás imaginando, ósea, no tarda 5 días hábiles en cargar el turbo como si pasa en la vida real, es más gameplay friendly, ósea el efecto final que quería lograr trayendo el turbo lag no es el tiempo que se toma en cargar el turbo si no la patada que da el turbo al estar al 100% de funcionamiento, si quieres saber de qué me guie para replicarlo aquí te dejo un link a un video de YouTube de un dyno con [métricas](https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB), como pudieron apreciar si vieron el video, el funcionamiento del turbo lag es similar con este mod, el turbo se activa a cierto régimen de revoluciones (cada auto tiene uno propio) y la patada del turbo es notoria cuando llega al 100% de uso, puede ver el funcionamiento con un [hud personalizado](https://nfsmods.xyz/mod/1903) o [usar el que yo ocupo](https://nfsmods.xyz/mod/6169), pero es eso a lo que me refiero con turbo lag y por si quieres saber el Supercharger no tiene turbolag, pero no está roto.
+
+---
+
+## 🔄 Cambios en Nodos
+
+- Brakes
+- Caraudio
+- Chassis
+- Ecar
+- Engine
+- Engineaudio
+- Frontend
+- Gameplay (Desde la Rev 3.0 `Solo CBR`)
+- Induction
+- Pvehicle
+- Presetride
+- Shiftpattern (Solo Para El BMW M3 GTR)
+- Tires
+- Transmission
 
 ---
 
