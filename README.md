@@ -28,7 +28,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 ### 🏎️ Core Improvements
 
 - **Performance Improvements**:
-  - Acceleration and top speeds ported from Most Wanted (BMW M3 GTR: 322kph → 389kph).
+  - Acceleration and top speeds ported from Most Wanted (BMW M3 GTR: 322 KPH → 389 KPH).
   - Enhanced & lighter car handling.
 - **Other Improvements**:
   - Some car Tiers rejigged.
@@ -40,7 +40,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 - **"Realistic" Turbo and Supercharger Functionality**
 - **Vehicle Reworks**:  
   - Complete overhauls (e.g., Alfa Romeo Brera).
-  - Balance changes (e.g., Lamborghini Murciélago: 396 kph → 390 kph, but the Lamborghini Murciélago LP640 now has 396 kph).
+  - Balance changes (e.g., Lamborghini Murciélago: 396 kph → 393 KPH, but the Lamborghini Murciélago LP640 now has 396 KPH).
   - Ride height adjustments.
 - Car Conversions (Since Rev 2.2):
   - Greatly improves the overall performance of the car by changing the transmission type (e.g. FWD to AWD).
