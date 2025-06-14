@@ -113,6 +113,8 @@ Hay varias opciones para VlTed y OVGI:
   - Supra: Rojo.
   - CCX: Gris Iridiscente, similar a nfs prostreet.
   - RX7: Celeste Irididcente, similar a nfs prostreet.
+  - MURCIÉLAGO: Amarillo (Añadido en la Rev 3.1.3)
+  - MURCIÉLAGO LP640: Verde Draco (Añadido en la Rev 3.1.3)
 - Cámaras mejoradas (Varios Presets).
 - Reajuste de precios para autos vanilla.
 - Presets optimizados de las series de desafío, jefes y compañeros.
@@ -142,7 +144,8 @@ Hay varias opciones para VlTed y OVGI:
 ### Añadido de la Rev 3.1.3
 
 1. Se agregaron tres nuevos scripts a la carpeta `Optionals` para el mod `Endgame`.
-2. Se agregaron dos nuevos presets de cámaras:
+2. Se agregaron dos nuevos colores para Lamborghini Murciélago y Lamborghini Murciélago LP640.
+3. Se agregaron dos nuevos presets de cámaras:
 
 - `Most Wanted Cameras`: este preset se ha porteado directamente de `Need for Speed ​​Most Wanted` con exactamente las mismos valores; no hay diferencias.
 
