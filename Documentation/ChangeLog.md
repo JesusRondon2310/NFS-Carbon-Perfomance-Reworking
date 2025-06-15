@@ -1,3 +1,34 @@
+# 🧾 [Rev 3.1.4 Changelog] - 15/06/2025
+
+`Rev 3.1.4 [Pre-Release]` Balance changes; minor fixes and testing.
+
+## ⚖️ Balance changes
+
+- #### Mercedes-McLaren SLR:
+  - Better Handling `+`
+  - Small Acceleration Nerf `-`
+- #### Lamborghini Gallardo:
+  - Better Handling `+`
+  - Better Accelerations `+`
+  - Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
+- #### Lamborghini Murciélago: Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
+- #### Lamborghini Murciélago LP640: Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
+
+
+## 🔄 Changed
+
+- Custom sounds for some cars have been removed from scripts to create an abstraction process coming soon.
+
+## 🔧 Fixed
+
+- Fixed a bug with the `Lotus Europa S` which did not have the turbo that should have been installed by default.
+
+## ✏️ NOTES
+
+This version is a small hotfix making new changes and others that I had forgotten to include in the previous version.
+
+---
+
 # 🧾 [Rev 3.1.3 Changelog] - 13/06/2025
 
 `Rev 3.1.3` Balance changes; Added new features and Testing of other mods.
