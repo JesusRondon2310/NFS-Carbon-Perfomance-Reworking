@@ -1,31 +1,47 @@
-# 🧾 [Rev 3.1.4 Changelog] - 15/06/2025
+# 🧾 [Rev 3.2 Changelog] - 15/06/2025
 
-`Rev 3.1.4 [Pre-Release]` Balance changes; minor fixes and testing.
+`Rev 3.2 [Pre-Release]` Balance changes; minor fixes and testing.
 
 ## ⚖️ Balance changes
 
+- #### Dodge Viper:
+  - Top Speed Returned to a Previous State (392 KPH -> 388 KPH) `<=`
+  - Acceleration Buff `+`
 - #### Mercedes-McLaren SLR:
   - Better Handling `+`
-  - Small Acceleration Nerf `-`
+  - Small Nerf to Acceleration `-`
+- #### Mitsubishi Lancer Evolution 9: Small Nerf to Top Speed (383 KPH -> 382 KPH) `-`
 - #### Lamborghini Gallardo:
   - Better Handling `+`
   - Better Accelerations `+`
   - Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
 - #### Lamborghini Murciélago: Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
 - #### Lamborghini Murciélago LP640: Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
-
+- #### Porsche Carrera GT: 
+  - Small Buff to Acceleration `+`
+  - Top Speed Returned to a Previous State (390 KPH -> 388 KPH) `<=`
+- #### Toyota Supra MK4: Small Acceleration Buff `+`
+- #### Subaru Impreza WRX STi (GDB-F):
+  - Small Buff to Acceleration `+`
+  - Top Speed Returned to a Previous State (378 KPH -> 377 KPH) `<=`
+- #### Volkswagen Golf R32:
+  - Handling Rebalance `=`
+  - Performance Rebalance `=`
+  - More Turbo-Lag `-`
 
 ## 🔄 Changed
 
 - Custom sounds for some cars have been removed from scripts to create an abstraction process coming soon.
-
+- `>` Modify the alignment of the body kits from the `Volkswagen Golf R32`.
+- `>` Modify the alignment of the body kits; the wheel size and the height of the `Mitsubihsi Eclipse GT`.
 ## 🔧 Fixed
 
 - Fixed a bug with the `Lotus Europa S` which did not have the turbo that should have been installed by default.
+- Fixed bug in the `Initial Release` with the `Volkswagen Golf R32` which caused the car to be front-wheel drive instead of all-wheel drive.
 
 ## ✏️ NOTES
 
-This version is a small hotfix making new changes and others that I had forgotten to include in the previous version.
+This version is a small hotfix making new changes and others that I had forgotten to include in the previous version (Lamborghini Murciélago & Lamborghini Murciélago LP640).
 
 ---
 
@@ -65,7 +81,7 @@ This version is a small hotfix making new changes and others that I had forgotte
   - Top Speed Nerf (397 KPH -> 393 KPH) `-`
   - Less Turbo-Lag `+`
 - #### Lamborghini Murciélago LP640:
-  - Top Speed Nerf (397 KPH -> 396 KPH) `-`
+  - Small Nerf to Top Speed (397 KPH -> 396 KPH) `-`
   - Acceleration Buff `+`
 
 
