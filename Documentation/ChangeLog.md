@@ -1,6 +1,6 @@
 # 🧾 [Rev 3.2 Changelog] - 17/06/2025
 
-`Rev 3.2 [Pre-Release]` Balance changes; minor fixes and testing.
+`Rev 3.2 [Latest-Release]` Balance changes; minor fixes and testing.
 
 ## ⚖️ Balance changes
 
