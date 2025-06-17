@@ -57,7 +57,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 - Need for Speed Carbon (v1.4 recommended)  
 - Modding Tools:  
   - [VlTed v4.6](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)  
-  - [OVGI v1.4](https://nfsmods.xyz/mod/5290)
+  - [OGVI v1.4](https://nfsmods.xyz/mod/5290)
   - [Binary v2.9.0](https://nfsmods.xyz/mod/1638) 
 
 ### 🔎 Compatibility   
@@ -69,6 +69,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 - [Endgame Mod (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/1039)
 - [NFSC: MW'05 shiftpattern/ShiftSND Port by ElNico (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/6237)
 - [[NFSMW-WORLD] Steering Options Universal Pack by ElNico (Since Rev 3.0.1 Latest)](https://www.nfsaddons.com/downloads/nfsc/tools/9745/nfsmw-world-steering-options-universal-pack.html)
+- [Custom Turbo & Supercharger by Frexellia (Since Rev 3.2 on Github for Now)](https://nfsmods.xyz/mod/2464)
 
 ❌ Untested/Unconfirmed:  
 
@@ -78,7 +79,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ## 📚 Installation Options
 
-There are several options for VlTed and OVGI:
+There are several options for VlTed and OGVI:
 (make a backup of the files before installing the mod you know)
 
 1. Each Car has a `.nfsms`, so you can try each one individually.
@@ -183,31 +184,19 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┣ 📂Files
  ┃ ┣ 📂Installer
  ┃ ┃ ┣ 📂Screenshots
- ┃ ┃ ┃ ┣ 📜blower_superchager.jpg
  ┃ ┃ ┃ ┣ 📜dday.jpg
- ┃ ┃ ┃ ┣ 📜ford_gt_supercharger.jpg
- ┃ ┃ ┃ ┣ 📜hellcat_supercharger.jpg
  ┃ ┃ ┃ ┣ 📜Installer_Thumbnail.jpg
  ┃ ┃ ┃ ┣ 📜melissa.jpg
  ┃ ┃ ┃ ┣ 📜rx7.jpg
  ┃ ┃ ┃ ┗ 📜tarkovsky.jpg
- ┃ ┃ ┣ 📂SuperchargerSFX
- ┃ ┃ ┃ ┣ 📂OVGI
- ┃ ┃ ┃ ┃ ┣ 📜Supercharger BattleRoyale.nfsms
- ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2 AddOns.nfsms
- ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and Endgame.nfsms
- ┃ ┃ ┃ ┣ 📂VLT
- ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2_AddOns.nfsms
- ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and_Endgame.nfsms
- ┃ ┃ ┃ ┗ 📜_CreateNode.nfsms
- ┃ ┃ ┣ 📜_AddOn_Cars OVGI.nfsms
+ ┃ ┃ ┣ 📜_AddOn_Cars OGVI.nfsms
  ┃ ┃ ┣ 📜_AddOn_Cars_VLT.nfsms
  ┃ ┃ ┣ 📜_Battle_Royale Patch.nfsms
- ┃ ┃ ┣ 📜_Endgame_Mod OVGI.nfsms
+ ┃ ┃ ┣ 📜_Endgame_Mod OGVI.nfsms
  ┃ ┃ ┣ 📜_Endgame_Mod_VLT.nfsms
- ┃ ┃ ┣ 📜_Improvement_Mod_V2 OVGI.nfsms
+ ┃ ┃ ┣ 📜_Improvement_Mod_V2 OGVI.nfsms
  ┃ ┃ ┣ 📜_Improvement_Mod_V2_VLT.nfsms
- ┃ ┃ ┣ 📜_Vanilla OVGI.nfsms
+ ┃ ┃ ┣ 📜_Vanilla OGVI.nfsms
  ┃ ┃ ┗ 📜_Vanilla_VLT.nfsms
  ┃ ┣ 📂Optionals
  ┃ ┃ ┣ 📂Cameras
@@ -231,16 +220,19 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┣ 📜ChallengeSeriesPresets_Max.nfsms
  ┃ ┃ ┃ ┗ 📜ChallengeSeriesPreset_Def.nfsms
  ┃ ┃ ┣ 📂Recolors
- ┃ ┃ ┃ ┣ 📜CARRERAGT.bin
- ┃ ┃ ┃ ┣ 📜CCX.bin
- ┃ ┃ ┃ ┣ 📜install_binary.end
- ┃ ┃ ┃ ┣ 📜LANCEREVO9.bin
- ┃ ┃ ┃ ┣ 📜MURCIELAGO.bin
- ┃ ┃ ┃ ┣ 📜MURCIELAGO640.bin
- ┃ ┃ ┃ ┣ 📜RX7.bin
- ┃ ┃ ┃ ┣ 📜SKYLINE.bin
- ┃ ┃ ┃ ┣ 📜SUPRA.bin
- ┃ ┃ ┃ ┗ 📜VIPER.bin
+ ┃ ┃ ┃ ┣ 📂Colors
+ ┃ ┃ ┃ ┃ ┣ 📂_Alternative
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO640.bin
+ ┃ ┃ ┃ ┃ ┣ 📜CARRERAGT.bin
+ ┃ ┃ ┃ ┃ ┣ 📜CCX.bin
+ ┃ ┃ ┃ ┃ ┣ 📜LANCEREVO9.bin
+ ┃ ┃ ┃ ┃ ┣ 📜MURCIELAGO.bin
+ ┃ ┃ ┃ ┃ ┣ 📜MURCIELAGO640.bin
+ ┃ ┃ ┃ ┃ ┣ 📜RX7.bin
+ ┃ ┃ ┃ ┃ ┣ 📜SKYLINE.bin
+ ┃ ┃ ┃ ┃ ┣ 📜SUPRA.bin
+ ┃ ┃ ┃ ┃ ┗ 📜VIPER.bin
+ ┃ ┃ ┃ ┗ 📜Main.end
  ┃ ┃ ┗ 📜Reprice.nfsms
  ┃ ┗ 📂Reworking
  ┃ ┃ ┣ 📂CarbonBattleRoyale
@@ -250,6 +242,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
  ┃ ┃ ┃ ┣ 📂BMWM3GTR
  ┃ ┃ ┃ ┃ ┗ 📜BMW_M3_GTR_E46_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┣ 📂ChevroletCamaro65
+ ┃ ┃ ┃ ┃ ┗ 📜LSX_65_CAMARO_PERFORMACE.nfsms
  ┃ ┃ ┃ ┣ 📂ChevroletChevelleSS
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CHEVELLE.nfsms
  ┃ ┃ ┃ ┣ 📂ChevroletCorvetteZ06
@@ -276,6 +270,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_CCX.nfsms
  ┃ ┃ ┃ ┣ 📂LamborghiniGallardo
  ┃ ┃ ┃ ┃ ┗ 📜GALLARDO_MW_PERFORMACE.nfsms
+ ┃ ┃ ┃ ┣ 📂LamborghiniMurcielago
+ ┃ ┃ ┃ ┃ ┗ 📜MURCIELAGO_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂LexusIS300
  ┃ ┃ ┃ ┃ ┗ 📜IS300_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂LotusElise
@@ -325,10 +321,12 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┣ 📂CarConverions
  ┃ ┃ ┃ ┣ 📂Mazdaspeed3
  ┃ ┃ ┃ ┃ ┗ 📜MAZDASPEED3_AWD.nfsms
- ┃ ┃ ┃ ┗ 📂MitsubishiEclipse
+ ┃ ┃ ┃ ┣ 📂MitsubishiEclipse
  ┃ ┃ ┃ ┃ ┗ 📜ECLIPSE_AWD.nfsms
+ ┃ ┃ ┃ ┗ 📂MitsubishiEclipseGT
+ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_AWD.nfsms
  ┃ ┃ ┣ 📂Endgame
- ┃ ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┣ 📂OGVI
  ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
  ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiLeMans
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜LEMANS_R8_BETTER_PERFORMACE.nfsms
@@ -407,7 +405,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┗ 📂PontiacGTO
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┣ 📂ImprovementModV2
- ┃ ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┣ 📂OGVI
  ┃ ┃ ┃ ┃ ┣ 📂Add-OnCars
  ┃ ┃ ┃ ┃ ┃ ┣ 📂AudiA3
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜AUDI_A3.nfsms
@@ -490,6 +488,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂VolkswagenGolfR32
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCorvetteZ06
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_MitsubishiEclipseGS-T
@@ -507,6 +507,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
@@ -598,6 +600,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_COROLLA.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaMR2
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_MR2.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂VolkswagenGolfR32
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_R32.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_ChevroletCorvetteZ06
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CORVETTE_Z06_MW_SIMILAR_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂_MitsubishiEclipseGS-T
@@ -615,6 +619,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RX7_MW_PERFORMACE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂Mercedes-BenzCLK500
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLK500_MW_PERFORMANCE.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGT
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ECLIPSEGT_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂PontiacGTO
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_GTO.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂ToyotaSupra
@@ -624,7 +630,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┗ 📂_RenaultCLioV6
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜CLIO_MW_PERFORMACE.nfsms
  ┃ ┃ ┗ 📂Vanilla
- ┃ ┃ ┃ ┣ 📂OVGI
+ ┃ ┃ ┃ ┣ 📂OGVI
  ┃ ┃ ┃ ┃ ┣ 📂CarbonCars
  ┃ ┃ ┃ ┃ ┃ ┣ 📂AlfaRomeoBrera
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_BRERA.nfsms
@@ -850,9 +856,47 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┣ 📜Car Conversions.nfsms
  ┣ 📜Optionals.nfsms
  ┣ 📜Recolors.end
- ┣ 📜Supercharger SFX.nfsms
  ┣ 📜_Navegar Dentro de la Carpeta Files.md
  ┣ 📜_Navigate in the Files Folder.md
+ ┣ 📜_README-ES.md
+ ┗ 📜_README.md
+```
+```
+📦Custom Sounds
+ ┣ 📂1. Car Sounds
+ ┃ ┣ 📂Files
+ ┃ ┃ ┣ 📂CarSounds
+ ┃ ┃ ┃ ┣ 📂OGVI
+ ┃ ┃ ┃ ┃ ┗ 📜_CarSounds OGVI.nfsms
+ ┃ ┃ ┃ ┗ 📂VLT
+ ┃ ┃ ┃ ┃ ┗ 📜_CarSounds_VLT.nfsms
+ ┃ ┃ ┗ 📂_Installer
+ ┃ ┃ ┃ ┣ 📂CarSounds
+ ┃ ┃ ┃ ┃ ┣ 📜_CreateNode_CarSounds_CBR.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📜_CreateNode_CarSounds_IMPV2.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜_CreateNode_CarSounds_Vanilla.nfsms
+ ┃ ┃ ┃ ┣ 📂Screenshots
+ ┃ ┃ ┃ ┃ ┣ 📜exhaust.jpg
+ ┃ ┃ ┃ ┃ ┗ 📜Installer_Thumbnail.jpg
+ ┃ ┃ ┃ ┗ 📜_Primary_Node.nfsms
+ ┃ ┗ 📜CarSounds.nfsms
+ ┣ 📂2. Supercharger SFX
+ ┃ ┣ 📂Files
+ ┃ ┃ ┣ 📂SuperchargerSFX
+ ┃ ┃ ┃ ┣ 📂OGVI
+ ┃ ┃ ┃ ┃ ┣ 📜Supercharger BattleRoyale.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2 AddOns.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and Endgame.nfsms
+ ┃ ┃ ┃ ┗ 📂VLT
+ ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2_AddOns.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and_Endgame.nfsms
+ ┃ ┃ ┗ 📂_Installer
+ ┃ ┃ ┃ ┗ 📂Screenshots
+ ┃ ┃ ┃ ┃ ┣ 📜blower_superchager.jpg
+ ┃ ┃ ┃ ┃ ┣ 📜ford_gt_supercharger.jpg
+ ┃ ┃ ┃ ┃ ┣ 📜hellcat_supercharger.jpg
+ ┃ ┃ ┃ ┃ ┗ 📜Installer_Thumbnail.jpg
+ ┃ ┗ 📜Supercharger SFX.nfsms
  ┣ 📜_README-ES.md
  ┗ 📜_README.md
 ```
@@ -875,7 +919,7 @@ This mod has no distribution conditions. You are free to do whatever you want wi
 
 - This mod is currently compatible with several mods, I haven't tested it with other mods like Ultimate, but I don't think it's completely incompatible with those mods since it's a performance boost for the cars and doesn't affect any of the gameplay of those mods.
 
-- When installing the mod on versions for `VlTed Tool`, it will throw an exception saying `Invalid Parameter Count`. This is because `VlTed` doesn't interpret files with spaces in their names. This is done to be compatible with `OVGI`, and with this one, no errors will occur (not that I know of, it should be noted).
+- When installing the mod on versions for `VlTed Tool`, it will throw an exception saying `Invalid Parameter Count`. This is because `VlTed` doesn't interpret files with spaces in their names. This is done to be compatible with `OGVI`, and with this one, no errors will occur (not that I know of, it should be noted).
 
 - Finally, the mod does not affect the car in any way without upgrades, it will remain the same as the vanilla game, the improvements will be reflected when maxed out the cars.
 
