@@ -51,7 +51,7 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 - Need for Speed Carbon (versión 1.4 recomendada)  
 - Herramientas de modding:  
   - [VlTed v4.6](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)  
-  - [OVGI v1.4](https://nfsmods.xyz/mod/5290)
+  - [OGVI v1.4](https://nfsmods.xyz/mod/5290)
   - [Binary v2.9.0](https://nfsmods.xyz/mod/1638)
 
 ### 🔎 Compatibilidad
@@ -63,6 +63,7 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 - [Endgame Mod (Desde Rev 3.1 Latest)](https://nfsmods.xyz/mod/1039)
 - [NFSC: MW'05 shiftpattern/ShiftSND Port by ElNico (Desde Rev 3.1 Latest)](https://nfsmods.xyz/mod/6237)
 - [[NFSMW-WORLD] Steering Options Universal Pack by ElNico (Desde Rev 3.1 Latest)](https://www.nfsaddons.com/downloads/nfsc/tools/9745/nfsmw-world-steering-options-universal-pack.html)
+- [Custom Turbo & Supercharger by Frexellia (Desde Rev 3.2 en Github por Ahora)](https://nfsmods.xyz/mod/2464)
 
 ❌ No probado/Sin confirmar:
 
@@ -72,7 +73,7 @@ Bueno eso es lo que este mod viene a hacer, en resumen portear y mejorar el rend
 
 ## 📚 Opciones de Instalacion
 
-Hay varias opciones para VlTed y OVGI:
+Hay varias opciones para VlTed y OGVI:
 (haz una copia de seguridad de los archivos antes de instalar el mod, ya sabes)
 
 1. Cada auto tiene un `.nfsms` propio, así que puedes probar cada uno individualmente.
@@ -185,7 +186,7 @@ Este mod no tiene condiciones de distribución. Eres libre de hacer lo que quier
 
 - Este mod actualmente es compatible con varios mods, no lo he probado con otros mods como [Ultimate Mod](https://nfsmods.xyz/mod/5894), pero no creo que sea completamente incompatible con esos mods ya que es un aumento de rendimiento para los autos y no afecta la jugabilidad de esos mods.
 
-- El mod a la hora de instalarse en las versiones para `VlTed Tool` lanzará una excepción en la cual dice `Invalid Parameter Count` eso se debe a que `VlTed` no interpreta los archivos con espacios en sus nombres. Está hecho así para tener compatibilidad con `OVGI` ya con esta no ocurrirá ningún fallo (no que yo sepa, cabe recalcar)
+- El mod a la hora de instalarse en las versiones para `VlTed Tool` lanzará una excepción en la cual dice `Invalid Parameter Count` eso se debe a que `VlTed` no interpreta los archivos con espacios en sus nombres. Está hecho así para tener compatibilidad con `OGVI` ya con esta no ocurrirá ningún fallo (no que yo sepa, cabe recalcar)
 
 - Finalmente, el mod no afecta al auto de ninguna manera sin mejoras, seguirá siendo igual que el juego original, las mejoras se reflejarán cuando se mejoren al máximo los autos.
 
