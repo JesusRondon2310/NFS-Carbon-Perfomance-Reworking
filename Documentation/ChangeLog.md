@@ -61,6 +61,8 @@
 
 This version is a small hotfix making new changes and others that I had forgotten to include in the previous version (Lamborghini Murciélago & Lamborghini Murciélago LP640).
 
+P.S: I corrected a small error with the name OGVI, it was previously called OVGI, honestly I've been using that tool for a long time and now I realize what it's called, honestly when I realized I was laughing for like half an hour or something like that 😂😂.
+
 ---
 
 # 🧾 [Rev 3.1.3 Changelog] - 13/06/2025
@@ -215,14 +217,14 @@ P.S. And if you've made it this far and are still reading, I can only thank you.
   - Chrysler 300C SRT-8
   - Infinity G35
   - Pontiac GTO
-- Fixed bug when installing the `Chrysler 300C SRT-8` script from `Improvement Mod V2`. [VLT, OVGI]
-- Fixed bug when installing the `Mazda RX-7` script from `Improvement Mod V2`. [VLT, OVGI]
-- Fixed bug when installing the `Mercedes-Benz CLK-500 AMG` script from `Improvement Mod V2`. [VLT, OVGI]
-- Fixed bug when installing the `Ford GT` script from `Improvement Mod V2`. [VLT, OVGI]
-- Fixed bug when installing the `Ford GT` script from `Battle Royale Mod`. [OVGI]
-- Fixed bug when installing the `Dodge Charger SRT-8` script from `Battle Royale Mod`. [OVGI]
-- Fixed bug when installing the `Mercedes-Benz CLK-500 AMG` script from `Battle Royale Mod`. [OVGI]
-- Fixed bug when installing the `Audi LeMans` script from `Endgame`. [OVGI]
+- Fixed bug when installing the `Chrysler 300C SRT-8` script from `Improvement Mod V2`. [VLT, OGVI]
+- Fixed bug when installing the `Mazda RX-7` script from `Improvement Mod V2`. [VLT, OGVI]
+- Fixed bug when installing the `Mercedes-Benz CLK-500 AMG` script from `Improvement Mod V2`. [VLT, OGVI]
+- Fixed bug when installing the `Ford GT` script from `Improvement Mod V2`. [VLT, OGVI]
+- Fixed bug when installing the `Ford GT` script from `Battle Royale Mod`. [OGVI]
+- Fixed bug when installing the `Dodge Charger SRT-8` script from `Battle Royale Mod`. [OGVI]
+- Fixed bug when installing the `Mercedes-Benz CLK-500 AMG` script from `Battle Royale Mod`. [OGVI]
+- Fixed bug when installing the `Audi LeMans` script from `Endgame`. [OGVI]
 
 ---
 
@@ -395,7 +397,7 @@ P.S. And if you've made it this far and are still reading, I can only thank you.
 - Fixed a bug with the Pagani Zonda-F, which would not upgrade. [Vanilla, Improvement Mod, CBR]
 - Fixed a bug with the Mitsubishi Eclipse GSX conversion, where the upgrade would slow down in the base state but not when upgrading. [CBR]
 - Fixed a bug with the Toyota MR2 transmission, which would not reach 6th gear. [Vanilla]
-- Fixed a bug with the Plymouth Roadrunner that caused engine torque to be incorrect [OVGI: Vanilla]
+- Fixed a bug with the Plymouth Roadrunner that caused engine torque to be incorrect [OGVI: Vanilla]
 - Fixed some bodykits:
   - Nissan Skyline [Vanilla, Improvement Mod]
   - Toyota MR2 [CBR]
@@ -530,7 +532,7 @@ The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on t
 - Bug fix when installing the Lamborghini Murcielago LP640 `.nfsms`
 - Bug fix when installing the `Updates.nfsms`
 
-### OVGI
+### OGVI
 
 - Bug fix when installing the Lotus Europa S `.nfsms`
 - Bug fix when installing the Infiniti G35 `.nfsms`
@@ -710,7 +712,7 @@ I tried to fix the bodykits in 2 separate updates because as you know, the `Impr
   - Toyota Corolla (Initial Release Fix)
 - Fixed bug in Toyota MR2 transmission which only went up to 5th gear
 
-### OVGI
+### OGVI
 
 - Fixed bug when installing Aston Martin DB9 `.nfsms`
 
