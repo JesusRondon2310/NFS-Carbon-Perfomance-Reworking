@@ -1,4 +1,4 @@
-# 🧾 [Rev 3.2 Changelog] - 15/06/2025
+# 🧾 [Rev 3.2 Changelog] - 17/06/2025
 
 `Rev 3.2 [Pre-Release]` Balance changes; minor fixes and testing.
 
@@ -10,6 +10,12 @@
 - #### Mercedes-McLaren SLR:
   - Better Handling `+`
   - Small Nerf to Acceleration `-`
+- #### Mitsubishi Eclipse GT: `-+ Conversion +-`
+  - Performance Rebalance `=`
+  - More Turbo-Lag `-`
+  - Turbo Operation Regime Decreased (5200 - 5100 RPM -> 4800 RPM) `+`
+  - Buff to Handling `+`
+  - Transmission changed from FWD to AWD `=>`
 - #### Mitsubishi Lancer Evolution 9: Small Nerf to Top Speed (383 KPH -> 382 KPH) `-`
 - #### Lamborghini Gallardo:
   - Better Handling `+`
@@ -17,13 +23,19 @@
   - Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
 - #### Lamborghini Murciélago: Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
 - #### Lamborghini Murciélago LP640: Turbo Operation Regime Decreased (6200 RPM -> 6000 RPM) `+`
+- #### Porsche 911 GT3 RS (997):
+  - Performance Rebalance `=`
+  - Buff to Handling `+`
+  - More Turbo-Lag `-`
+  - Turbo Operation Regime Decreased (7000 RPM -> 6200 RPM) `+`
+  - The engine now revs higher (8200 RPM -> 9000 RPM) `=`
 - #### Porsche Carrera GT: 
   - Small Buff to Acceleration `+`
   - Top Speed Returned to a Previous State (390 KPH -> 388 KPH) `<=`
-- #### Toyota Supra MK4: Small Acceleration Buff `+`
 - #### Subaru Impreza WRX STi (GDB-F):
   - Small Buff to Acceleration `+`
   - Top Speed Returned to a Previous State (378 KPH -> 377 KPH) `<=`
+- #### Toyota Supra MK4: Small Acceleration Buff `+`
 - #### Volkswagen Golf R32:
   - Handling Rebalance `=`
   - Performance Rebalance `=`
@@ -31,13 +43,19 @@
 
 ## 🔄 Changed
 
-- Custom sounds for some cars have been removed from scripts to create an abstraction process coming soon.
+- The custom sounds from most scripts and the `Supercharger SFX` script have been deconstructed and split into different files now called `Plugins` downloadable only here on Github.
+- Added `Chevrolet Camaro 1965` to the `Carbon Battle Royale` folder as compatibility script.
+- Added `Mitsubihsi Eclipse GT` and `Volkswagen Golf R32` to the `Improvement Mod V2` folder as compatibility scripts.
+- The binary script to recolor cars has been modified with an option to choose between the uncorrected and corrected color tones: `Draco Green (Alternative)` and `Draco Green`, the latter being the first option chosen by default in the installer.
 - `>` Modify the alignment of the body kits from the `Volkswagen Golf R32`.
 - `>` Modify the alignment of the body kits; the wheel size and the height of the `Mitsubihsi Eclipse GT`.
+
 ## 🔧 Fixed
 
+- The `Draco Green` color tone of the `Lamborghini Murciélago LP640` has been corrected, which was more yellowish compared to the new one, which is more greenish.
 - Fixed a bug with the `Lotus Europa S` which did not have the turbo that should have been installed by default.
 - Fixed bug in the `Initial Release` with the `Volkswagen Golf R32` which caused the car to be front-wheel drive instead of all-wheel drive.
+- Fixed bug with `SuperchargerSFX` installer script [VLT]
 
 ## ✏️ NOTES
 
