@@ -1,4 +1,4 @@
-# 🧾 [Rev 3.2 Changelog] - 17/06/2025
+# 🧾 [Rev 3.2 Changelog] - 18/06/2025
 
 `Rev 3.2 [Latest-Release]` Balance changes; minor fixes and testing.
 
@@ -47,6 +47,9 @@
 - Added `Chevrolet Camaro 1965` to the `Carbon Battle Royale` folder as compatibility script.
 - Added `Mitsubihsi Eclipse GT` and `Volkswagen Golf R32` to the `Improvement Mod V2` folder as compatibility scripts.
 - The binary script to recolor cars has been modified with an option to choose between the uncorrected and corrected color tones: `Draco Green (Alternative)` and `Draco Green`, the latter being the first option chosen by default in the installer.
+- Removed the `Nissan 240SX` file from the `Carbon Battle Royale` folder.
+- Renamed `Nissan 240SX` file to `BETTER_240SX.nfsms`.
+- `>` Changes on the height of the `Toyota Supra MK4`.
 - `>` Modify the alignment of the body kits from the `Volkswagen Golf R32`.
 - `>` Modify the alignment of the body kits; the wheel size and the height of the `Mitsubihsi Eclipse GT`.
 
@@ -56,6 +59,7 @@
 - Fixed a bug with the `Lotus Europa S` which did not have the turbo that should have been installed by default.
 - Fixed bug in the `Initial Release` with the `Volkswagen Golf R32` which caused the car to be front-wheel drive instead of all-wheel drive.
 - Fixed bug with `SuperchargerSFX` installer script [VLT]
+- Fixed `Infiniti G35` body kit alignment. [OGVI, Improvement Mod V2]
 
 ## ✏️ NOTES
 
