@@ -148,7 +148,7 @@ There are several options for VlTed and OGVI:
 
 ### Added in Rev 3.2.1
 
-1. Added a new `Script` to the `Optionals` folder that unlocks all bonus cars in the car lot `(ONLY FOR NFS PERFORMANCE REWORKING MOD)`..
+1. Added a new `Script` to the `Optionals` folder that unlocks all bonus cars in the car lot `(ONLY FOR NFS PERFORMANCE REWORKING MOD)`.
 2. Added a new `Add-on` to the `Plugins` folder that makes `Yumi & Sal` faster.
 3. Added a new `Add-on` to the `Plugins` folder called `Difficulty Selector`.
 
