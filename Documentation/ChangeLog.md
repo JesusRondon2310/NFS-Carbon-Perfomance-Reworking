@@ -1,3 +1,32 @@
+# 🧾 [Rev 3.2.1 Changelog] - 27/10/2025
+
+`Rev 3.2.1` Added new features; minor fixes and testing.
+
+## ⚖️ Balance changes
+
+- #### Nothing Here for Now...
+
+## 🔄 Changed
+
+- Maxed out the `BMW M3 GTR` preset. `[Vanilla]`
+- Maxed out the `Cross Corvette` preset. `[Vanilla, Endgame, CBR]`
+- `>` Modified the engine sound of the `Corvette C6.R` to a flatter sound. `[IMPV2]`
+- `>` Added a new `Script` to the `Options` folder that unlocks all bonus cars in the car lot.
+- `>` Added a new `Add-on` to the `Plugins` folder that makes `Yumi & Sal` faster. Thanks to user: [ArcySeguraGaming#7880](https://nfsmods.xyz/user/7880) for reporting it!
+- `>` Added a new `Add-on` to the `Plugins` folder called `Difficulty Selector` to avoid the high difficulty that some users have reported when installing the mod. Thanks to user: [Zethras#9810](https://nfsmods.xyz/user/9810) for reporting it!
+
+## 🔧 Fixed
+
+- Fixed small delay when shifting gears. `[IMPV2]`
+- Fixed the sound of the `BMW Strassenversion and GTR` which did not have the tranny sound. `[IMPV2]`
+- Fixed a bug that caused the `Aston Martin DB9` to be Tier 2 instead of Tier 3.
+
+## ✏️ NOTES
+
+This version may be the last one I release, as I won't have enough time to dedicate to it. If you encounter a bug, please be aware that I most likely won't be able to respond or fix it. If I don't see any more reported bugs, I'll upload this version to the mod pages as the latest version.
+
+---
+
 # 🧾 [Rev 3.2 Changelog] - 18/06/2025
 
 `Rev 3.2 [Latest-Release]` Balance changes; minor fixes and testing.
@@ -730,3 +759,4 @@ The modification and/or fix to the bodykits is only for the vanilla version, I'm
 
 🧾 Changelog
 . initial version release 05/03/25
+
