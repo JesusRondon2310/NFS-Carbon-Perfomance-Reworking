@@ -138,7 +138,11 @@ Hay varias opciones para VlTed y OGVI:
 
 - `Most Wanted Cameras`: este preset se ha porteado directamente de `Need for Speed ​​Most Wanted` con exactamente las mismos valores; no hay diferencias.
 
-- `Most Wantes Cameras Rework`: Basado en `Most Wantes Cameras`, este preset modifica el FOV para una mejor sensación de velocidad.
+- `Most Wanted Cameras Rework`: Basado en `Most Wanted Cameras`, este preset modifica el FOV para una mejor sensación de velocidad.
+
+### Añadido de la Rev 3.2.1
+
+1. Se agregaron un nuevo script a la carpeta `Optionals` para desbloquear los autos bonus en el lote de autos `(SOLO PARA NFS PERFORMANCE REWORKING MOD)`.
 
 ---
 
@@ -197,7 +201,7 @@ Este mod no tiene condiciones de distribución. Eres libre de hacer lo que quier
 P: ¿Actualizarán este mod?
 R: Probablemente sí.
 
-P: ¿Este mod mejora el rendimiento de los autos adicionales del Mod de Mejora?
+P: ¿Este mod mejora el rendimiento de los autos adicionales del `Improvement Mod`?
 R: Desde la Rev. 2.0
 
 P: ¿Es normal que al instalar el mod Audi LeMans o M3 GTR me aparezca un error?
@@ -212,3 +216,4 @@ R: Si, aunque recomiendo hacer esto con una copia nueva del juego o justo despu�
 ---
 
 "¡Gracias por descargar! Si encuentras errores, avísame en los comentarios :)"
+
