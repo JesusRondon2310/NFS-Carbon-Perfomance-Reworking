@@ -146,6 +146,12 @@ There are several options for VlTed and OGVI:
 
 - `Most Wanted Cameras Rework`: Based on `Most Wanted Cameras`, this preset modifies the FOV for a better sense of speed.
 
+### Added in Rev 3.2.1
+
+1. Added a new `Script` to the `Optionals` folder that unlocks all bonus cars in the car lot.
+2. Added a new `Add-on` to the `Plugins` folder that makes `Yumi & Sal` faster.
+3. Added a new `Add-on` to the `Plugins` folder called `Difficulty Selector`.
+
 ---
 
 ## ⚠️ Important Notes
@@ -233,7 +239,8 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┣ 📜SUPRA.bin
  ┃ ┃ ┃ ┃ ┗ 📜VIPER.bin
  ┃ ┃ ┃ ┗ 📜Main.end
- ┃ ┃ ┗ 📜Reprice.nfsms
+ ┃ ┃ ┣ 📜Reprice.nfsms
+ ┃ ┃ ┗ 📜Unlock.nfsms
  ┃ ┗ 📂Reworking
  ┃ ┃ ┣ 📂CarbonBattleRoyale
  ┃ ┃ ┃ ┣ 📂AstonMartinDB9
@@ -286,8 +293,6 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┗ 📜SLR_MW_PERFORMANCE.nfsms
  ┃ ┃ ┃ ┣ 📂MitsubishiEclipseGS-T
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_ECLIPSE.nfsms
- ┃ ┃ ┃ ┣ 📂Nissan240SX
- ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
  ┃ ┃ ┃ ┣ 📂PaganiZonda-F
  ┃ ┃ ┃ ┃ ┗ 📜BETTER_ZONDA.nfsms
  ┃ ┃ ┃ ┣ 📂PlymouthHemiCuda
@@ -671,7 +676,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan240SX
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_240SX.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
@@ -782,7 +787,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┃ ┣ 📂MitsubishiLancerEvolution9
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜evo9_10k_rpm.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan240SX
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜240SX_RB26_SWAP.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_240SX.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂Nissan350Z
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜BETTER_350Z.nfsms
  ┃ ┃ ┃ ┃ ┃ ┣ 📂NissanSkylineR34
@@ -861,44 +866,112 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┣ 📜_README-ES.md
  ┗ 📜_README.md
 ```
+
 ```
-📦Custom Sounds
- ┣ 📂1. Car Sounds
- ┃ ┣ 📂Files
- ┃ ┃ ┣ 📂CarSounds
- ┃ ┃ ┃ ┣ 📂OGVI
- ┃ ┃ ┃ ┃ ┗ 📜_CarSounds OGVI.nfsms
- ┃ ┃ ┃ ┗ 📂VLT
- ┃ ┃ ┃ ┃ ┗ 📜_CarSounds_VLT.nfsms
- ┃ ┃ ┗ 📂_Installer
+📦Plugins
+ ┣ 📂Custom Sounds
+ ┃ ┣ 📂1. Car Sounds
+ ┃ ┃ ┣ 📂Files
  ┃ ┃ ┃ ┣ 📂CarSounds
- ┃ ┃ ┃ ┃ ┣ 📜_CreateNode_CarSounds_CBR.nfsms
- ┃ ┃ ┃ ┃ ┣ 📜_CreateNode_CarSounds_IMPV2.nfsms
- ┃ ┃ ┃ ┃ ┗ 📜_CreateNode_CarSounds_Vanilla.nfsms
- ┃ ┃ ┃ ┣ 📂Screenshots
- ┃ ┃ ┃ ┃ ┣ 📜exhaust.jpg
- ┃ ┃ ┃ ┃ ┗ 📜Installer_Thumbnail.jpg
- ┃ ┃ ┃ ┗ 📜_Primary_Node.nfsms
- ┃ ┗ 📜CarSounds.nfsms
- ┣ 📂2. Supercharger SFX
+ ┃ ┃ ┃ ┃ ┣ 📂OGVI
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜_CarSounds OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂VLT
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜_CarSounds_VLT.nfsms
+ ┃ ┃ ┃ ┗ 📂_Installer
+ ┃ ┃ ┃ ┃ ┣ 📂CarSounds
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜_CreateNode_CarSounds CBR.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜_CreateNode_CarSounds_Vanilla.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Screenshots
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜exhaust.jpg
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Installer_Thumbnail.jpg
+ ┃ ┃ ┃ ┃ ┗ 📜_Primary_Node.nfsms
+ ┃ ┃ ┗ 📜CarSounds.nfsms
+ ┃ ┣ 📂2. Supercharger SFX
+ ┃ ┃ ┣ 📂Files
+ ┃ ┃ ┃ ┣ 📂SuperchargerSFX
+ ┃ ┃ ┃ ┃ ┣ 📂OGVI
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Supercharger BattleRoyale.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2 AddOns.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and Endgame.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂VLT
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2_AddOns.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and_Endgame.nfsms
+ ┃ ┃ ┃ ┗ 📂_Installer
+ ┃ ┃ ┃ ┃ ┗ 📂Screenshots
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜blower_superchager.jpg
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜ford_gt_supercharger.jpg
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜hellcat_supercharger.jpg
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Installer_Thumbnail.jpg
+ ┃ ┃ ┗ 📜Supercharger SFX.nfsms
+ ┃ ┣ 📜_README-ES.md
+ ┃ ┗ 📜_README.md
+ ┣ 📂Difficulty Selector
  ┃ ┣ 📂Files
- ┃ ┃ ┣ 📂SuperchargerSFX
+ ┃ ┃ ┣ 📂DifficultySelector
  ┃ ┃ ┃ ┣ 📂OGVI
- ┃ ┃ ┃ ┃ ┣ 📜Supercharger BattleRoyale.nfsms
- ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2 AddOns.nfsms
- ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and Endgame.nfsms
- ┃ ┃ ┃ ┗ 📂VLT
- ┃ ┃ ┃ ┃ ┣ 📜Supercharger_Impv2_AddOns.nfsms
- ┃ ┃ ┃ ┃ ┗ 📜Supercharger_Vanilla_and_Endgame.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂CBR
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Create Nodes.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Easy OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜No One Can Touch Me..nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Normal OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂Endgame
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Create Nodes.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Easy OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜No One Can Touch Me..nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Normal OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂ImprovementModV2
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Create Nodes.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Easy OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜No One Can Touch Me..nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Normal OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂Vanilla
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Create Nodes.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Easy OGVI.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜No One Can Touch Me..nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜Normal OGVI.nfsms
+ ┃ ┃ ┃ ┗ 📂VlTed
+ ┃ ┃ ┃ ┃ ┣ 📂Endgame
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Create_Nodes.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Easy.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Normal.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜No_One_Can_Touch_Me..nfsms
+ ┃ ┃ ┃ ┃ ┣ 📂ImprovementModV2
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Create_Nodes.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Easy.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Normal.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜No_One_Can_Touch_Me..nfsms
+ ┃ ┃ ┃ ┃ ┗ 📂Vanilla
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Create_Nodes.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Easy.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜Normal.nfsms
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜No_One_Can_Touch_Me..nfsms
  ┃ ┃ ┗ 📂_Installer
  ┃ ┃ ┃ ┗ 📂Screenshots
- ┃ ┃ ┃ ┃ ┣ 📜blower_superchager.jpg
- ┃ ┃ ┃ ┃ ┣ 📜ford_gt_supercharger.jpg
- ┃ ┃ ┃ ┃ ┣ 📜hellcat_supercharger.jpg
+ ┃ ┃ ┃ ┃ ┣ 📜diffselector.jpg
  ┃ ┃ ┃ ┃ ┗ 📜Installer_Thumbnail.jpg
- ┃ ┗ 📜Supercharger SFX.nfsms
- ┣ 📜_README-ES.md
- ┗ 📜_README.md
+ ┃ ┣ 📜Selector Installer.nfsms
+ ┃ ┣ 📜_README-ES.md
+ ┃ ┗ 📜_README.md
+ ┗ 📂Yumi & Sal Fix
+ ┃ ┣ 📂Files
+ ┃ ┃ ┣ 📂Fix
+ ┃ ┃ ┃ ┣ 📂OGVI
+ ┃ ┃ ┃ ┃ ┣ 📜Fix CBR.nfsms
+ ┃ ┃ ┃ ┃ ┣ 📜Fix IMPV2.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜Fix OGVI.nfsms
+ ┃ ┃ ┃ ┗ 📂VLT
+ ┃ ┃ ┃ ┃ ┣ 📜Fix.nfsms
+ ┃ ┃ ┃ ┃ ┗ 📜Fix_IMPV2.nfsms
+ ┃ ┃ ┗ 📂_Installer
+ ┃ ┃ ┃ ┣ 📂Binary
+ ┃ ┃ ┃ ┃ ┗ 📜Fix.end
+ ┃ ┃ ┃ ┗ 📂Screenshots
+ ┃ ┃ ┃ ┃ ┣ 📜Installer_Thumbnail.jpg
+ ┃ ┃ ┃ ┃ ┗ 📜pathfinder.png
+ ┃ ┣ 📜Part 1. Fixer (Binary).end
+ ┃ ┣ 📜Part 2. Fixer (OGVI, VLT).nfsms
+ ┃ ┣ 📜_README-ES.md
+ ┃ ┗ 📜_README.md
 ```
 ---
 
