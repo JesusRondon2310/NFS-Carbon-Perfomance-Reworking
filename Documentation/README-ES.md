@@ -142,7 +142,9 @@ Hay varias opciones para VlTed y OGVI:
 
 ### Añadido de la Rev 3.2.1
 
-1. Se agregaron un nuevo script a la carpeta `Optionals` para desbloquear los autos bonus en el lote de autos `(SOLO PARA NFS PERFORMANCE REWORKING MOD)`.
+1. Se agregaron un nuevo `Script` a la carpeta `Optionals` para desbloquear los autos bonus en el lote de autos `(SOLO PARA NFS PERFORMANCE REWORKING MOD)`.
+2. Se añadió un nuevo `Add-on` a la carpeta `Plugins` que mejora el rendimiento de `Yumi y Sal`.
+3. Se añadió un nuevo `Add-on` a la carpeta `Plugins` llamado `Difficulty Selector`.
 
 ---
 
@@ -216,4 +218,5 @@ R: Si, aunque recomiendo hacer esto con una copia nueva del juego o justo despu�
 ---
 
 "¡Gracias por descargar! Si encuentras errores, avísame en los comentarios :)"
+
 
