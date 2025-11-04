@@ -17,7 +17,7 @@
 
 ## 🔧 Fixed
 
-- Fixed small delay when shifting gears. `[IMPV2]`
+- Fixed `BMW M3 GTR` small delay when shifting gears. `[IMPV2]`
 - Fixed the sound of the `BMW Strassenversion and GTR` which did not have the tranny sound. `[IMPV2]`
 - Fixed a bug that caused the `Aston Martin DB9` to be Tier 2 instead of Tier 3.
 
@@ -759,5 +759,6 @@ The modification and/or fix to the bodykits is only for the vanilla version, I'm
 
 🧾 Changelog
 . initial version release 05/03/25
+
 
 
