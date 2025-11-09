@@ -1,6 +1,6 @@
-# 🧾 [Rev 3.2.1 Changelog] - 27/10/2025
+# 🧾 [Rev 3.2.1 Changelog] - 27/10/2025 - 09/11/25
 
-`Rev 3.2.1` Added new features; minor fixes and testing.
+`Rev 3.2.1` Added new features; minor fixes; a major issue in the `Corvette C6.R` was resolved, and testing.
 
 ## ⚖️ Balance changes
 
@@ -17,8 +17,10 @@
 
 ## 🔧 Fixed
 
+- **Important fix: Fixed a serious bug with the `Corvette C6.R`, which caused the game to crash when upgrading and using it, since it shouldn't be able to be upgraded because its upgraded stats come from stock.** Thanks to user: [JvlxD#22563](https://nfsmods.xyz/user/22563) for reporting it! `[VLT]`
 - Fixed `BMW M3 GTR` small delay when shifting gears. `[IMPV2]`
 - Fixed the sound of the `BMW Strassenversion and GTR` which did not have the tranny sound. `[IMPV2]`
+- Fixed a bug with the `Porsche GT3 RS` which did not have turbo when upgraded. `[VLT]`
 - Fixed a bug that caused the `Aston Martin DB9` to be Tier 2 instead of Tier 3.
 
 ## ✏️ NOTES
@@ -759,6 +761,7 @@ The modification and/or fix to the bodykits is only for the vanilla version, I'm
 
 🧾 Changelog
 . initial version release 05/03/25
+
 
 
 
