@@ -1,3 +1,24 @@
+# 🧾 [Rev 3.2.2 Changelog] - 04/02/2026
+
+`Rev 3.2.2` Added new features and minor changes
+
+## ⚖️ Balance changes
+
+- #### Nothing Here for Now...
+
+## 🔄 Changed
+- `>` Added a new add-on to the `Plugins` folder called `Difficulty Selector` that fixes the `Plymouth Road Runner` and other cars that weren't performing as expected. Thanks to user: [JvlxD#22563](https://nfsmods.xyz/user/22563) for reporting it!
+- `>` Added a new `Script` to the `Optionals` folder that unlocks all bonus cars in the car lot for `Carbon Battle Royale`.
+- `>` Modify the alignment of the body kits from the `1967 Shelby GT500`.
+- `>` Changes on the height of the `Chevrolet Corvette C6`.
+- The main mod and the `Plugins` have been unified into a `single folder`.
+
+## 🔧 Fixed
+
+- Fixed a bug with the `Optionals` installer when using the `Unlock All Cars?` option in `Carbon Battle Royale`.
+
+---
+
 # 🧾 [Rev 3.2.1 Changelog] - 27/10/2025 - 09/11/25
 
 `Rev 3.2.1` Added new features; minor fixes; a major issue in the `Corvette C6.R` was resolved, and testing.
@@ -246,7 +267,7 @@ P.S. And if you've made it this far and are still reading, I can only thank you.
 - Body Kits Adjustments:
   - Chevrolet Camaro Concept
   - Shelby Mustang Cobra GT500 '07
-  - Plymouth Roadrunner
+  - Plymouth Road Runner
   - Toyota MR2
   - Chevrolet Chevelle
   - Chrysler 300C SRT-8
@@ -309,7 +330,7 @@ P.S. And if you've made it this far and are still reading, I can only thank you.
 
 - `=` Handling Rebalance
 
-### Plymouth Roadrunner
+### Plymouth Road Runner
 
 - `+` Performance Buff
 - `+` Top Speed Buff (375 -> 381)
@@ -419,7 +440,7 @@ P.S. And if you've made it this far and are still reading, I can only thank you.
 - New audio has been added for the Ford GT.
 - New audio has been added for the Toyota MR2.
 - `>` Changes in the wheel alignment of the Toyota MR2
-- `>` Changes in the wheel alignment and height of the Plymouth Roadrunner
+- `>` Changes in the wheel alignment and height of the Plymouth Road Runner
 - `>` Changes in the height of the Mitsubishi Eclipse
 - `>` Changes in the height of the Porsche 911 GT3 RS
 - `>` Changes in the height of the Dodge Viper SRT-10
@@ -432,7 +453,7 @@ P.S. And if you've made it this far and are still reading, I can only thank you.
 - Fixed a bug with the Pagani Zonda-F, which would not upgrade. [Vanilla, Improvement Mod, CBR]
 - Fixed a bug with the Mitsubishi Eclipse GSX conversion, where the upgrade would slow down in the base state but not when upgrading. [CBR]
 - Fixed a bug with the Toyota MR2 transmission, which would not reach 6th gear. [Vanilla]
-- Fixed a bug with the Plymouth Roadrunner that caused engine torque to be incorrect [OGVI: Vanilla]
+- Fixed a bug with the Plymouth Road Runner that caused engine torque to be incorrect [OGVI: Vanilla]
 - Fixed some bodykits:
   - Nissan Skyline [Vanilla, Improvement Mod]
   - Toyota MR2 [CBR]
@@ -551,7 +572,7 @@ The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on t
   - Ford GT (Rev 1.1)
   - Dodge Viper (Rev 1.1)
   - Dodge Challenger (Rev 1.1)
-  - Plymouth Roadrunner (Rev 1.1)
+  - Plymouth Road Runner (Rev 1.1)
   - Pontiac GTO (Rev 1.1)
   - Lexus IS300 (Rev 1.1)
 - Bug fix with Mazda RX7 which was not affected by the previous balance change
@@ -563,7 +584,7 @@ The `Rev 1.1` brings with it more changes to bodykits and bug fixes focused on t
 - Bug fix when installing the Infiniti G35 `.nfsms`
 - Bug fix when installing the BMW M3 GTR `.nfsms`
 - Bug fix when installing the Pontiac GTO `.nfsms`
-- Bug fix when installing the Plymouth Roadrunner `.nfsms`
+- Bug fix when installing the Plymouth Road Runner `.nfsms`
 - Bug fix when installing the Lamborghini Murcielago LP640 `.nfsms`
 - Bug fix when installing the `Updates.nfsms`
 
@@ -725,7 +746,7 @@ I tried to fix the bodykits in 2 separate updates because as you know, the `Impr
 
 - Bug fix when installing the Mazda RX7 `.nfsms`
 - Bug fix when installing the Mitsubishi Eclipse `.nfsms`
-- Bug fix when installing the Plymouth Roadrunner `.nfsms`
+- Bug fix when installing the Plymouth Road Runner `.nfsms`
 - Bug fix on the `Lamborghini Murcielago LP640` which caused a crash in the game
 - Bug fix when installing the `.nfsms` of the Porsche GT3RS(997)
 - Fix to the bodykits of cars which by the mod were not fixed correctly and several more modified and/or fixed
@@ -761,6 +782,7 @@ The modification and/or fix to the bodykits is only for the vanilla version, I'm
 
 🧾 Changelog
 . initial version release 05/03/25
+
 
 
 
