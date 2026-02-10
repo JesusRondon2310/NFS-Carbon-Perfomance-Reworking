@@ -7,7 +7,7 @@
 - #### Nothing Here for Now...
 
 ## 🔄 Changed
-- `>` Added a new add-on to the `Plugins` folder called `Difficulty Selector` that fixes the `Plymouth Road Runner` and other cars that weren't performing as expected. Thanks to user: [JvlxD#22563](https://nfsmods.xyz/user/22563) for reporting it!
+- `>` Added a new add-on to the `Plugins` folder called `Challenge Series Fix` that fixes the `Plymouth Road Runner` and other cars that weren't performing as expected. Thanks to user: [JvlxD#22563](https://nfsmods.xyz/user/22563) for reporting it!
 - `>` Added a new `Script` to the `Optionals` folder that unlocks all bonus cars in the car lot for `Carbon Battle Royale`.
 - `>` Modify the alignment of the body kits from the `1967 Shelby GT500`.
 - `>` Changes on the height of the `Chevrolet Corvette C6`.
@@ -782,6 +782,7 @@ The modification and/or fix to the bodykits is only for the vanilla version, I'm
 
 🧾 Changelog
 . initial version release 05/03/25
+
 
 
 
