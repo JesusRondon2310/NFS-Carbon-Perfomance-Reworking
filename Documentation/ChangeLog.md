@@ -1,6 +1,6 @@
-# 🧾 [Rev 3.2.2 Changelog] - 04/02/2026
+# 🧾 [Rev 1.0a Changelog] - 04/02/2026 - 10/02/2026
 
-`Rev 3.2.2` Added new features and minor changes
+`Rev 1.0a` Added new features and minor changes
 
 ## ⚖️ Balance changes
 
@@ -11,7 +11,7 @@
 - `>` Added a new `Script` to the `Optionals` folder that unlocks all bonus cars in the car lot for `Carbon Battle Royale`.
 - `>` Modify the alignment of the body kits from the `1967 Shelby GT500`.
 - `>` Changes on the height of the `Chevrolet Corvette C6`.
-- The main mod and the `Plugins` have been unified into a `single folder`.
+- The main mod now has renamed to `Rev 1.0a` from `Rev 3.2.2`
 
 ## 🔧 Fixed
 
@@ -782,6 +782,7 @@ The modification and/or fix to the bodykits is only for the vanilla version, I'm
 
 🧾 Changelog
 . initial version release 05/03/25
+
 
 
 
