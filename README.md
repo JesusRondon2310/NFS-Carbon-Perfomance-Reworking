@@ -1,8 +1,8 @@
 # NFS Carbon Performance Reworking Mod
 
-*By Platanito22*  
+_By Platanito22_
 
-![Documentation/Screenshots/Thumbnail.png](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/Thumbnail.png)  
+![Documentation/Screenshots/Thumbnail.png](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/Thumbnail.png)
 
 **⚠️ NOTE:** English translation provided below / [Spanish version available!](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/README-ES.md)
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔍 Overview  
+## 🔍 Overview
 
 Have you ever imagined what Need for Speed ​​Carbon would be like with the performance of the cars from Most Wanted? Yes, well that's what
 this mod comes to make a reality, it wasn't very disappointing to see how the M3 GTR went from reaching 389 KPH and having amazing maneuverability
@@ -23,7 +23,7 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ---
 
-## 🚀 Features  
+## 🚀 Features
 
 ### 🏎️ Improvements and New Implemented Mechanics 🛠️
 
@@ -33,9 +33,9 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 - **"Realistic" Turbo and Supercharger Functionality**
 - **Reworked the performance and handling of some cars**
 - Balance changes (e.g., Lamborghini Murciélago: 396 KPH → 393 KPH, but the Lamborghini Murciélago LP640 now has 396 KPH).
-- Car Conversions (Since Rev 2.2):
+- Car Conversions:
   - Greatly improves the overall performance of the car by changing the transmission type (e.g. FWD to AWD).
-- Restored original drift physics for `Carbon Battle Royale` [Since Rev 3.0]
+- Restored original drift physics for `Carbon Battle Royale`
 - **Other Adjustments and/or Corrections**:
   - Some car Tiers rejigged.
   - Ride height adjustments.
@@ -45,33 +45,33 @@ the performance of all the Most Wanted cars present in Carbon and the exclusive 
 
 ## 📷 Comparative images
 
-![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.jpg) 
+![Screenshots\1.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/1.jpg)
 ![Screenshots\2.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/2.jpg)
 ![Screenshots\3.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/3.jpg)
 ![Screenshots\4.jpg](https://github.com/JesusRondon2310/Need-for-Speed-Carbon-Perfomance-Rework/blob/main/Documentation/Screenshots/4.jpg)
 
 ---
 
-### 📋 Requirements  
+### 📋 Requirements
 
-- Need for Speed Carbon (v1.4 recommended)  
-- Modding Tools:  
-  - [VlTed v4.6](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)  
+- Need for Speed Carbon (v1.4 recommended)
+- Modding Tools:
+  - [VlTed v4.6](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html)
   - [OGVI v1.4](https://nfsmods.xyz/mod/5290)
-  - [Binary v2.9.0](https://nfsmods.xyz/mod/1638) 
+  - [Binary v2.9.0](https://nfsmods.xyz/mod/1638)
 
-### 🔎 Compatibility   
+### 🔎 Compatibility
 
-✅ Tested/Confirmed Working With:  
+✅ Tested/Confirmed Working With:
 
 - [Improvement Mod v2 (10/01/2025 - onwards)](https://nfsmods.xyz/mod/855)
-- [Carbon Battle Royale 1.2.5 (Since Rev 3.0)](https://nfsmods.xyz/mod/1211)
-- [Endgame Mod (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/1039)
-- [NFSC: MW'05 shiftpattern/ShiftSND Port by ElNico (Since Rev 3.0.1 Latest)](https://nfsmods.xyz/mod/6237)
-- [[NFSMW-WORLD] Steering Options Universal Pack by ElNico (Since Rev 3.0.1 Latest)](https://www.nfsaddons.com/downloads/nfsc/tools/9745/nfsmw-world-steering-options-universal-pack.html)
-- [Custom Turbo & Supercharger by Frexellia (Since Rev 3.2 on Github for Now)](https://nfsmods.xyz/mod/2464)
+- [Carbon Battle Royale 1.2.5](https://nfsmods.xyz/mod/1211)
+- [Endgame Mod](https://nfsmods.xyz/mod/1039)
+- [NFSC: MW'05 shiftpattern/ShiftSND Port by ElNico](https://nfsmods.xyz/mod/6237)
+- [[NFSMW-WORLD] Steering Options Universal Pack by ElNico](https://www.nfsaddons.com/downloads/nfsc/tools/9745/nfsmw-world-steering-options-universal-pack.html)
+- [Custom Turbo & Supercharger by Frexellia](https://nfsmods.xyz/mod/2464)
 
-❌ Untested/Unconfirmed:  
+❌ Untested/Unconfirmed:
 
 - [Ultimate Mod](https://nfsmods.xyz/mod/5894)
 
@@ -108,55 +108,17 @@ There are several options for VlTed and OGVI:
   - Supra: Red.
   - CCX: Iridescent gray, similar to NFS ProStreet.
   - RX7: Iridescent light blue, similar to NFS ProStreet.
-  - Murciélago: Yellow (Added on Rev 3.1.3)
-  - Murciélago LP640: Draco Green (Added on Rev 3.1.3)
+  - Murciélago: Yellow
+  - Murciélago LP640: Draco Green
 - Improved Cameras (Various presets)
 - Price changes (in order to accommodate cars and their positions in the Car Lot).
-- Maxed Out Presets for Challenge Series; Bosses and Wingman. (Added on Rev 1.0)
-
-### Added Rev 1.0
-
-1. In the `Optionals` folder, the option to max the preset cars of the bosses and also their companions was added, as well as the option to max the presets of the cars of the challenge series.
-
-### Added in Rev 2.2
-
-1. A new folder called `CarConversions` has been added for future vehicle improvements, currently only the Mitsubishi Eclipse GS-T.
-
-### Added in Rev 3.0
-
-1. An option to lower the difficulty of drift races in the `Carbon Battle Royale` mod has been added to the `Optionals` folder.
-
-### Added in Rev 3.0.1
-
-1. Two new scripts for the game's cameras have been added to the `Optionals` folder.
-2. Added scripts for compatibility with the `Endgame` mod.
-3. Added a markdown with instructions for navigating between files (only `.md` from the `.7z file`).
-
-### Added in Rev 3.1.2
-
-1. A new feature added: `Supercharger SFX`.
-
-### Added in Rev 3.1.3
-
-1. Three new scripts have been added to the `Optionals` folder for the `Endgame` mod.
-2. Added two new colors for Lamborghini Murciélago & Lamborghini Murciélago LP640.
-3. Two new camera presets have been added:
-
-- `Most Wanted Cameras`: This preset has been ported directly from `Need for Speed ​​Most Wanted` with exactly the same values; there are no differences.
-
-- `Most Wanted Cameras Rework`: Based on `Most Wanted Cameras`, this preset modifies the FOV for a better sense of speed.
-
-### Added in Rev 3.2.1
-
-1. Added a new `Script` to the `Optionals` folder that unlocks all bonus cars in the car lot `(ONLY FOR NFS PERFORMANCE REWORKING MOD)`.
-2. Added a new `Add-on` to the `Plugins` folder that makes `Yumi & Sal` faster.
-3. Added a new `Add-on` to the `Plugins` folder called `Difficulty Selector`.
+- Maxed Out Presets for Challenge Series; Bosses and Wingman.
 
 ---
 
 ## ⚠️ Important Notes
 
-*For those interested in knowing more:*
+_For those interested in knowing more:_
 
 Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turbos in real life, this mod comes to replicate them, bringing with it the famous and scary [Turbo-Lag], but it is not as much as you are imagining, that is, it does not take 5 business days to charge the turbo as it happens in real life, it is more gameplay friendly, that is, the final effect that I wanted to achieve by bringing the turbo lag is not the time it takes to charge the turbo but the kick that the turbo gives when it is at 100% operation, if you want to know what I was guided by to replicate it here I leave you a link to a youtube video of a dyno with [metrics](https://youtu.be/NxL3luSwLL0?si=YlBJ-cxv9e2cjYlB), as you could see if you saw the video the operation of the turbo lag is similar with this mod, the turbo is activated at a certain rpm (each car has its own) and the turbo kick is noticeable when it reaches 100% use, you can see the operation with a custom [hud](https://nfsmods.xyz/mod/1903) or [use the one I use](https://nfsmods.xyz/mod/6169), but that is what I mean by turbo lag and in case you want to know the Supercharger does not have turbo lag, but it is not broken.
 
@@ -171,7 +133,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
 - Engine
 - Engineaudio
 - Frontend
-- Gameplay (Since Rev 3.0 `CBR Only`)
+- Gameplay
 - Induction
 - Pvehicle
 - Presetride
@@ -181,9 +143,9 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
 
 ---
 
-## 📜 Modding Details  
+## 📜 Modding Details
 
-### Modified Files  
+### Modified Files
 
 ```text
 📦NFS Carbon Performance Reworking
@@ -239,8 +201,12 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┃ ┃ ┃ ┣ 📜SUPRA.bin
  ┃ ┃ ┃ ┃ ┗ 📜VIPER.bin
  ┃ ┃ ┃ ┗ 📜Main.end
- ┃ ┃ ┣ 📜Reprice.nfsms
- ┃ ┃ ┗ 📜Unlock.nfsms
+ ┃ ┃ ┣ 📂UnlockAllCars
+ ┃ ┃ ┃ ┣ 📂CBR
+ ┃ ┃ ┃ ┃ ┗ 📜UnlockCBR.nfsms
+ ┃ ┃ ┃ ┗ 📂Vanilla
+ ┃ ┃ ┃ ┃ ┗ 📜Unlock.nfsms
+ ┃ ┃ ┗ 📜Reprice.nfsms
  ┃ ┗ 📂Reworking
  ┃ ┃ ┣ 📂CarbonBattleRoyale
  ┃ ┃ ┃ ┣ 📂AstonMartinDB9
@@ -867,8 +833,17 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┗ 📜_README.md
 ```
 
-```
+```text
 📦Plugins
+ ┣ 📂Challenge Series Fix
+ ┃ ┣ 📂Files
+ ┃ ┃ ┣ 📜CS_CAMARON.bin
+ ┃ ┃ ┣ 📜CS_CCX.bin
+ ┃ ┃ ┣ 📜CS_GT3RS.bin
+ ┃ ┃ ┗ 📜Main.end
+ ┃ ┣ 📜Install.end
+ ┃ ┣ 📜README-ES.md
+ ┃ ┗ 📜README.md
  ┣ 📂Custom Sounds
  ┃ ┣ 📂1. Car Sounds
  ┃ ┃ ┣ 📂Files
@@ -973,6 +948,7 @@ Well, speaking of the ["Realistic" Turbo Functionality] section, well, like turb
  ┃ ┣ 📜_README-ES.md
  ┃ ┗ 📜_README.md
 ```
+
 ---
 
 ### ⛔ Distribution Policy
@@ -1000,20 +976,23 @@ This mod has no distribution conditions. You are free to do whatever you want wi
 
 ## ❓ FAQ
 
-Q: Will you update this mod?
+Q: Will you update this mod?<br>
 A: Probably yes.
 
-Q: This mod buff the performance of the Improvement Mod add-on cars?
+Q: This mod buff the performance of the Improvement Mod add-on cars?<br>
 A: Since Rev 2.0
 
-Q: Is it normal that when installing the Audi Lemans or M3 GTR mod I get an error?
+Q: Is it normal that when installing the Audi Lemans or M3 GTR mod I get an error?<br>
 A: No, it was normal before but I already fixed it in Rev 3.1.2
 
-Q: Are you planning to make an update for the CBR add-on cars?
+Q: Are you planning to make an update for the CBR add-on cars?<br>
 A: No.
 
-Q: Can the mod be updated after being installed the first time?
+Q: Can the mod be updated after being installed the first time?<br>
 A: Yes, although I recommend doing this with a fresh copy of the game or right after installing the `Improvement Mod` for example, but yes, you can install this mod with a copy of the game with other mods already installed or reinstall it to update it after installing it for the first time, but remember that after installing it with an already existing save game, I highly recommend making a new one.
+
+Q: Can I report bugs that are unrelated to the mod?<br>
+A: No, and please don’t ask. Thank you.
 
 ---
 
